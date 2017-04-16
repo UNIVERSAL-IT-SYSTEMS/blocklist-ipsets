@@ -32,8 +32,8 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 190,
-		"common": 185
+		"ips": 189,
+		"common": 184
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
@@ -44,26 +44,26 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 904,
-		"common": 806
+		"ips": 903,
+		"common": 805
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5460,
-		"common": 5460
+		"ips": 5464,
+		"common": 5464
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22288,
-		"common": 6607
+		"ips": 22289,
+		"common": 6613
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10257,
-		"common": 6607
+		"ips": 10260,
+		"common": 6613
 	},
 	{
 		"name": "blocklist_de",
@@ -134,13 +134,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16283,
+		"ips": 16273,
 		"common": 2
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5618,
+		"ips": 5622,
 		"common": 1
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7105,
+		"ips": 7106,
 		"common": 100
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42642,
+		"ips": 42683,
 		"common": 103
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54147,
+		"ips": 54134,
 		"common": 9
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586361,
+		"ips": 9586349,
 		"common": 13
 	},
 	{
@@ -333,7 +333,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34735876,
-		"common": 1353
+		"common": 1354
 	},
 	{
 		"name": "fullbogons",
@@ -447,13 +447,13 @@
 		"name": "iblocklist_isp_att",
 		"category": "organizations",
 		"ips": 55845128,
-		"common": 32
+		"common": 33
 	},
 	{
 		"name": "iblocklist_isp_cablevision",
 		"category": "organizations",
 		"ips": 1787136,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "iblocklist_isp_charter",
@@ -651,7 +651,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 1326
+		"common": 1327
 	},
 	{
 		"name": "snort_ipfilter",
@@ -669,7 +669,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 1256
+		"common": 1254
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -699,7 +699,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 143
+		"common": 144
 	},
 	{
 		"name": "sp_atma",
@@ -722,7 +722,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3166,
+		"ips": 3162,
 		"common": 1
 	},
 	{
@@ -747,7 +747,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 547174,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "stopforumspam_7d",

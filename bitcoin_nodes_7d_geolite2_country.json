@@ -129,7 +129,7 @@
 	},
 	{
 		"code": "FI",
-		"value": 80
+		"value": 81
 	},
 	{
 		"code": "FR",
@@ -280,6 +280,10 @@
 		"value": 1
 	},
 	{
+		"code": "MM",
+		"value": 1
+	},
+	{
 		"code": "MN",
 		"value": 1
 	},
@@ -361,7 +365,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 534
+		"value": 535
 	},
 	{
 		"code": "SA",
@@ -373,7 +377,7 @@
 	},
 	{
 		"code": "SE",
-		"value": 189
+		"value": 190
 	},
 	{
 		"code": "SG",
@@ -405,7 +409,7 @@
 	},
 	{
 		"code": "UA",
-		"value": 213
+		"value": 212
 	},
 	{
 		"code": "US",
