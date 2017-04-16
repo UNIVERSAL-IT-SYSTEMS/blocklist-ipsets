@@ -908,14 +908,14 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 61,
-		"common": 51
+		"ips": 60,
+		"common": 47
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 149,
-		"common": 134
+		"ips": 151,
+		"common": 133
 	},
 	{
 		"name": "xroxy_30d",

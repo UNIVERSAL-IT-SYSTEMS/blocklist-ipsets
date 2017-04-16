@@ -842,14 +842,14 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 61,
+		"ips": 60,
 		"common": 36
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 149,
-		"common": 76
+		"ips": 151,
+		"common": 77
 	},
 	{
 		"name": "xroxy_30d",

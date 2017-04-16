@@ -1766,13 +1766,13 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 61,
-		"common": 11
+		"ips": 60,
+		"common": 9
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 149,
+		"ips": 151,
 		"common": 19
 	},
 	{
