@@ -38,14 +38,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22187,
-		"common": 1
+		"ips": 22238,
+		"common": 2
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19945,
-		"common": 1
+		"ips": 19984,
+		"common": 2
 	},
 	{
 		"name": "dronebl_auto_botnets",

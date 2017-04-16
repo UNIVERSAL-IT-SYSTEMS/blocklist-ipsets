@@ -260,25 +260,25 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2502,
+		"ips": 2500,
 		"common": 29
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6244,
-		"common": 41
+		"ips": 6233,
+		"common": 40
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 44191,
+		"ips": 44194,
 		"common": 55
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 15492,
+		"ips": 15486,
 		"common": 47
 	},
 	{
@@ -296,19 +296,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5926,
-		"common": 41
+		"ips": 5912,
+		"common": 40
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33114,
+		"ips": 33117,
 		"common": 59
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13647,
+		"ips": 13644,
 		"common": 48
 	},
 	{
@@ -338,13 +338,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22187,
+		"ips": 22238,
 		"common": 19
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19945,
+		"ips": 19984,
 		"common": 18
 	},
 	{
@@ -470,19 +470,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11781,
-		"common": 43
+		"ips": 11777,
+		"common": 42
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208310,
+		"ips": 208314,
 		"common": 70
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42680,
+		"ips": 42678,
 		"common": 307
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29284,
+		"ips": 29282,
 		"common": 31
 	},
 	{

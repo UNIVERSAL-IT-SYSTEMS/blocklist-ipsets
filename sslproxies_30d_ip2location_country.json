@@ -65,7 +65,7 @@
 	},
 	{
 		"code": "CL",
-		"value": 8
+		"value": 7
 	},
 	{
 		"code": "CN",
@@ -81,7 +81,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 107
+		"value": 106
 	},
 	{
 		"code": "EC",
@@ -329,7 +329,7 @@
 	},
 	{
 		"code": "TW",
-		"value": 53
+		"value": 52
 	},
 	{
 		"code": "UA",
@@ -337,7 +337,7 @@
 	},
 	{
 		"code": "US",
-		"value": 1273
+		"value": 1272
 	},
 	{
 		"code": "VE",

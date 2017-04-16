@@ -101,7 +101,7 @@
 	},
 	{
 		"code": "CH",
-		"value": 99
+		"value": 100
 	},
 	{
 		"code": "CL",
@@ -113,7 +113,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 3463
+		"value": 3461
 	},
 	{
 		"code": "CO",
@@ -201,7 +201,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 830
+		"value": 831
 	},
 	{
 		"code": "GE",
@@ -237,7 +237,7 @@
 	},
 	{
 		"code": "HK",
-		"value": 116
+		"value": 117
 	},
 	{
 		"code": "HN",
@@ -497,7 +497,7 @@
 	},
 	{
 		"code": "RO",
-		"value": 888
+		"value": 889
 	},
 	{
 		"code": "RS",
@@ -505,7 +505,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 6979
+		"value": 6980
 	},
 	{
 		"code": "RW",

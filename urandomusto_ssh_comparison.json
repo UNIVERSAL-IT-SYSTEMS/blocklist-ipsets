@@ -80,13 +80,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22187,
-		"common": 172
+		"ips": 22238,
+		"common": 173
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19945,
+		"ips": 19984,
 		"common": 163
 	},
 	{

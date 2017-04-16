@@ -116,14 +116,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22187,
-		"common": 202
+		"ips": 22238,
+		"common": 203
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19945,
-		"common": 173
+		"ips": 19984,
+		"common": 174
 	},
 	{
 		"name": "dronebl_auto_botnets",

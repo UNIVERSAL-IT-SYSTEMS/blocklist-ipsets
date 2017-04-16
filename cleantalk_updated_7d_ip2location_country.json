@@ -69,7 +69,7 @@
 	},
 	{
 		"code": "CH",
-		"value": 41
+		"value": 42
 	},
 	{
 		"code": "CL",
@@ -205,11 +205,11 @@
 	},
 	{
 		"code": "IN",
-		"value": 42
+		"value": 41
 	},
 	{
 		"code": "IQ",
-		"value": 6
+		"value": 7
 	},
 	{
 		"code": "IR",
@@ -221,7 +221,7 @@
 	},
 	{
 		"code": "IT",
-		"value": 33
+		"value": 32
 	},
 	{
 		"code": "JP",
@@ -361,7 +361,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 3122
+		"value": 3119
 	},
 	{
 		"code": "RW",

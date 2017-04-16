@@ -73,7 +73,7 @@
 	},
 	{
 		"code": "CL",
-		"value": 205
+		"value": 204
 	},
 	{
 		"code": "CM",
@@ -193,11 +193,11 @@
 	},
 	{
 		"code": "IN",
-		"value": 42
+		"value": 41
 	},
 	{
 		"code": "IQ",
-		"value": 6
+		"value": 7
 	},
 	{
 		"code": "IR",
@@ -209,7 +209,7 @@
 	},
 	{
 		"code": "IT",
-		"value": 28
+		"value": 27
 	},
 	{
 		"code": "JM",
@@ -325,7 +325,7 @@
 	},
 	{
 		"code": "PA",
-		"value": 25
+		"value": 26
 	},
 	{
 		"code": "PE",
@@ -361,7 +361,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 2515
+		"value": 2513
 	},
 	{
 		"code": "RW",
