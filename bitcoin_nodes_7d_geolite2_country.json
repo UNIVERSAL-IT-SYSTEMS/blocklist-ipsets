@@ -77,7 +77,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 301
+		"value": 302
 	},
 	{
 		"code": "CO",
@@ -117,7 +117,7 @@
 	},
 	{
 		"code": "EE",
-		"value": 11
+		"value": 10
 	},
 	{
 		"code": "EG",
@@ -137,7 +137,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 544
+		"value": 545
 	},
 	{
 		"code": "GE",
@@ -193,7 +193,7 @@
 	},
 	{
 		"code": "IR",
-		"value": 6
+		"value": 5
 	},
 	{
 		"code": "IS",
@@ -357,7 +357,7 @@
 	},
 	{
 		"code": "RO",
-		"value": 44
+		"value": 45
 	},
 	{
 		"code": "RS",
@@ -413,7 +413,7 @@
 	},
 	{
 		"code": "US",
-		"value": 2646
+		"value": 2647
 	},
 	{
 		"code": "VE",
