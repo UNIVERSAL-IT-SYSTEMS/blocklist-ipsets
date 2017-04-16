@@ -50,7 +50,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 896,
+		"ips": 898,
 		"common": 1
 	},
 	{
@@ -62,13 +62,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146131,
+		"ips": 146135,
 		"common": 1
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586171,
+		"ips": 9586198,
 		"common": 1
 	},
 	{

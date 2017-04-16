@@ -44,43 +44,43 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 188,
-		"common": 188
+		"ips": 187,
+		"common": 187
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 896,
-		"common": 896
+		"ips": 893,
+		"common": 893
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5489,
-		"common": 3099
+		"ips": 5493,
+		"common": 3100
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6608,
-		"common": 3273
+		"ips": 6600,
+		"common": 3268
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22280,
+		"ips": 22283,
 		"common": 4364
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10261,
-		"common": 3679
+		"ips": 10267,
+		"common": 3678
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44359,
+		"ips": 44308,
 		"common": 1
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42642,
+		"ips": 42637,
 		"common": 72
 	},
 	{
@@ -302,25 +302,25 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54087,
+		"ips": 53864,
 		"common": 7
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146131,
+		"ips": 146135,
 		"common": 23
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586171,
+		"ips": 9586198,
 		"common": 9
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29292,
+		"ips": 29287,
 		"common": 1
 	},
 	{

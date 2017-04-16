@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44359,
+		"ips": 44308,
 		"common": 23
 	},
 	{
@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13344,
+		"ips": 13370,
 		"common": 3
 	},
 	{
@@ -224,19 +224,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54087,
+		"ips": 53864,
 		"common": 25
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146131,
+		"ips": 146135,
 		"common": 22
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586171,
+		"ips": 9586198,
 		"common": 473
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "iblocklist_cruzit_web_attacks",
 		"category": "attacks",
-		"ips": 6777,
+		"ips": 6780,
 		"common": 2
 	},
 	{

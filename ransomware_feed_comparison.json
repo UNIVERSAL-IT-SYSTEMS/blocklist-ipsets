@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44359,
+		"ips": 44308,
 		"common": 22
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13344,
+		"ips": 13370,
 		"common": 85
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11703,
+		"ips": 11784,
 		"common": 1
 	},
 	{
@@ -374,19 +374,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54087,
+		"ips": 53864,
 		"common": 25
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146131,
+		"ips": 146135,
 		"common": 21
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586171,
+		"ips": 9586198,
 		"common": 374
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "iblocklist_cruzit_web_attacks",
 		"category": "attacks",
-		"ips": 6777,
+		"ips": 6780,
 		"common": 4
 	},
 	{
@@ -718,6 +718,12 @@
 		"category": "malware",
 		"ips": 1034,
 		"common": 28
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 5833,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
