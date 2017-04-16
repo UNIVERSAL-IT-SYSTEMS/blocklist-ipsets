@@ -56,14 +56,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44418,
-		"common": 752
+		"ips": 44139,
+		"common": 749
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9204,
-		"common": 752
+		"ips": 9183,
+		"common": 749
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -111,7 +111,7 @@
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 16277,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "botscout_7d",
@@ -303,7 +303,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 208331,
-		"common": 109
+		"common": 108
 	},
 	{
 		"name": "firehol_level1",
@@ -314,8 +314,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53409,
-		"common": 752
+		"ips": 53135,
+		"common": 749
 	},
 	{
 		"name": "firehol_level3",
@@ -327,7 +327,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9586157,
-		"common": 495
+		"common": 494
 	},
 	{
 		"name": "firehol_webclient",
@@ -345,7 +345,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095697,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "gpf_comics",
@@ -357,7 +357,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1082,
-		"common": 96
+		"common": 97
 	},
 	{
 		"name": "haley_ssh",
@@ -399,7 +399,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 34
+		"common": 33
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -435,13 +435,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 39
+		"common": 38
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 56
+		"common": 57
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -518,8 +518,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 8130,
-		"common": 73
+		"ips": 8412,
+		"common": 71
 	},
 	{
 		"name": "nullsecure",
@@ -699,7 +699,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 73
+		"common": 72
 	},
 	{
 		"name": "spamhaus_drop",
@@ -717,13 +717,13 @@
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 161377,
-		"common": 53
+		"common": 52
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 288363,
-		"common": 72
+		"common": 71
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -741,7 +741,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 547174,
-		"common": 136
+		"common": 135
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -753,7 +753,7 @@
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 162492,
-		"common": 54
+		"common": 53
 	},
 	{
 		"name": "stopforumspam_toxic",

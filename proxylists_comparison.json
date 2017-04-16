@@ -32,20 +32,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44418,
-		"common": 136
+		"ips": 44139,
+		"common": 137
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 240,
+		"ips": 241,
 		"common": 10
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24695,
-		"common": 126
+		"ips": 24501,
+		"common": 127
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -236,8 +236,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53409,
-		"common": 137
+		"ips": 53135,
+		"common": 138
 	},
 	{
 		"name": "firehol_level3",
@@ -440,8 +440,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 8130,
-		"common": 31
+		"ips": 8412,
+		"common": 32
 	},
 	{
 		"name": "openbl_180d",

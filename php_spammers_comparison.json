@@ -14,13 +14,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44418,
+		"ips": 44139,
 		"common": 26
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24695,
+		"ips": 24501,
 		"common": 26
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53409,
+		"ips": 53135,
 		"common": 26
 	},
 	{
@@ -296,8 +296,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 8130,
-		"common": 8
+		"ips": 8412,
+		"common": 7
 	},
 	{
 		"name": "php_commenters_30d",

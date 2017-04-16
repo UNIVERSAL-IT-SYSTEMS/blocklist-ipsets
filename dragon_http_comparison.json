@@ -164,32 +164,32 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44418,
-		"common": 17
+		"ips": 44139,
+		"common": 16
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9204,
+		"ips": 9183,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 752,
+		"ips": 749,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4802,
+		"ips": 4813,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24695,
-		"common": 9
+		"ips": 24501,
+		"common": 8
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53409,
+		"ips": 53135,
 		"common": 782
 	},
 	{
@@ -740,7 +740,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 8130,
+		"ips": 8412,
 		"common": 3
 	},
 	{

@@ -13,7 +13,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 3
+		"value": 4
 	},
 	{
 		"code": "CA",
@@ -37,7 +37,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 14
+		"value": 13
 	},
 	{
 		"code": "CZ",
@@ -45,7 +45,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 15
+		"value": 16
 	},
 	{
 		"code": "FI",
@@ -121,7 +121,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 58
+		"value": 59
 	},
 	{
 		"code": "SG",
@@ -141,6 +141,6 @@
 	},
 	{
 		"code": "US",
-		"value": 34
+		"value": 33
 	}
 ]

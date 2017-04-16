@@ -5,11 +5,11 @@
 	},
 	{
 		"code": "AM",
-		"value": 4
+		"value": 5
 	},
 	{
 		"code": "AR",
-		"value": 16
+		"value": 17
 	},
 	{
 		"code": "AZ",
@@ -81,11 +81,11 @@
 	},
 	{
 		"code": "ID",
-		"value": 11
+		"value": 12
 	},
 	{
 		"code": "IN",
-		"value": 44
+		"value": 45
 	},
 	{
 		"code": "IQ",
@@ -113,7 +113,7 @@
 	},
 	{
 		"code": "KR",
-		"value": 9
+		"value": 8
 	},
 	{
 		"code": "KZ",
@@ -185,7 +185,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 25
+		"value": 28
 	},
 	{
 		"code": "SA",
@@ -193,7 +193,7 @@
 	},
 	{
 		"code": "SE",
-		"value": 2
+		"value": 3
 	},
 	{
 		"code": "SG",
@@ -213,7 +213,7 @@
 	},
 	{
 		"code": "TR",
-		"value": 12
+		"value": 13
 	},
 	{
 		"code": "TW",
@@ -241,6 +241,6 @@
 	},
 	{
 		"code": "VN",
-		"value": 15
+		"value": 16
 	}
 ]

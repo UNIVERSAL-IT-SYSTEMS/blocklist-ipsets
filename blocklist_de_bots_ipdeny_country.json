@@ -33,11 +33,11 @@
 	},
 	{
 		"code": "CL",
-		"value": 5
+		"value": 6
 	},
 	{
 		"code": "CN",
-		"value": 14
+		"value": 13
 	},
 	{
 		"code": "CZ",
@@ -45,7 +45,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 15
+		"value": 16
 	},
 	{
 		"code": "ES",
@@ -125,7 +125,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 58
+		"value": 59
 	},
 	{
 		"code": "TH",
@@ -141,6 +141,6 @@
 	},
 	{
 		"code": "US",
-		"value": 41
+		"value": 40
 	}
 ]
