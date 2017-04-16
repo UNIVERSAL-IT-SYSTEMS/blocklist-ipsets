@@ -13,7 +13,7 @@
 	},
 	{
 		"code": "BD",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "BG",
@@ -142,10 +142,6 @@
 	{
 		"code": "MX",
 		"value": 2
-	},
-	{
-		"code": "MY",
-		"value": 1
 	},
 	{
 		"code": "NL",

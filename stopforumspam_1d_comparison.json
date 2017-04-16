@@ -56,7 +56,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22278,
+		"ips": 22281,
 		"common": 1
 	},
 	{
@@ -104,8 +104,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13401,
-		"common": 237
+		"ips": 13387,
+		"common": 240
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -194,32 +194,32 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2500,
-		"common": 346
+		"ips": 2493,
+		"common": 343
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6233,
-		"common": 563
+		"ips": 6245,
+		"common": 562
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 44194,
-		"common": 1371
+		"ips": 44190,
+		"common": 1370
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 15486,
+		"ips": 15493,
 		"common": 811
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 500,
-		"common": 120
+		"ips": 493,
+		"common": 116
 	},
 	{
 		"name": "cleantalk_new_1d",
@@ -230,13 +230,13 @@
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20069,
-		"common": 805
+		"ips": 20060,
+		"common": 804
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4734,
+		"ips": 4737,
 		"common": 409
 	},
 	{
@@ -249,24 +249,24 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 226
+		"common": 227
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5912,
-		"common": 383
+		"ips": 5928,
+		"common": 382
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33117,
+		"ips": 33122,
 		"common": 722
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13644,
+		"ips": 13652,
 		"common": 470
 	},
 	{
@@ -416,13 +416,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11777,
+		"ips": 11794,
 		"common": 4663
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208314,
+		"ips": 208312,
 		"common": 4224
 	},
 	{
@@ -452,8 +452,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586241,
-		"common": 1833
+		"ips": 9586228,
+		"common": 1835
 	},
 	{
 		"name": "firehol_proxies",

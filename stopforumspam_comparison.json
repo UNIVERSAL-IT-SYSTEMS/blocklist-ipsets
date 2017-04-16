@@ -110,25 +110,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5500,
+		"ips": 5507,
 		"common": 10
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6601,
+		"ips": 6604,
 		"common": 11
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22278,
+		"ips": 22281,
 		"common": 35
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10264,
+		"ips": 10269,
 		"common": 15
 	},
 	{
@@ -194,8 +194,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13401,
-		"common": 1190
+		"ips": 13387,
+		"common": 1195
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -308,32 +308,32 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2500,
-		"common": 901
+		"ips": 2493,
+		"common": 890
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6233,
-		"common": 1803
+		"ips": 6245,
+		"common": 1800
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 44194,
-		"common": 13468
+		"ips": 44190,
+		"common": 13464
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 15486,
+		"ips": 15493,
 		"common": 4084
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 500,
-		"common": 39
+		"ips": 493,
+		"common": 36
 	},
 	{
 		"name": "cleantalk_new_1d",
@@ -344,13 +344,13 @@
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20069,
-		"common": 7109
+		"ips": 20060,
+		"common": 7103
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4734,
+		"ips": 4737,
 		"common": 1331
 	},
 	{
@@ -363,24 +363,24 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 862
+		"common": 854
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5912,
+		"ips": 5928,
 		"common": 2026
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33117,
+		"ips": 33122,
 		"common": 9033
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13644,
+		"ips": 13652,
 		"common": 3724
 	},
 	{
@@ -656,13 +656,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11777,
-		"common": 6041
+		"ips": 11794,
+		"common": 6042
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208314,
+		"ips": 208312,
 		"common": 161377
 	},
 	{
@@ -692,8 +692,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586241,
-		"common": 11989
+		"ips": 9586228,
+		"common": 11993
 	},
 	{
 		"name": "firehol_proxies",

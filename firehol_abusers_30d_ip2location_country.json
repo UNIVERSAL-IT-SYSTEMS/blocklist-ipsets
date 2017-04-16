@@ -121,7 +121,7 @@
 	},
 	{
 		"code": "CA",
-		"value": 2380
+		"value": 2379
 	},
 	{
 		"code": "CC",
@@ -341,7 +341,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 15622
+		"value": 15621
 	},
 	{
 		"code": "IQ",
@@ -393,7 +393,7 @@
 	},
 	{
 		"code": "KR",
-		"value": 2634
+		"value": 2635
 	},
 	{
 		"code": "KW",
@@ -613,7 +613,7 @@
 	},
 	{
 		"code": "RO",
-		"value": 2365
+		"value": 2363
 	},
 	{
 		"code": "RS",
@@ -621,7 +621,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 25226
+		"value": 25229
 	},
 	{
 		"code": "RW",
@@ -733,7 +733,7 @@
 	},
 	{
 		"code": "US",
-		"value": 63994
+		"value": 63992
 	},
 	{
 		"code": "UY",
