@@ -14,8 +14,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 316,
-		"common": 102
+		"ips": 367,
+		"common": 122
 	},
 	{
 		"name": "bambenek_suppobox",

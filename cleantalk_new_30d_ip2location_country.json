@@ -73,7 +73,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 2491
+		"value": 2493
 	},
 	{
 		"code": "CO",
@@ -197,7 +197,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 255
+		"value": 257
 	},
 	{
 		"code": "IQ",
@@ -333,7 +333,7 @@
 	},
 	{
 		"code": "NP",
-		"value": 11
+		"value": 12
 	},
 	{
 		"code": "NZ",
@@ -361,7 +361,7 @@
 	},
 	{
 		"code": "PL",
-		"value": 206
+		"value": 207
 	},
 	{
 		"code": "PR",
@@ -385,7 +385,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 2975
+		"value": 2974
 	},
 	{
 		"code": "SA",
@@ -445,11 +445,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 520
+		"value": 521
 	},
 	{
 		"code": "US",
-		"value": 6151
+		"value": 6152
 	},
 	{
 		"code": "UZ",
