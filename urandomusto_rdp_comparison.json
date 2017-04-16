@@ -128,7 +128,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53989,
+		"ips": 53412,
 		"common": 5
 	},
 	{
@@ -146,8 +146,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1803,
-		"common": 2
+		"ips": 1082,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",

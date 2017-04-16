@@ -38,7 +38,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22238,
+		"ips": 22275,
 		"common": 1
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53989,
+		"ips": 53412,
 		"common": 8
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1803,
+		"ips": 1082,
 		"common": 2
 	},
 	{

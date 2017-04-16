@@ -68,7 +68,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53989,
+		"ips": 53412,
 		"common": 5
 	},
 	{
@@ -88,12 +88,6 @@
 		"category": "attacks",
 		"ips": 1095697,
 		"common": 16
-	},
-	{
-		"name": "greensnow",
-		"category": "attacks",
-		"ips": 1803,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",

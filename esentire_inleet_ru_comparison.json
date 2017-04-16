@@ -50,7 +50,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22238,
+		"ips": 22275,
 		"common": 1
 	},
 	{

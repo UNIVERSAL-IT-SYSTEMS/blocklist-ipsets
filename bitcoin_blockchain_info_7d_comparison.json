@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42670,
+		"ips": 42671,
 		"common": 21
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53989,
+		"ips": 53412,
 		"common": 2
 	},
 	{
