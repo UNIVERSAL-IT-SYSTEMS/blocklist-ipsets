@@ -448,10 +448,6 @@
 		"value": 1
 	},
 	{
-		"code": "PS",
-		"value": 1
-	},
-	{
 		"code": "PT",
 		"value": 28
 	},
@@ -473,7 +469,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 4853
+		"value": 4854
 	},
 	{
 		"code": "RW",
@@ -573,7 +569,7 @@
 	},
 	{
 		"code": "US",
-		"value": 14042
+		"value": 14043
 	},
 	{
 		"code": "UY",

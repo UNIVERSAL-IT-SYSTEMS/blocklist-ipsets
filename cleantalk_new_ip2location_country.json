@@ -21,11 +21,11 @@
 	},
 	{
 		"code": "CN",
-		"value": 75
+		"value": 74
 	},
 	{
 		"code": "DE",
-		"value": 25
+		"value": 24
 	},
 	{
 		"code": "DO",
@@ -45,7 +45,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 4
+		"value": 3
 	},
 	{
 		"code": "GB",
@@ -69,7 +69,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 16
+		"value": 15
 	},
 	{
 		"code": "IR",
@@ -137,7 +137,11 @@
 	},
 	{
 		"code": "RU",
-		"value": 114
+		"value": 113
+	},
+	{
+		"code": "SA",
+		"value": 1
 	},
 	{
 		"code": "SC",

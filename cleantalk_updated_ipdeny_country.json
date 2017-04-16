@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "CA",
-		"value": 31
+		"value": 30
 	},
 	{
 		"code": "CH",
@@ -37,11 +37,11 @@
 	},
 	{
 		"code": "CL",
-		"value": 11
+		"value": 10
 	},
 	{
 		"code": "CN",
-		"value": 102
+		"value": 101
 	},
 	{
 		"code": "CZ",
@@ -49,7 +49,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 46
+		"value": 49
 	},
 	{
 		"code": "DK",
@@ -57,11 +57,11 @@
 	},
 	{
 		"code": "EC",
-		"value": 2
+		"value": 1
 	},
 	{
 		"code": "EE",
-		"value": 55
+		"value": 56
 	},
 	{
 		"code": "ES",
@@ -69,15 +69,15 @@
 	},
 	{
 		"code": "EU",
-		"value": 30
+		"value": 32
 	},
 	{
 		"code": "FR",
-		"value": 34
+		"value": 35
 	},
 	{
 		"code": "GB",
-		"value": 26
+		"value": 27
 	},
 	{
 		"code": "GE",
@@ -93,11 +93,11 @@
 	},
 	{
 		"code": "ID",
-		"value": 8
+		"value": 7
 	},
 	{
 		"code": "IL",
-		"value": 29
+		"value": 28
 	},
 	{
 		"code": "IN",
@@ -108,16 +108,12 @@
 		"value": 2
 	},
 	{
-		"code": "IR",
-		"value": 1
-	},
-	{
 		"code": "IS",
 		"value": 3
 	},
 	{
 		"code": "IT",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "JP",
@@ -144,10 +140,6 @@
 		"value": 2
 	},
 	{
-		"code": "LV",
-		"value": 1
-	},
-	{
 		"code": "MD",
 		"value": 5
 	},
@@ -161,11 +153,11 @@
 	},
 	{
 		"code": "NL",
-		"value": 60
+		"value": 58
 	},
 	{
 		"code": "NO",
-		"value": 2
+		"value": 3
 	},
 	{
 		"code": "PA",
@@ -173,7 +165,7 @@
 	},
 	{
 		"code": "PH",
-		"value": 2
+		"value": 3
 	},
 	{
 		"code": "PK",
@@ -185,7 +177,7 @@
 	},
 	{
 		"code": "RO",
-		"value": 28
+		"value": 25
 	},
 	{
 		"code": "RS",
@@ -193,7 +185,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 137
+		"value": 154
 	},
 	{
 		"code": "SC",
@@ -205,11 +197,11 @@
 	},
 	{
 		"code": "SE",
-		"value": 76
+		"value": 69
 	},
 	{
 		"code": "SG",
-		"value": 2
+		"value": 1
 	},
 	{
 		"code": "SK",
@@ -229,11 +221,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 65
+		"value": 66
 	},
 	{
 		"code": "US",
-		"value": 1049
+		"value": 1045
 	},
 	{
 		"code": "VE",
@@ -241,7 +233,7 @@
 	},
 	{
 		"code": "VG",
-		"value": 107
+		"value": 103
 	},
 	{
 		"code": "VN",

@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "AM",
-		"value": 49
+		"value": 46
 	},
 	{
 		"code": "AR",
@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "AT",
-		"value": 7
+		"value": 6
 	},
 	{
 		"code": "AU",
@@ -229,7 +229,7 @@
 	},
 	{
 		"code": "JP",
-		"value": 20
+		"value": 19
 	},
 	{
 		"code": "KE",
@@ -317,7 +317,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 535
+		"value": 536
 	},
 	{
 		"code": "NO",
@@ -361,7 +361,7 @@
 	},
 	{
 		"code": "RO",
-		"value": 865
+		"value": 862
 	},
 	{
 		"code": "RS",
@@ -441,7 +441,7 @@
 	},
 	{
 		"code": "US",
-		"value": 5756
+		"value": 5753
 	},
 	{
 		"code": "UY",
