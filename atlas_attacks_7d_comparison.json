@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9183,
+		"ips": 9190,
 		"common": 1
 	},
 	{

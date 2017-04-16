@@ -28,10 +28,6 @@
 		"value": 3
 	},
 	{
-		"code": "BH",
-		"value": 1
-	},
-	{
 		"code": "BO",
 		"value": 1
 	},
@@ -57,7 +53,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 214
+		"value": 217
 	},
 	{
 		"code": "CO",
@@ -173,7 +169,7 @@
 	},
 	{
 		"code": "KR",
-		"value": 16
+		"value": 17
 	},
 	{
 		"code": "LA",
@@ -281,7 +277,7 @@
 	},
 	{
 		"code": "TR",
-		"value": 23
+		"value": 24
 	},
 	{
 		"code": "TW",
@@ -293,7 +289,7 @@
 	},
 	{
 		"code": "UA",
-		"value": 32
+		"value": 31
 	},
 	{
 		"code": "US",

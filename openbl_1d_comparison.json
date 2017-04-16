@@ -56,32 +56,32 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 564,
+		"ips": 566,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4813,
-		"common": 5
+		"ips": 4849,
+		"common": 6
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24501,
+		"ips": 24426,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 233,
+		"ips": 237,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17436,
-		"common": 232
+		"ips": 17514,
+		"common": 233
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -116,14 +116,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22275,
-		"common": 204
+		"ips": 22311,
+		"common": 205
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20012,
-		"common": 175
+		"ips": 20053,
+		"common": 176
 	},
 	{
 		"name": "dronebl_auto_botnets",

@@ -110,14 +110,14 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4813,
+		"ips": 4849,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24501,
-		"common": 8
+		"ips": 24426,
+		"common": 9
 	},
 	{
 		"name": "botscout_30d",
@@ -206,7 +206,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22275,
+		"ips": 22311,
 		"common": 21
 	},
 	{
