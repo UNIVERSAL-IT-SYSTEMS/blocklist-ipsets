@@ -56,13 +56,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44417,
-		"common": 23
+		"ips": 44262,
+		"common": 24
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9207,
+		"ips": 9202,
 		"common": 1
 	},
 	{
@@ -80,13 +80,13 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24685,
-		"common": 14
+		"ips": 24627,
+		"common": 15
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17513,
+		"ips": 17422,
 		"common": 8
 	},
 	{
@@ -224,8 +224,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53991,
-		"common": 25
+		"ips": 53834,
+		"common": 26
 	},
 	{
 		"name": "firehol_level3",
@@ -470,7 +470,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4066,
+		"ips": 4068,
 		"common": 3
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2177,
+		"ips": 2181,
 		"common": 1
 	},
 	{

@@ -38,13 +38,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44417,
+		"ips": 44262,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17513,
+		"ips": 17422,
 		"common": 1
 	},
 	{
@@ -68,7 +68,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 898,
+		"ips": 891,
 		"common": 1
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42679,
+		"ips": 42677,
 		"common": 1
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53991,
+		"ips": 53834,
 		"common": 2
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4066,
+		"ips": 4068,
 		"common": 1
 	},
 	{

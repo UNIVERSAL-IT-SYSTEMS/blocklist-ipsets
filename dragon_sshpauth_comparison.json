@@ -74,13 +74,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44417,
+		"ips": 44262,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17513,
+		"ips": 17422,
 		"common": 1
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11765,
+		"ips": 11826,
 		"common": 1
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42679,
+		"ips": 42677,
 		"common": 1
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53991,
+		"ips": 53834,
 		"common": 6
 	},
 	{
@@ -496,6 +496,12 @@
 		"category": "attacks",
 		"ips": 153318,
 		"common": 204
+	},
+	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 4068,
+		"common": 1
 	},
 	{
 		"name": "packetmail_carisirt",

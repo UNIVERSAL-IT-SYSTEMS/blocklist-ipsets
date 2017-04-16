@@ -1,7 +1,7 @@
 {
 	"ipset": "bambenek_tinba",
 	"started": 1438282882000,
-	"updated": 1492333290000,
+	"updated": 1492336893000,
 	"incomplete": 0,
 	"past": {
 		"hours": [ 
@@ -428,13 +428,15 @@
 	},
 	"current": {
 		"hours": [ 
-			1,
-			405,
-			2194 ],
+			0,
+			2,
+			406,
+			2195 ],
 		"ips": [ 
 			1,
 			1,
+			1,
 			1 ],
-		"total": 3
+		"total": 4
 	}
 }

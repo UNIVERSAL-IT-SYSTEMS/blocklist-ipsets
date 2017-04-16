@@ -50,7 +50,7 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 3,
+		"ips": 4,
 		"common": 3
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 392,
+		"ips": 359,
 		"common": 1
 	},
 	{

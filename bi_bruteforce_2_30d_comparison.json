@@ -38,7 +38,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53991,
+		"ips": 53834,
 		"common": 1
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2177,
+		"ips": 2181,
 		"common": 1
 	},
 	{

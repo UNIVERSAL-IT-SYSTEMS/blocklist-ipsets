@@ -65,7 +65,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 279
+		"value": 277
 	},
 	{
 		"code": "CO",
@@ -141,15 +141,19 @@
 	},
 	{
 		"code": "ID",
-		"value": 8
+		"value": 7
 	},
 	{
 		"code": "IE",
 		"value": 1
 	},
 	{
+		"code": "IL",
+		"value": 1
+	},
+	{
 		"code": "IN",
-		"value": 551
+		"value": 552
 	},
 	{
 		"code": "IQ",
@@ -212,10 +216,6 @@
 		"value": 1
 	},
 	{
-		"code": "MG",
-		"value": 1
-	},
-	{
 		"code": "MK",
 		"value": 2
 	},
@@ -273,7 +273,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 2614
+		"value": 2613
 	},
 	{
 		"code": "SA",
@@ -309,11 +309,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 299
+		"value": 298
 	},
 	{
 		"code": "US",
-		"value": 4534
+		"value": 4533
 	},
 	{
 		"code": "VE",

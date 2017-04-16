@@ -14,13 +14,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44417,
+		"ips": 44262,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17513,
+		"ips": 17422,
 		"common": 4
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53991,
+		"ips": 53834,
 		"common": 8
 	},
 	{
@@ -260,14 +260,14 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4066,
-		"common": 50
+		"ips": 4068,
+		"common": 53
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2177,
-		"common": 20
+		"ips": 2181,
+		"common": 21
 	},
 	{
 		"name": "pushing_inertia_blocklist",
