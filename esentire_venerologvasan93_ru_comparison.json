@@ -20,13 +20,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 44184,
+		"ips": 44179,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20081,
+		"ips": 20074,
 		"common": 1
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208280,
+		"ips": 208281,
 		"common": 2
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586317,
+		"ips": 9586321,
 		"common": 1
 	},
 	{

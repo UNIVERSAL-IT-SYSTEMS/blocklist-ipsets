@@ -6,12 +6,6 @@
 		"common": 1
 	},
 	{
-		"name": "bambenek_pykspa",
-		"category": "malware",
-		"ips": 10,
-		"common": 1
-	},
-	{
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268568,
@@ -62,13 +56,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16278,
+		"ips": 16283,
 		"common": 1
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5623,
+		"ips": 5618,
 		"common": 1
 	},
 	{
@@ -86,25 +80,25 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 44184,
+		"ips": 44179,
 		"common": 5
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 15587,
+		"ips": 15567,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20081,
+		"ips": 20074,
 		"common": 5
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4745,
+		"ips": 4733,
 		"common": 1
 	},
 	{
@@ -308,7 +302,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208280,
+		"ips": 208281,
 		"common": 10
 	},
 	{
@@ -320,7 +314,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54163,
+		"ips": 54160,
 		"common": 2
 	},
 	{
@@ -332,7 +326,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586317,
+		"ips": 9586321,
 		"common": 10
 	},
 	{

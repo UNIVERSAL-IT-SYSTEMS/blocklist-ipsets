@@ -9,7 +9,7 @@
 	},
 	{
 		"code": "AU",
-		"value": 2
+		"value": 3
 	},
 	{
 		"code": "BH",
@@ -161,7 +161,7 @@
 	},
 	{
 		"code": "RO",
-		"value": 10
+		"value": 9
 	},
 	{
 		"code": "RS",
@@ -169,7 +169,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 238
+		"value": 239
 	},
 	{
 		"code": "SE",
@@ -201,11 +201,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 38
+		"value": 37
 	},
 	{
 		"code": "US",
-		"value": 300
+		"value": 302
 	},
 	{
 		"code": "VE",

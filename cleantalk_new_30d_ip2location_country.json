@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "AU",
-		"value": 33
+		"value": 34
 	},
 	{
 		"code": "BA",
@@ -73,7 +73,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 2496
+		"value": 2493
 	},
 	{
 		"code": "CO",
@@ -385,7 +385,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 2976
+		"value": 2974
 	},
 	{
 		"code": "SA",
@@ -445,11 +445,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 521
+		"value": 520
 	},
 	{
 		"code": "US",
-		"value": 6156
+		"value": 6154
 	},
 	{
 		"code": "UZ",

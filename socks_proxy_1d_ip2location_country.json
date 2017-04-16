@@ -9,7 +9,7 @@
 	},
 	{
 		"code": "AR",
-		"value": 9
+		"value": 10
 	},
 	{
 		"code": "AT",
@@ -57,7 +57,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 176
+		"value": 177
 	},
 	{
 		"code": "CO",
@@ -89,7 +89,7 @@
 	},
 	{
 		"code": "FI",
-		"value": 12
+		"value": 13
 	},
 	{
 		"code": "FR",
@@ -173,7 +173,7 @@
 	},
 	{
 		"code": "MX",
-		"value": 67
+		"value": 68
 	},
 	{
 		"code": "MY",
@@ -189,11 +189,11 @@
 	},
 	{
 		"code": "NO",
-		"value": 69
+		"value": 70
 	},
 	{
 		"code": "NP",
-		"value": 2
+		"value": 3
 	},
 	{
 		"code": "NZ",
@@ -273,7 +273,7 @@
 	},
 	{
 		"code": "US",
-		"value": 853
+		"value": 857
 	},
 	{
 		"code": "ZA",
