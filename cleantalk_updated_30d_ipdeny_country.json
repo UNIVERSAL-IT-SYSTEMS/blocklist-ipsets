@@ -105,11 +105,11 @@
 	},
 	{
 		"code": "CM",
-		"value": 9
+		"value": 10
 	},
 	{
 		"code": "CN",
-		"value": 1205
+		"value": 1203
 	},
 	{
 		"code": "CO",
@@ -425,7 +425,7 @@
 	},
 	{
 		"code": "PL",
-		"value": 160
+		"value": 161
 	},
 	{
 		"code": "PR",
@@ -557,7 +557,7 @@
 	},
 	{
 		"code": "US",
-		"value": 13620
+		"value": 13622
 	},
 	{
 		"code": "UY",

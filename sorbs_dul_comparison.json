@@ -182,8 +182,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44373,
-		"common": 3749
+		"ips": 44406,
+		"common": 3750
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -194,7 +194,7 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 248,
+		"ips": 249,
 		"common": 21
 	},
 	{
@@ -212,26 +212,26 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4745,
-		"common": 413
+		"ips": 4762,
+		"common": 414
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24659,
+		"ips": 24674,
 		"common": 1721
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 234,
-		"common": 24
+		"ips": 233,
+		"common": 23
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17454,
-		"common": 1841
+		"ips": 17474,
+		"common": 1844
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -380,31 +380,31 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2504,
-		"common": 87
+		"ips": 2509,
+		"common": 91
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6215,
+		"ips": 6223,
 		"common": 309
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 44183,
-		"common": 3641
+		"common": 3639
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 15565,
+		"ips": 15569,
 		"common": 1227
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 504,
+		"ips": 509,
 		"common": 60
 	},
 	{
@@ -417,36 +417,36 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 20077,
-		"common": 2182
+		"common": 2180
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4733,
+		"ips": 4738,
 		"common": 677
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 27
+		"common": 31
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5872,
+		"ips": 5878,
 		"common": 158
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33104,
+		"ips": 33106,
 		"common": 1731
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13754,
+		"ips": 13753,
 		"common": 614
 	},
 	{
@@ -764,14 +764,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11584,
+		"ips": 11589,
 		"common": 570
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 208292,
-		"common": 19409
+		"common": 19408
 	},
 	{
 		"name": "firehol_anonymous",
@@ -1238,8 +1238,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 3643,
-		"common": 461
+		"ips": 4021,
+		"common": 517
 	},
 	{
 		"name": "nt_malware_dns",

@@ -85,7 +85,7 @@
 	},
 	{
 		"code": "BS",
-		"value": 34
+		"value": 35
 	},
 	{
 		"code": "BW",
@@ -113,11 +113,11 @@
 	},
 	{
 		"code": "CM",
-		"value": 9
+		"value": 10
 	},
 	{
 		"code": "CN",
-		"value": 1238
+		"value": 1236
 	},
 	{
 		"code": "CO",
@@ -441,7 +441,7 @@
 	},
 	{
 		"code": "PL",
-		"value": 301
+		"value": 302
 	},
 	{
 		"code": "PR",
@@ -573,7 +573,7 @@
 	},
 	{
 		"code": "US",
-		"value": 14034
+		"value": 14035
 	},
 	{
 		"code": "UY",
