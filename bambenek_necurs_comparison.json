@@ -3,7 +3,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 367,
-		"common": 6
+		"common": 4
 	},
 	{
 		"name": "bogons",
@@ -21,7 +21,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656911153,
-		"common": 6
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
@@ -72,9 +72,9 @@
 		"common": 2
 	},
 	{
-		"name": "sorbs_dul",
-		"category": "spam",
-		"ips": 375226662,
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346613099,
 		"common": 1
 	}
 ]
