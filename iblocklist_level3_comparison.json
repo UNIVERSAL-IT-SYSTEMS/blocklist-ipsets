@@ -242,7 +242,7 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 902,
+		"ips": 901,
 		"common": 55
 	},
 	{
@@ -254,19 +254,19 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6610,
+		"ips": 6607,
 		"common": 346
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22292,
-		"common": 722
+		"ips": 22286,
+		"common": 720
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10259,
+		"ips": 10256,
 		"common": 427
 	},
 	{
@@ -332,8 +332,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13507,
-		"common": 1066
+		"ips": 13506,
+		"common": 1065
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -632,8 +632,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 322045,
-		"common": 7470
+		"ips": 322046,
+		"common": 7471
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -950,8 +950,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586330,
-		"common": 161797
+		"ips": 9586329,
+		"common": 161796
 	},
 	{
 		"name": "firehol_proxies",
