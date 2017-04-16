@@ -80,31 +80,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44538,
-		"common": 43
+		"ips": 44443,
+		"common": 44
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9200,
-		"common": 17
+		"ips": 9222,
+		"common": 18
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24722,
+		"ips": 24669,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 236,
+		"ips": 233,
 		"common": 17
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17586,
+		"ips": 17521,
 		"common": 6
 	},
 	{
@@ -134,8 +134,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 17065,
-		"common": 160
+		"ips": 17108,
+		"common": 161
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -242,25 +242,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911127,
+		"ips": 656911126,
 		"common": 24
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54322,
-		"common": 76
+		"ips": 54219,
+		"common": 77
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146083,
-		"common": 196
+		"ips": 146126,
+		"common": 197
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586274,
+		"ips": 9586292,
 		"common": 5
 	},
 	{

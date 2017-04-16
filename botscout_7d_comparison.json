@@ -86,13 +86,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44538,
+		"ips": 44443,
 		"common": 209
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9200,
+		"ips": 9222,
 		"common": 5
 	},
 	{
@@ -104,38 +104,38 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 710,
+		"ips": 736,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4790,
+		"ips": 4778,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24722,
+		"ips": 24669,
 		"common": 71
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17586,
+		"ips": 17521,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 154,
-		"common": 28
+		"ips": 162,
+		"common": 29
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13441,
-		"common": 295
+		"ips": 13460,
+		"common": 293
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -464,25 +464,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911127,
+		"ips": 656911126,
 		"common": 285
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54322,
+		"ips": 54219,
 		"common": 263
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146083,
+		"ips": 146126,
 		"common": 551
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586274,
+		"ips": 9586292,
 		"common": 5595
 	},
 	{
@@ -782,8 +782,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 2458,
-		"common": 7
+		"ips": 2688,
+		"common": 6
 	},
 	{
 		"name": "nullsecure",

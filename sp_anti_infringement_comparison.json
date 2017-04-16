@@ -176,14 +176,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44538,
-		"common": 4056
+		"ips": 44443,
+		"common": 4048
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9200,
-		"common": 100
+		"ips": 9222,
+		"common": 103
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -194,50 +194,50 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 710,
-		"common": 69
+		"ips": 736,
+		"common": 73
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 561,
-		"common": 111
+		"ips": 568,
+		"common": 112
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4790,
-		"common": 860
+		"ips": 4778,
+		"common": 857
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24722,
-		"common": 2126
+		"ips": 24669,
+		"common": 2123
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 236,
+		"ips": 233,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17586,
-		"common": 1694
+		"ips": 17521,
+		"common": 1687
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 154,
+		"ips": 162,
 		"common": 9
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13441,
-		"common": 708
+		"ips": 13460,
+		"common": 707
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -344,8 +344,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 17065,
-		"common": 1736
+		"ips": 17108,
+		"common": 1742
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -794,25 +794,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911127,
+		"ips": 656911126,
 		"common": 7304
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54322,
-		"common": 4289
+		"ips": 54219,
+		"common": 4280
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146083,
-		"common": 19119
+		"ips": 146126,
+		"common": 19125
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586274,
+		"ips": 9586292,
 		"common": 29588
 	},
 	{
@@ -1226,8 +1226,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 2458,
-		"common": 229
+		"ips": 2688,
+		"common": 250
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1688,7 +1688,7 @@
 	{
 		"name": "sslbl",
 		"category": "malware",
-		"ips": 64,
+		"ips": 63,
 		"common": 2
 	},
 	{

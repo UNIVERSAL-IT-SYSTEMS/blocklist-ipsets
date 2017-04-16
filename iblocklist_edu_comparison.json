@@ -188,14 +188,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44538,
-		"common": 210
+		"ips": 44443,
+		"common": 204
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9200,
-		"common": 6
+		"ips": 9222,
+		"common": 7
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -206,49 +206,49 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 710,
-		"common": 5
+		"ips": 736,
+		"common": 6
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 561,
+		"ips": 568,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4790,
-		"common": 23
+		"ips": 4778,
+		"common": 22
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24722,
-		"common": 138
+		"ips": 24669,
+		"common": 133
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 236,
+		"ips": 233,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17586,
-		"common": 59
+		"ips": 17521,
+		"common": 57
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 154,
+		"ips": 162,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13441,
+		"ips": 13460,
 		"common": 227
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 17065,
+		"ips": 17108,
 		"common": 95
 	},
 	{
@@ -812,25 +812,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911127,
+		"ips": 656911126,
 		"common": 668329
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54322,
-		"common": 499
+		"ips": 54219,
+		"common": 494
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146083,
+		"ips": 146126,
 		"common": 2328
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586274,
+		"ips": 9586292,
 		"common": 179327
 	},
 	{
@@ -1214,8 +1214,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 2458,
-		"common": 23
+		"ips": 2688,
+		"common": 21
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1700,7 +1700,7 @@
 	{
 		"name": "sslbl",
 		"category": "malware",
-		"ips": 64,
+		"ips": 63,
 		"common": 4
 	},
 	{

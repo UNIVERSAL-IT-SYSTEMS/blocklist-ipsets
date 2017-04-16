@@ -224,13 +224,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44538,
+		"ips": 44443,
 		"common": 605
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9200,
+		"ips": 9222,
 		"common": 538
 	},
 	{
@@ -242,43 +242,43 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 710,
+		"ips": 736,
 		"common": 19
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 561,
+		"ips": 568,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4790,
-		"common": 23
+		"ips": 4778,
+		"common": 24
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24722,
+		"ips": 24669,
 		"common": 554
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17586,
+		"ips": 17521,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 154,
+		"ips": 162,
 		"common": 38
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13441,
+		"ips": 13460,
 		"common": 148
 	},
 	{
@@ -386,7 +386,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 17065,
+		"ips": 17108,
 		"common": 387
 	},
 	{
@@ -836,19 +836,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54322,
+		"ips": 54219,
 		"common": 5714
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146083,
-		"common": 6768
+		"ips": 146126,
+		"common": 6767
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586274,
+		"ips": 9586292,
 		"common": 5966636
 	},
 	{
@@ -861,7 +861,7 @@
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 25153,
-		"common": 717
+		"common": 716
 	},
 	{
 		"name": "firehol_webserver",
@@ -1262,7 +1262,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 2458,
+		"ips": 2688,
 		"common": 1
 	},
 	{
@@ -1670,14 +1670,14 @@
 	{
 		"name": "sslbl",
 		"category": "malware",
-		"ips": 64,
-		"common": 64
+		"ips": 63,
+		"common": 63
 	},
 	{
 		"name": "sslbl_aggressive",
 		"category": "malware",
 		"ips": 2732,
-		"common": 650
+		"common": 649
 	},
 	{
 		"name": "sslproxies_30d",

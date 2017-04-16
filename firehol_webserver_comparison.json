@@ -296,14 +296,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44538,
-		"common": 4954
+		"ips": 44443,
+		"common": 4952
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9200,
-		"common": 4288
+		"ips": 9222,
+		"common": 4287
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -314,50 +314,50 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 710,
+		"ips": 736,
 		"common": 140
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 561,
+		"ips": 568,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4790,
-		"common": 62
+		"ips": 4778,
+		"common": 63
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24722,
-		"common": 4441
+		"ips": 24669,
+		"common": 4443
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 236,
+		"ips": 233,
 		"common": 43
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17586,
-		"common": 234
+		"ips": 17521,
+		"common": 231
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 154,
-		"common": 49
+		"ips": 162,
+		"common": 50
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13441,
-		"common": 2370
+		"ips": 13460,
+		"common": 2372
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -476,8 +476,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 17065,
-		"common": 409
+		"ips": 17108,
+		"common": 410
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -938,26 +938,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911127,
+		"ips": 656911126,
 		"common": 24493
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54322,
-		"common": 7450
+		"ips": 54219,
+		"common": 7448
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146083,
-		"common": 26895
+		"ips": 146126,
+		"common": 26896
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586274,
-		"common": 55800
+		"ips": 9586292,
+		"common": 55802
 	},
 	{
 		"name": "firehol_proxies",
@@ -1460,8 +1460,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 2458,
-		"common": 45
+		"ips": 2688,
+		"common": 47
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1994,7 +1994,7 @@
 	{
 		"name": "sslbl",
 		"category": "malware",
-		"ips": 64,
+		"ips": 63,
 		"common": 13
 	},
 	{
