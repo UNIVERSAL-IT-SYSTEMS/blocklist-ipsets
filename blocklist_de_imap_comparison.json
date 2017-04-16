@@ -98,25 +98,25 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6254,
+		"ips": 6258,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 44200,
+		"ips": 44205,
 		"common": 21
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 15517,
-		"common": 4
+		"ips": 15513,
+		"common": 3
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20057,
+		"ips": 20059,
 		"common": 1
 	},
 	{
@@ -128,14 +128,14 @@
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33138,
+		"ips": 33139,
 		"common": 22
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13684,
-		"common": 5
+		"ips": 13677,
+		"common": 4
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -260,13 +260,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11871,
+		"ips": 11874,
 		"common": 4
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208332,
+		"ips": 208335,
 		"common": 90
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146165,
+		"ips": 146167,
 		"common": 74
 	},
 	{
@@ -764,7 +764,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 21422,
+		"ips": 21424,
 		"common": 6
 	},
 	{
