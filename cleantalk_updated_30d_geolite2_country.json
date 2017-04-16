@@ -41,7 +41,7 @@
 	},
 	{
 		"code": "AU",
-		"value": 39
+		"value": 40
 	},
 	{
 		"code": "AZ",
@@ -117,7 +117,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 1239
+		"value": 1238
 	},
 	{
 		"code": "CO",
@@ -401,7 +401,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 1044
+		"value": 1045
 	},
 	{
 		"code": "NO",
@@ -441,7 +441,7 @@
 	},
 	{
 		"code": "PL",
-		"value": 300
+		"value": 301
 	},
 	{
 		"code": "PR",
@@ -573,7 +573,7 @@
 	},
 	{
 		"code": "US",
-		"value": 14030
+		"value": 14033
 	},
 	{
 		"code": "UY",
