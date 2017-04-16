@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42677,
+		"ips": 42676,
 		"common": 1075
 	},
 	{
@@ -1472,8 +1472,8 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1009,
-		"common": 272
+		"ips": 1005,
+		"common": 271
 	},
 	{
 		"name": "tor_exits_30d",
@@ -1484,7 +1484,7 @@
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1258,
+		"ips": 1257,
 		"common": 293
 	},
 	{
