@@ -254,7 +254,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 404,
+		"ips": 403,
 		"common": 15
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11589,
+		"ips": 11670,
 		"common": 59
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42684,
+		"ips": 42685,
 		"common": 52
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29297,
+		"ips": 29298,
 		"common": 45
 	},
 	{
@@ -764,7 +764,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4456,
+		"ips": 4562,
 		"common": 41
 	},
 	{

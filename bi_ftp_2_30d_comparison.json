@@ -140,7 +140,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 404,
+		"ips": 403,
 		"common": 6
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11589,
+		"ips": 11670,
 		"common": 11
 	},
 	{

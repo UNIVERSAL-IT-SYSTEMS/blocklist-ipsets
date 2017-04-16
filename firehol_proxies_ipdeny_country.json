@@ -69,7 +69,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 7239
+		"value": 7240
 	},
 	{
 		"code": "BS",
@@ -177,7 +177,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 455
+		"value": 453
 	},
 	{
 		"code": "GA",
@@ -265,7 +265,7 @@
 	},
 	{
 		"code": "IT",
-		"value": 237
+		"value": 238
 	},
 	{
 		"code": "JO",
@@ -449,7 +449,7 @@
 	},
 	{
 		"code": "PE",
-		"value": 48
+		"value": 49
 	},
 	{
 		"code": "PH",
@@ -493,7 +493,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 1255
+		"value": 1256
 	},
 	{
 		"code": "RW",
@@ -541,7 +541,7 @@
 	},
 	{
 		"code": "TH",
-		"value": 517
+		"value": 518
 	},
 	{
 		"code": "TJ",
@@ -585,7 +585,7 @@
 	},
 	{
 		"code": "US",
-		"value": 7000
+		"value": 6998
 	},
 	{
 		"code": "UY",

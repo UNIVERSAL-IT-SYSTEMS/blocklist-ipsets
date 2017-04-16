@@ -530,8 +530,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11589,
-		"common": 138
+		"ips": 11670,
+		"common": 139
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42684,
+		"ips": 42685,
 		"common": 3182
 	},
 	{
@@ -572,7 +572,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29297,
+		"ips": 29298,
 		"common": 3163
 	},
 	{
@@ -908,8 +908,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 4021,
-		"common": 73
+		"ips": 4302,
+		"common": 77
 	},
 	{
 		"name": "nullsecure",
@@ -1106,25 +1106,25 @@
 	{
 		"name": "proxyspy",
 		"category": "anonymizers",
-		"ips": 297,
-		"common": 20
+		"ips": 296,
+		"common": 18
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 948,
-		"common": 83
+		"ips": 931,
+		"common": 78
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 5744,
-		"common": 581
+		"ips": 5743,
+		"common": 580
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2372,
+		"ips": 2367,
 		"common": 207
 	},
 	{
@@ -1364,8 +1364,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4456,
-		"common": 56
+		"ips": 4562,
+		"common": 57
 	},
 	{
 		"name": "stopforumspam_30d",

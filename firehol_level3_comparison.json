@@ -482,14 +482,14 @@
 	{
 		"name": "dataplane_sipinvitation",
 		"category": "attacks",
-		"ips": 46,
+		"ips": 47,
 		"common": 15
 	},
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 404,
-		"common": 197
+		"ips": 403,
+		"common": 196
 	},
 	{
 		"name": "dataplane_sipregistration",
@@ -800,8 +800,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11589,
-		"common": 594
+		"ips": 11670,
+		"common": 597
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -812,7 +812,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42684,
+		"ips": 42685,
 		"common": 1720
 	},
 	{
@@ -836,7 +836,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29297,
+		"ips": 29298,
 		"common": 916
 	},
 	{
@@ -1238,8 +1238,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 4021,
-		"common": 30
+		"ips": 4302,
+		"common": 31
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1478,25 +1478,25 @@
 	{
 		"name": "proxyspy",
 		"category": "anonymizers",
-		"ips": 297,
-		"common": 15
+		"ips": 296,
+		"common": 14
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 948,
-		"common": 56
+		"ips": 931,
+		"common": 53
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 5744,
+		"ips": 5743,
 		"common": 145
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2372,
+		"ips": 2367,
 		"common": 113
 	},
 	{
@@ -1784,8 +1784,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4456,
-		"common": 402
+		"ips": 4562,
+		"common": 407
 	},
 	{
 		"name": "stopforumspam_30d",

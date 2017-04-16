@@ -92,14 +92,14 @@
 	{
 		"name": "dataplane_sipinvitation",
 		"category": "attacks",
-		"ips": 46,
+		"ips": 47,
 		"common": 4
 	},
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 404,
-		"common": 16
+		"ips": 403,
+		"common": 15
 	},
 	{
 		"name": "dataplane_sipregistration",

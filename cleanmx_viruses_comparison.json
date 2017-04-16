@@ -452,7 +452,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11589,
+		"ips": 11670,
 		"common": 4
 	},
 	{
@@ -812,7 +812,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 4021,
+		"ips": 4302,
 		"common": 1
 	},
 	{
@@ -974,7 +974,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4456,
+		"ips": 4562,
 		"common": 1
 	},
 	{

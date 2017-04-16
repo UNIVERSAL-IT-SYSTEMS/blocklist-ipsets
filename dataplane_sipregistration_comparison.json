@@ -32,14 +32,14 @@
 	{
 		"name": "dataplane_sipinvitation",
 		"category": "attacks",
-		"ips": 46,
+		"ips": 47,
 		"common": 5
 	},
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 404,
-		"common": 6
+		"ips": 403,
+		"common": 5
 	},
 	{
 		"name": "firehol_level2",

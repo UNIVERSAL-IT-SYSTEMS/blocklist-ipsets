@@ -9,7 +9,7 @@
 	},
 	{
 		"code": "CA",
-		"value": 2
+		"value": 3
 	},
 	{
 		"code": "CL",
@@ -77,11 +77,11 @@
 	},
 	{
 		"code": "MY",
-		"value": 2
+		"value": 1
 	},
 	{
 		"code": "NL",
-		"value": 16
+		"value": 15
 	},
 	{
 		"code": "PK",
