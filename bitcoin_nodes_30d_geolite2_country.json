@@ -73,7 +73,7 @@
 	},
 	{
 		"code": "BY",
-		"value": 31
+		"value": 30
 	},
 	{
 		"code": "BZ",
@@ -121,7 +121,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 3926
+		"value": 3925
 	},
 	{
 		"code": "DJ",
@@ -237,7 +237,7 @@
 	},
 	{
 		"code": "IT",
-		"value": 388
+		"value": 389
 	},
 	{
 		"code": "JM",
@@ -281,7 +281,7 @@
 	},
 	{
 		"code": "KZ",
-		"value": 87
+		"value": 88
 	},
 	{
 		"code": "LT",
@@ -409,7 +409,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 1920
+		"value": 1922
 	},
 	{
 		"code": "SA",
@@ -461,11 +461,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 465
+		"value": 466
 	},
 	{
 		"code": "US",
-		"value": 4617
+		"value": 4618
 	},
 	{
 		"code": "UY",
