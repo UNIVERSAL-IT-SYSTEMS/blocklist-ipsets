@@ -27,31 +27,31 @@
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
 		"ips": 4408,
-		"common": 905
+		"common": 904
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5466,
-		"common": 783
+		"ips": 5460,
+		"common": 782
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6609,
-		"common": 807
+		"ips": 6607,
+		"common": 806
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22286,
-		"common": 897
+		"ips": 22288,
+		"common": 896
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10259,
-		"common": 894
+		"ips": 10257,
+		"common": 893
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
@@ -98,19 +98,19 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 44179,
+		"ips": 44183,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20074,
+		"ips": 20077,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33101,
+		"ips": 33104,
 		"common": 1
 	},
 	{
@@ -188,13 +188,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208281,
+		"ips": 208292,
 		"common": 2
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42633,
+		"ips": 42642,
 		"common": 21
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54279,
+		"ips": 54147,
 		"common": 2
 	},
 	{
@@ -249,7 +249,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 38
+		"common": 37
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",

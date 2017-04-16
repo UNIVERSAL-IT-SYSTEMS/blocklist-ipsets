@@ -20,7 +20,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13514,
+		"ips": 13525,
 		"common": 8
 	},
 	{
@@ -68,13 +68,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 44179,
+		"ips": 44183,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33101,
+		"ips": 33104,
 		"common": 1
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208281,
+		"ips": 208292,
 		"common": 1
 	},
 	{
@@ -104,7 +104,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586348,
+		"ips": 9586359,
 		"common": 24
 	},
 	{
