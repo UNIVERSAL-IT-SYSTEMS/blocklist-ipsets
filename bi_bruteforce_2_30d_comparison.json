@@ -36,10 +36,22 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 53385,
+		"common": 1
+	},
+	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 146167,
 		"common": 3
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1386,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level1",

@@ -32,7 +32,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44015,
+		"ips": 44157,
 		"common": 108
 	},
 	{
@@ -78,27 +78,21 @@
 		"common": 2
 	},
 	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 37,
-		"common": 1
-	},
-	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1316,
+		"ips": 1302,
 		"common": 40
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16274,
+		"ips": 16270,
 		"common": 311
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5640,
+		"ips": 5644,
 		"common": 177
 	},
 	{
@@ -230,7 +224,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11925,
+		"ips": 11914,
 		"common": 184
 	},
 	{
@@ -248,8 +242,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53020,
-		"common": 109
+		"ips": 53385,
+		"common": 111
 	},
 	{
 		"name": "firehol_level3",
@@ -260,7 +254,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586125,
+		"ips": 9586120,
 		"common": 327
 	},
 	{
@@ -284,8 +278,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1095,
-		"common": 3
+		"ips": 1386,
+		"common": 5
 	},
 	{
 		"name": "iblocklist_ads",
