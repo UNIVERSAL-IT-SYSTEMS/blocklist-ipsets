@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13410,
+		"ips": 13451,
 		"common": 92
 	},
 	{
@@ -464,7 +464,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586240,
+		"ips": 9586277,
 		"common": 321
 	},
 	{
@@ -800,8 +800,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 1988,
-		"common": 10
+		"ips": 2309,
+		"common": 23
 	},
 	{
 		"name": "nullsecure",

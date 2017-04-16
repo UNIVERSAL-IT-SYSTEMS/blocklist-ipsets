@@ -170,8 +170,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13410,
-		"common": 1563
+		"ips": 13451,
+		"common": 1564
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -608,8 +608,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586240,
-		"common": 2522
+		"ips": 9586277,
+		"common": 2524
 	},
 	{
 		"name": "firehol_proxies",
@@ -944,8 +944,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 1988,
-		"common": 211
+		"ips": 2309,
+		"common": 239
 	},
 	{
 		"name": "nt_ssh_7d",
