@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13478,
-		"common": 11
+		"ips": 13436,
+		"common": 10
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -212,7 +212,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54081,
+		"ips": 54087,
 		"common": 1
 	},
 	{
@@ -224,8 +224,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586305,
-		"common": 274
+		"ips": 9586262,
+		"common": 273
 	},
 	{
 		"name": "firehol_webclient",
@@ -260,7 +260,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1752,
+		"ips": 1779,
 		"common": 1
 	},
 	{

@@ -122,7 +122,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13478,
+		"ips": 13436,
 		"common": 170
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 7108,
+		"ips": 7118,
 		"common": 71
 	},
 	{
@@ -159,25 +159,25 @@
 		"name": "botscout",
 		"category": "abuse",
 		"ips": 47,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1361,
-		"common": 253
+		"ips": 1341,
+		"common": 252
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16274,
-		"common": 2872
+		"ips": 16273,
+		"common": 2874
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5624,
-		"common": 1119
+		"ips": 5633,
+		"common": 1120
 	},
 	{
 		"name": "bruteforceblocker",
@@ -314,7 +314,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7106,
+		"ips": 7114,
 		"common": 71
 	},
 	{
@@ -458,8 +458,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11700,
-		"common": 1835
+		"ips": 11686,
+		"common": 1834
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42676,
+		"ips": 42646,
 		"common": 2929
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54081,
+		"ips": 54087,
 		"common": 232
 	},
 	{
@@ -494,8 +494,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586305,
-		"common": 3013
+		"ips": 9586262,
+		"common": 3015
 	},
 	{
 		"name": "firehol_proxies",
@@ -542,7 +542,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1752,
+		"ips": 1779,
 		"common": 14
 	},
 	{
@@ -806,8 +806,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 5012,
-		"common": 8
+		"ips": 5416,
+		"common": 9
 	},
 	{
 		"name": "nullsecure",

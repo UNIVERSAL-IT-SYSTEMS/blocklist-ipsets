@@ -33,7 +33,7 @@
 	},
 	{
 		"code": "AR",
-		"value": 5533
+		"value": 5535
 	},
 	{
 		"code": "AS",
@@ -41,7 +41,7 @@
 	},
 	{
 		"code": "AT",
-		"value": 744
+		"value": 745
 	},
 	{
 		"code": "AU",
@@ -109,7 +109,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 10498
+		"value": 10497
 	},
 	{
 		"code": "BS",
@@ -125,7 +125,7 @@
 	},
 	{
 		"code": "BY",
-		"value": 633
+		"value": 631
 	},
 	{
 		"code": "BZ",
@@ -149,7 +149,7 @@
 	},
 	{
 		"code": "CI",
-		"value": 39
+		"value": 38
 	},
 	{
 		"code": "CL",
@@ -161,7 +161,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 1162435
+		"value": 1162433
 	},
 	{
 		"code": "CO",
@@ -189,7 +189,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 161169
+		"value": 161171
 	},
 	{
 		"code": "DJ",
@@ -217,7 +217,7 @@
 	},
 	{
 		"code": "EE",
-		"value": 633
+		"value": 632
 	},
 	{
 		"code": "EG",
@@ -241,7 +241,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 3884
+		"value": 3883
 	},
 	{
 		"code": "GA",
@@ -249,7 +249,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 83331
+		"value": 83332
 	},
 	{
 		"code": "GD",
@@ -309,7 +309,7 @@
 	},
 	{
 		"code": "HK",
-		"value": 26525
+		"value": 26524
 	},
 	{
 		"code": "HN",
@@ -333,7 +333,7 @@
 	},
 	{
 		"code": "IE",
-		"value": 349
+		"value": 351
 	},
 	{
 		"code": "IL",
@@ -345,7 +345,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 147294
+		"value": 147293
 	},
 	{
 		"code": "IQ",
@@ -601,7 +601,7 @@
 	},
 	{
 		"code": "PH",
-		"value": 2168
+		"value": 2167
 	},
 	{
 		"code": "PK",
@@ -609,7 +609,7 @@
 	},
 	{
 		"code": "PL",
-		"value": 1625
+		"value": 1623
 	},
 	{
 		"code": "PR",
@@ -645,7 +645,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 110082
+		"value": 110077
 	},
 	{
 		"code": "RW",
@@ -669,7 +669,7 @@
 	},
 	{
 		"code": "SG",
-		"value": 25085
+		"value": 25084
 	},
 	{
 		"code": "SI",
@@ -729,7 +729,7 @@
 	},
 	{
 		"code": "TH",
-		"value": 132041
+		"value": 132040
 	},
 	{
 		"code": "TJ",
@@ -777,7 +777,7 @@
 	},
 	{
 		"code": "US",
-		"value": 4313830
+		"value": 4313801
 	},
 	{
 		"code": "UY",
@@ -789,7 +789,7 @@
 	},
 	{
 		"code": "VE",
-		"value": 158
+		"value": 157
 	},
 	{
 		"code": "VG",
@@ -801,7 +801,7 @@
 	},
 	{
 		"code": "VN",
-		"value": 1584
+		"value": 1583
 	},
 	{
 		"code": "XK",

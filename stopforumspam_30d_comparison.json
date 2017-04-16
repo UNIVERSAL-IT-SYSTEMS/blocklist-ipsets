@@ -176,7 +176,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13478,
+		"ips": 13436,
 		"common": 893
 	},
 	{
@@ -218,8 +218,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 7108,
-		"common": 578
+		"ips": 7118,
+		"common": 577
 	},
 	{
 		"name": "bogons",
@@ -231,25 +231,25 @@
 		"name": "botscout",
 		"category": "abuse",
 		"ips": 47,
-		"common": 36
+		"common": 32
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1361,
-		"common": 937
+		"ips": 1341,
+		"common": 926
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16274,
-		"common": 9118
+		"ips": 16273,
+		"common": 9120
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5624,
-		"common": 3580
+		"ips": 5633,
+		"common": 3584
 	},
 	{
 		"name": "botvrij_dst",
@@ -410,8 +410,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7106,
-		"common": 578
+		"ips": 7114,
+		"common": 577
 	},
 	{
 		"name": "dragon_http",
@@ -590,8 +590,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11700,
-		"common": 5727
+		"ips": 11686,
+		"common": 5721
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -602,7 +602,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42676,
+		"ips": 42646,
 		"common": 5216
 	},
 	{
@@ -614,8 +614,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54081,
-		"common": 730
+		"ips": 54087,
+		"common": 729
 	},
 	{
 		"name": "firehol_level3",
@@ -626,8 +626,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586305,
-		"common": 10112
+		"ips": 9586262,
+		"common": 10114
 	},
 	{
 		"name": "firehol_proxies",
@@ -674,8 +674,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1752,
-		"common": 103
+		"ips": 1779,
+		"common": 104
 	},
 	{
 		"name": "haley_ssh",
@@ -1034,8 +1034,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 5012,
-		"common": 77
+		"ips": 5416,
+		"common": 85
 	},
 	{
 		"name": "nt_ssh_7d",

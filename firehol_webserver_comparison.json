@@ -356,8 +356,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13478,
-		"common": 2373
+		"ips": 13436,
+		"common": 2362
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -404,8 +404,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 7108,
-		"common": 1777
+		"ips": 7118,
+		"common": 1774
 	},
 	{
 		"name": "bogons",
@@ -417,25 +417,25 @@
 		"name": "botscout",
 		"category": "abuse",
 		"ips": 47,
-		"common": 17
+		"common": 13
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1361,
-		"common": 433
+		"ips": 1341,
+		"common": 422
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16274,
-		"common": 4428
+		"ips": 16273,
+		"common": 4427
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5624,
-		"common": 1570
+		"ips": 5633,
+		"common": 1571
 	},
 	{
 		"name": "botvrij_dst",
@@ -638,8 +638,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7106,
-		"common": 1773
+		"ips": 7114,
+		"common": 1774
 	},
 	{
 		"name": "dragon_http",
@@ -920,8 +920,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11700,
-		"common": 3704
+		"ips": 11686,
+		"common": 3697
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -932,8 +932,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42676,
-		"common": 5644
+		"ips": 42646,
+		"common": 5640
 	},
 	{
 		"name": "firehol_level1",
@@ -944,8 +944,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54081,
-		"common": 7448
+		"ips": 54087,
+		"common": 7447
 	},
 	{
 		"name": "firehol_level3",
@@ -956,8 +956,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586305,
-		"common": 55795
+		"ips": 9586262,
+		"common": 55783
 	},
 	{
 		"name": "firehol_proxies",
@@ -998,8 +998,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1752,
-		"common": 214
+		"ips": 1779,
+		"common": 213
 	},
 	{
 		"name": "haley_ssh",
@@ -1460,8 +1460,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 5012,
-		"common": 87
+		"ips": 5416,
+		"common": 107
 	},
 	{
 		"name": "nt_malware_dns",

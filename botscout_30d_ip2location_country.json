@@ -25,7 +25,7 @@
 	},
 	{
 		"code": "AT",
-		"value": 10
+		"value": 11
 	},
 	{
 		"code": "AU",
@@ -145,7 +145,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 385
+		"value": 386
 	},
 	{
 		"code": "GE",
@@ -189,7 +189,7 @@
 	},
 	{
 		"code": "IE",
-		"value": 69
+		"value": 71
 	},
 	{
 		"code": "IL",
@@ -361,7 +361,7 @@
 	},
 	{
 		"code": "PL",
-		"value": 221
+		"value": 220
 	},
 	{
 		"code": "PR",
@@ -465,11 +465,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 658
+		"value": 659
 	},
 	{
 		"code": "US",
-		"value": 6536
+		"value": 6532
 	},
 	{
 		"code": "UY",
@@ -485,7 +485,7 @@
 	},
 	{
 		"code": "VG",
-		"value": 50
+		"value": 49
 	},
 	{
 		"code": "VN",
