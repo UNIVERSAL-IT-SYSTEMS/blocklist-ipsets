@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 18
+		"value": 17
 	},
 	{
 		"code": "DE",
@@ -73,6 +73,10 @@
 	},
 	{
 		"code": "IL",
+		"value": 2
+	},
+	{
+		"code": "IN",
 		"value": 1
 	},
 	{
@@ -161,6 +165,6 @@
 	},
 	{
 		"code": "US",
-		"value": 54
+		"value": 53
 	}
 ]

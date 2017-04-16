@@ -80,31 +80,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44406,
-		"common": 43
+		"ips": 44526,
+		"common": 42
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9236,
+		"ips": 9234,
 		"common": 19
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24674,
+		"ips": 24675,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
 		"ips": 233,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17474,
+		"ips": 17473,
 		"common": 6
 	},
 	{
@@ -248,8 +248,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53938,
-		"common": 76
+		"ips": 54084,
+		"common": 75
 	},
 	{
 		"name": "firehol_level3",
@@ -260,7 +260,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586329,
+		"ips": 9586330,
 		"common": 5
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1713,
+		"ips": 1752,
 		"common": 8
 	},
 	{

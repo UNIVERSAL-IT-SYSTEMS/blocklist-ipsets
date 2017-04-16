@@ -80,7 +80,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586329,
+		"ips": 9586330,
 		"common": 13
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 4302,
+		"ips": 4569,
 		"common": 4
 	},
 	{

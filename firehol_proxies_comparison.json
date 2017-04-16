@@ -98,31 +98,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44406,
-		"common": 1006
+		"ips": 44526,
+		"common": 1010
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
 		"ips": 249,
-		"common": 48
+		"common": 49
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4762,
-		"common": 1
+		"ips": 4769,
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24674,
+		"ips": 24675,
 		"common": 955
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17474,
+		"ips": 17473,
 		"common": 2
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13506,
+		"ips": 13505,
 		"common": 231
 	},
 	{
@@ -176,26 +176,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 38,
-		"common": 9
+		"ips": 47,
+		"common": 13
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1367,
-		"common": 185
+		"ips": 1361,
+		"common": 190
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16273,
+		"ips": 16274,
 		"common": 1870
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5622,
-		"common": 696
+		"ips": 5624,
+		"common": 699
 	},
 	{
 		"name": "bruteforceblocker",
@@ -464,8 +464,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11663,
-		"common": 750
+		"ips": 11658,
+		"common": 751
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -488,8 +488,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53938,
-		"common": 1040
+		"ips": 54084,
+		"common": 1044
 	},
 	{
 		"name": "firehol_level3",
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586329,
+		"ips": 9586330,
 		"common": 1960
 	},
 	{
@@ -536,8 +536,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1713,
-		"common": 33
+		"ips": 1752,
+		"common": 34
 	},
 	{
 		"name": "haley_ssh",
@@ -812,8 +812,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 4302,
-		"common": 116
+		"ips": 4569,
+		"common": 122
 	},
 	{
 		"name": "nullsecure",

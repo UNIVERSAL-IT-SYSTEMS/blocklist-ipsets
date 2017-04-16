@@ -5,7 +5,7 @@
 	},
 	{
 		"code": "AR",
-		"value": 8
+		"value": 7
 	},
 	{
 		"code": "AT",
@@ -113,7 +113,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 8
+		"value": 7
 	},
 	{
 		"code": "GI",
@@ -241,7 +241,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 8
+		"value": 9
 	},
 	{
 		"code": "NO",
@@ -325,7 +325,7 @@
 	},
 	{
 		"code": "US",
-		"value": 4537
+		"value": 4536
 	},
 	{
 		"code": "VE",
