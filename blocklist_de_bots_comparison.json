@@ -170,7 +170,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42677,
+		"ips": 42678,
 		"common": 48
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29293,
+		"ips": 29294,
 		"common": 48
 	},
 	{
@@ -566,7 +566,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 934,
+		"ips": 933,
 		"common": 29
 	},
 	{

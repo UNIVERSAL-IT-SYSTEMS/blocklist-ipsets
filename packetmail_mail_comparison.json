@@ -8,7 +8,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 73,
+		"ips": 102,
 		"common": 1
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42677,
+		"ips": 42678,
 		"common": 1
 	},
 	{
@@ -164,7 +164,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29293,
+		"ips": 29294,
 		"common": 1
 	},
 	{
@@ -302,13 +302,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 16177,
+		"ips": 16178,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 8156,
+		"ips": 8157,
 		"common": 1
 	},
 	{

@@ -32,7 +32,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 73,
+		"ips": 102,
 		"common": 18
 	},
 	{
@@ -42,10 +42,16 @@
 		"common": 50
 	},
 	{
+		"name": "bambenek_pykspa",
+		"category": "malware",
+		"ips": 10,
+		"common": 1
+	},
+	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 101,
-		"common": 17
+		"ips": 122,
+		"common": 21
 	},
 	{
 		"name": "bambenek_suppobox",

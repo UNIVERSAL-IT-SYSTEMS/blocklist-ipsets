@@ -302,8 +302,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42677,
-		"common": 16096
+		"ips": 42678,
+		"common": 16097
 	},
 	{
 		"name": "firehol_level1",
@@ -332,8 +332,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29293,
-		"common": 16102
+		"ips": 29294,
+		"common": 16103
 	},
 	{
 		"name": "firehol_webclient",
@@ -393,7 +393,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 119
+		"common": 120
 	},
 	{
 		"name": "iblocklist_hijacked",
@@ -477,7 +477,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 465
+		"common": 466
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -896,14 +896,14 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2313,
-		"common": 2313
+		"ips": 2305,
+		"common": 2305
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 8156,
-		"common": 8156
+		"ips": 8157,
+		"common": 8157
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -915,7 +915,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 1651
+		"common": 1652
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -974,7 +974,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 934,
+		"ips": 933,
 		"common": 17
 	},
 	{

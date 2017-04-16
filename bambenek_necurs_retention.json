@@ -1,7 +1,7 @@
 {
 	"ipset": "bambenek_necurs",
 	"started": 1438283255000,
-	"updated": 1492326483000,
+	"updated": 1492330036000,
 	"incomplete": 0,
 	"past": {
 		"hours": [ 
@@ -188,15 +188,17 @@
 	},
 	"current": {
 		"hours": [ 
-			2,
-			7,
-			13,
-			29 ],
+			0,
+			3,
+			8,
+			14,
+			30 ],
 		"ips": [ 
+			2,
 			1,
 			1,
 			1,
 			1 ],
-		"total": 4
+		"total": 6
 	}
 }

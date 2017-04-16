@@ -6,6 +6,12 @@
 		"common": 1
 	},
 	{
+		"name": "bambenek_banjori",
+		"category": "malware",
+		"ips": 102,
+		"common": 1
+	},
+	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 316,
@@ -14,7 +20,7 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 101,
+		"ips": 122,
 		"common": 1
 	},
 	{

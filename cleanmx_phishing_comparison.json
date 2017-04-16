@@ -38,7 +38,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 73,
+		"ips": 102,
 		"common": 7
 	},
 	{
@@ -48,10 +48,16 @@
 		"common": 18
 	},
 	{
+		"name": "bambenek_pykspa",
+		"category": "malware",
+		"ips": 10,
+		"common": 1
+	},
+	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 101,
-		"common": 12
+		"ips": 122,
+		"common": 13
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -488,7 +494,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42677,
+		"ips": 42678,
 		"common": 1
 	},
 	{
