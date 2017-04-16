@@ -14,7 +14,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 375,
+		"ips": 376,
 		"common": 1
 	},
 	{
@@ -380,8 +380,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 8668,
-		"common": 29
+		"ips": 8890,
+		"common": 31
 	},
 	{
 		"name": "openbl_all",

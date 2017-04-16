@@ -152,7 +152,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 375,
+		"ips": 376,
 		"common": 16
 	},
 	{
@@ -1178,8 +1178,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 8668,
-		"common": 476
+		"ips": 8890,
+		"common": 483
 	},
 	{
 		"name": "nt_malware_http",

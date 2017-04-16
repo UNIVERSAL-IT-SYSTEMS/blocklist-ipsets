@@ -37,7 +37,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 111
+		"value": 112
 	},
 	{
 		"code": "CO",
@@ -54,10 +54,6 @@
 	{
 		"code": "DK",
 		"value": 2
-	},
-	{
-		"code": "EC",
-		"value": 1
 	},
 	{
 		"code": "ES",
@@ -209,7 +205,7 @@
 	},
 	{
 		"code": "UA",
-		"value": 16
+		"value": 17
 	},
 	{
 		"code": "US",

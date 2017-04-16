@@ -386,8 +386,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 8668,
-		"common": 3
+		"ips": 8890,
+		"common": 5
 	},
 	{
 		"name": "openbl_all",

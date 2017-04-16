@@ -518,8 +518,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 8668,
-		"common": 39
+		"ips": 8890,
+		"common": 44
 	},
 	{
 		"name": "nullsecure",

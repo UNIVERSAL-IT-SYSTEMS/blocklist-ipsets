@@ -116,8 +116,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 375,
-		"common": 198
+		"ips": 376,
+		"common": 200
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -1238,8 +1238,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 8668,
-		"common": 68
+		"ips": 8890,
+		"common": 69
 	},
 	{
 		"name": "nt_ssh_7d",
