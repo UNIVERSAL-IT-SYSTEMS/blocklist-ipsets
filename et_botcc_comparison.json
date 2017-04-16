@@ -86,13 +86,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208278,
+		"ips": 208280,
 		"common": 1
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42666,
+		"ips": 42668,
 		"common": 1
 	},
 	{

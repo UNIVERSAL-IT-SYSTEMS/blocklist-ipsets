@@ -104,13 +104,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 44192,
+		"ips": 44195,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20095,
+		"ips": 20098,
 		"common": 1
 	},
 	{
@@ -158,13 +158,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208278,
+		"ips": 208280,
 		"common": 3
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42666,
+		"ips": 42668,
 		"common": 1
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29280,
+		"ips": 29282,
 		"common": 1
 	},
 	{

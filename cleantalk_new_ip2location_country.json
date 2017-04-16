@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 76
+		"value": 74
 	},
 	{
 		"code": "DE",
@@ -41,7 +41,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 5
+		"value": 4
 	},
 	{
 		"code": "GB",
@@ -56,8 +56,12 @@
 		"value": 1
 	},
 	{
+		"code": "IL",
+		"value": 1
+	},
+	{
 		"code": "IN",
-		"value": 19
+		"value": 18
 	},
 	{
 		"code": "IR",
@@ -161,7 +165,7 @@
 	},
 	{
 		"code": "US",
-		"value": 113
+		"value": 115
 	},
 	{
 		"code": "VN",

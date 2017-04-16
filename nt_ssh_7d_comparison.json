@@ -92,8 +92,8 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22119,
-		"common": 176
+		"ips": 22163,
+		"common": 177
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -158,7 +158,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208278,
+		"ips": 208280,
 		"common": 2
 	},
 	{

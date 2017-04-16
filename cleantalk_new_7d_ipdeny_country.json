@@ -53,7 +53,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 615
+		"value": 613
 	},
 	{
 		"code": "CO",
@@ -137,7 +137,7 @@
 	},
 	{
 		"code": "IL",
-		"value": 3
+		"value": 4
 	},
 	{
 		"code": "IN",
@@ -253,7 +253,7 @@
 	},
 	{
 		"code": "PL",
-		"value": 56
+		"value": 55
 	},
 	{
 		"code": "PS",
@@ -273,7 +273,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 868
+		"value": 869
 	},
 	{
 		"code": "SA",
@@ -317,11 +317,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 158
+		"value": 156
 	},
 	{
 		"code": "US",
-		"value": 1521
+		"value": 1523
 	},
 	{
 		"code": "VE",
