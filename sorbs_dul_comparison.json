@@ -194,13 +194,13 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 249,
-		"common": 22
+		"ips": 248,
+		"common": 21
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 754,
+		"ips": 751,
 		"common": 34
 	},
 	{
@@ -224,8 +224,8 @@
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 233,
-		"common": 23
+		"ips": 234,
+		"common": 24
 	},
 	{
 		"name": "blocklist_de_ssh",
@@ -242,8 +242,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13525,
-		"common": 551
+		"ips": 13527,
+		"common": 550
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -800,8 +800,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586359,
-		"common": 24948
+		"ips": 9586361,
+		"common": 24947
 	},
 	{
 		"name": "firehol_proxies",
@@ -1947,24 +1947,24 @@
 		"name": "xroxy",
 		"category": "anonymizers",
 		"ips": 63,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 152,
+		"ips": 148,
 		"common": 3
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 604,
+		"ips": 602,
 		"common": 17
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 252,
+		"ips": 253,
 		"common": 4
 	},
 	{

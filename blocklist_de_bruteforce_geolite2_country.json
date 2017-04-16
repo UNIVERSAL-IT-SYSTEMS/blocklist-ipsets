@@ -57,7 +57,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 211
+		"value": 210
 	},
 	{
 		"code": "CO",
@@ -149,11 +149,11 @@
 	},
 	{
 		"code": "IR",
-		"value": 2
+		"value": 1
 	},
 	{
 		"code": "IT",
-		"value": 15
+		"value": 16
 	},
 	{
 		"code": "JM",
@@ -297,7 +297,7 @@
 	},
 	{
 		"code": "US",
-		"value": 122
+		"value": 120
 	},
 	{
 		"code": "VE",
