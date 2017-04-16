@@ -26,7 +26,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22283,
+		"ips": 22280,
 		"common": 1
 	},
 	{
@@ -62,7 +62,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911153,
+		"ips": 656911152,
 		"common": 536870912
 	},
 	{

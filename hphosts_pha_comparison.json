@@ -314,7 +314,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911153,
+		"ips": 656911152,
 		"common": 59
 	},
 	{
@@ -602,7 +602,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5144,
+		"ips": 5143,
 		"common": 103
 	},
 	{
@@ -614,13 +614,13 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11728,
+		"ips": 11727,
 		"common": 1
 	},
 	{
 		"name": "ransomware_torrentlocker_c2",
 		"category": "malware",
-		"ips": 30,
+		"ips": 29,
 		"common": 1
 	},
 	{

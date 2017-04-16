@@ -260,19 +260,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5493,
-		"common": 236
+		"ips": 5509,
+		"common": 240
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6600,
+		"ips": 6606,
 		"common": 253
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22283,
+		"ips": 22280,
 		"common": 526
 	},
 	{
@@ -914,7 +914,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911153,
+		"ips": 656911152,
 		"common": 3655050
 	},
 	{
@@ -1442,8 +1442,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 5833,
-		"common": 85
+		"ips": 6191,
+		"common": 89
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1754,7 +1754,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5144,
+		"ips": 5143,
 		"common": 202
 	},
 	{
@@ -1778,7 +1778,7 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11728,
+		"ips": 11727,
 		"common": 134
 	},
 	{
@@ -1790,7 +1790,7 @@
 	{
 		"name": "ransomware_torrentlocker_c2",
 		"category": "malware",
-		"ips": 30,
+		"ips": 29,
 		"common": 2
 	},
 	{

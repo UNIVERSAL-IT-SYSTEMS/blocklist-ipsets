@@ -80,14 +80,14 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5493,
-		"common": 5493
+		"ips": 5509,
+		"common": 5509
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6600,
-		"common": 6600
+		"ips": 6606,
+		"common": 6606
 	},
 	{
 		"name": "bitcoin_nodes_7d",
@@ -398,7 +398,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911153,
+		"ips": 656911152,
 		"common": 16
 	},
 	{
@@ -435,7 +435,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34735876,
-		"common": 2195
+		"common": 2194
 	},
 	{
 		"name": "fullbogons",
@@ -495,7 +495,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 399
+		"common": 398
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -788,7 +788,7 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11728,
+		"ips": 11727,
 		"common": 1
 	},
 	{
@@ -927,7 +927,7 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 536919,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "talosintel_ipfilter",

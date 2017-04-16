@@ -122,19 +122,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5493,
+		"ips": 5509,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6600,
+		"ips": 6606,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22283,
+		"ips": 22280,
 		"common": 4
 	},
 	{
@@ -500,8 +500,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911153,
-		"common": 362
+		"ips": 656911152,
+		"common": 361
 	},
 	{
 		"name": "firehol_level2",
@@ -872,7 +872,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 5833,
+		"ips": 6191,
 		"common": 3
 	},
 	{
@@ -914,8 +914,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5144,
-		"common": 529
+		"ips": 5143,
+		"common": 528
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -932,8 +932,8 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11728,
-		"common": 3
+		"ips": 11727,
+		"common": 2
 	},
 	{
 		"name": "ransomware_teslacrypt_ps",
@@ -944,8 +944,8 @@
 	{
 		"name": "ransomware_torrentlocker_c2",
 		"category": "malware",
-		"ips": 30,
-		"common": 2
+		"ips": 29,
+		"common": 1
 	},
 	{
 		"name": "sblam",
