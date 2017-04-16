@@ -45,7 +45,7 @@
 	},
 	{
 		"code": "CA",
-		"value": 286
+		"value": 287
 	},
 	{
 		"code": "CH",
@@ -81,7 +81,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 1049
+		"value": 1052
 	},
 	{
 		"code": "DK",
@@ -157,7 +157,7 @@
 	},
 	{
 		"code": "IL",
-		"value": 26
+		"value": 27
 	},
 	{
 		"code": "IM",
@@ -165,7 +165,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 25
+		"value": 24
 	},
 	{
 		"code": "IR",
@@ -289,7 +289,7 @@
 	},
 	{
 		"code": "PT",
-		"value": 14
+		"value": 15
 	},
 	{
 		"code": "RO",
@@ -337,11 +337,11 @@
 	},
 	{
 		"code": "TR",
-		"value": 9
+		"value": 8
 	},
 	{
 		"code": "TW",
-		"value": 28
+		"value": 27
 	},
 	{
 		"code": "UA",
@@ -349,7 +349,7 @@
 	},
 	{
 		"code": "US",
-		"value": 2019
+		"value": 2017
 	},
 	{
 		"code": "VE",

@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "AR",
-		"value": 86
+		"value": 87
 	},
 	{
 		"code": "AT",
@@ -93,7 +93,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 701
+		"value": 700
 	},
 	{
 		"code": "CO",
@@ -465,7 +465,7 @@
 	},
 	{
 		"code": "TH",
-		"value": 111
+		"value": 112
 	},
 	{
 		"code": "TJ",
@@ -481,7 +481,7 @@
 	},
 	{
 		"code": "TR",
-		"value": 35
+		"value": 34
 	},
 	{
 		"code": "TW",
@@ -493,7 +493,7 @@
 	},
 	{
 		"code": "UA",
-		"value": 111
+		"value": 110
 	},
 	{
 		"code": "UG",
@@ -501,7 +501,7 @@
 	},
 	{
 		"code": "US",
-		"value": 1177
+		"value": 1179
 	},
 	{
 		"code": "UY",

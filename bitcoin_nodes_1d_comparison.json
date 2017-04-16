@@ -38,8 +38,8 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 4410,
-		"common": 3279
+		"ips": 4409,
+		"common": 3280
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
@@ -50,20 +50,20 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5444,
-		"common": 5444
+		"ips": 5445,
+		"common": 5445
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22276,
-		"common": 6613
+		"ips": 22278,
+		"common": 6614
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10257,
-		"common": 6613
+		"ips": 10260,
+		"common": 6614
 	},
 	{
 		"name": "blocklist_de",
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586283,
+		"ips": 9586287,
 		"common": 13
 	},
 	{
@@ -465,7 +465,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 306
+		"common": 305
 	},
 	{
 		"name": "iblocklist_isp_embarq",
@@ -507,7 +507,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 496
+		"common": 495
 	},
 	{
 		"name": "iblocklist_level3",
@@ -681,7 +681,7 @@
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22951270,
-		"common": 101
+		"common": 100
 	},
 	{
 		"name": "sorbs_recent_spam",
@@ -699,7 +699,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 145
+		"common": 144
 	},
 	{
 		"name": "sp_atma",
