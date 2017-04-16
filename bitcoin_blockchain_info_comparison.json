@@ -74,7 +74,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42675,
+		"ips": 42676,
 		"common": 4
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762690808,
+		"ips": 762687892,
 		"common": 12
 	},
 	{

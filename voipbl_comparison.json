@@ -164,13 +164,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44531,
+		"ips": 44417,
 		"common": 134
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9211,
+		"ips": 9207,
 		"common": 22
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24717,
+		"ips": 24685,
 		"common": 6
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17578,
+		"ips": 17513,
 		"common": 19
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 17108,
+		"ips": 17153,
 		"common": 194
 	},
 	{
@@ -578,7 +578,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42675,
+		"ips": 42676,
 		"common": 23
 	},
 	{
@@ -590,13 +590,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54097,
+		"ips": 53985,
 		"common": 228
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146135,
+		"ips": 146175,
 		"common": 641
 	},
 	{
@@ -608,7 +608,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29279,
+		"ips": 29280,
 		"common": 5
 	},
 	{
@@ -824,7 +824,7 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762690808,
+		"ips": 762687892,
 		"common": 964
 	},
 	{
@@ -956,7 +956,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 286,
+		"ips": 288,
 		"common": 6
 	},
 	{
@@ -986,7 +986,7 @@
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 14771,
+		"ips": 14770,
 		"common": 41
 	},
 	{

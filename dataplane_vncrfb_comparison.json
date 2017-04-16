@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44531,
+		"ips": 44417,
 		"common": 8
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24717,
+		"ips": 24685,
 		"common": 8
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 17108,
+		"ips": 17153,
 		"common": 4
 	},
 	{
@@ -314,13 +314,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54097,
+		"ips": 53985,
 		"common": 26
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146135,
+		"ips": 146175,
 		"common": 30
 	},
 	{
@@ -440,7 +440,7 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762690808,
+		"ips": 762687892,
 		"common": 13
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 14771,
+		"ips": 14770,
 		"common": 5
 	},
 	{

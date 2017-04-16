@@ -32,8 +32,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44531,
-		"common": 200
+		"ips": 44417,
+		"common": 197
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -44,8 +44,8 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24717,
-		"common": 178
+		"ips": 24685,
+		"common": 176
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -302,19 +302,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42675,
+		"ips": 42676,
 		"common": 2601
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54097,
-		"common": 205
+		"ips": 53985,
+		"common": 202
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146135,
+		"ips": 146175,
 		"common": 111
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29279,
+		"ips": 29280,
 		"common": 2602
 	},
 	{
@@ -434,7 +434,7 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762690808,
+		"ips": 762687892,
 		"common": 74
 	},
 	{
@@ -548,7 +548,7 @@
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 14771,
+		"ips": 14770,
 		"common": 1
 	},
 	{
@@ -795,25 +795,25 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 20
+		"common": 13
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2201,
-		"common": 257
+		"ips": 2171,
+		"common": 258
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 16179,
+		"ips": 16180,
 		"common": 720
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 8132,
-		"common": 463
+		"ips": 8127,
+		"common": 462
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -867,13 +867,13 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 41
+		"common": 42
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 261,
-		"common": 86
+		"ips": 260,
+		"common": 85
 	},
 	{
 		"name": "sslproxies_30d",
