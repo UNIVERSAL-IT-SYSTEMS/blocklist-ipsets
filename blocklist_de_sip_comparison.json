@@ -188,7 +188,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54321,
+		"ips": 54322,
 		"common": 195
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 289,
+		"ips": 293,
 		"common": 1
 	},
 	{

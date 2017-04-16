@@ -1,7 +1,7 @@
 [
 	{
 		"code": "AR",
-		"value": 20
+		"value": 21
 	},
 	{
 		"code": "BD",
@@ -13,7 +13,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 4
+		"value": 5
 	},
 	{
 		"code": "CA",
@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 112
+		"value": 116
 	},
 	{
 		"code": "CO",
@@ -73,10 +73,6 @@
 	},
 	{
 		"code": "HK",
-		"value": 2
-	},
-	{
-		"code": "ID",
 		"value": 1
 	},
 	{
@@ -141,7 +137,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 17
+		"value": 18
 	},
 	{
 		"code": "SC",
@@ -161,7 +157,7 @@
 	},
 	{
 		"code": "TH",
-		"value": 3
+		"value": 2
 	},
 	{
 		"code": "TR",

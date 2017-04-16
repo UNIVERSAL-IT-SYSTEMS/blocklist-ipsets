@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 35
+		"value": 34
 	},
 	{
 		"code": "CA",
@@ -89,7 +89,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 8
+		"value": 7
 	},
 	{
 		"code": "IR",
@@ -105,7 +105,7 @@
 	},
 	{
 		"code": "KR",
-		"value": 3
+		"value": 2
 	},
 	{
 		"code": "LB",
@@ -149,7 +149,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 19
+		"value": 17
 	},
 	{
 		"code": "SR",
@@ -177,7 +177,7 @@
 	},
 	{
 		"code": "US",
-		"value": 48
+		"value": 47
 	},
 	{
 		"code": "VN",

@@ -45,11 +45,11 @@
 	},
 	{
 		"code": "CA",
-		"value": 290
+		"value": 291
 	},
 	{
 		"code": "CH",
-		"value": 94
+		"value": 95
 	},
 	{
 		"code": "CL",
@@ -85,7 +85,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 1066
+		"value": 1067
 	},
 	{
 		"code": "DK",
@@ -161,7 +161,7 @@
 	},
 	{
 		"code": "IL",
-		"value": 27
+		"value": 26
 	},
 	{
 		"code": "IM",
@@ -297,7 +297,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 247
+		"value": 245
 	},
 	{
 		"code": "SA",
@@ -341,7 +341,7 @@
 	},
 	{
 		"code": "UA",
-		"value": 95
+		"value": 96
 	},
 	{
 		"code": "US",
