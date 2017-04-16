@@ -170,31 +170,31 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 892,
+		"ips": 885,
 		"common": 7
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5504,
+		"ips": 5494,
 		"common": 29
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6598,
+		"ips": 6594,
 		"common": 29
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22274,
+		"ips": 22275,
 		"common": 41
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10266,
+		"ips": 10267,
 		"common": 32
 	},
 	{
@@ -260,8 +260,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13348,
-		"common": 423
+		"ips": 13310,
+		"common": 420
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -722,8 +722,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586193,
-		"common": 3624
+		"ips": 9586157,
+		"common": 3621
 	},
 	{
 		"name": "firehol_proxies",

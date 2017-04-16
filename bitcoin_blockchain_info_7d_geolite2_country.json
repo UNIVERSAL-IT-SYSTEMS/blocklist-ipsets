@@ -9,7 +9,7 @@
 	},
 	{
 		"code": "AU",
-		"value": 12
+		"value": 10
 	},
 	{
 		"code": "BA",
@@ -53,7 +53,7 @@
 	},
 	{
 		"code": "CO",
-		"value": 2
+		"value": 1
 	},
 	{
 		"code": "CR",
@@ -93,7 +93,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 41
+		"value": 39
 	},
 	{
 		"code": "GE",
@@ -105,7 +105,7 @@
 	},
 	{
 		"code": "HK",
-		"value": 6
+		"value": 5
 	},
 	{
 		"code": "HU",
@@ -253,7 +253,7 @@
 	},
 	{
 		"code": "US",
-		"value": 239
+		"value": 238
 	},
 	{
 		"code": "ZA",
