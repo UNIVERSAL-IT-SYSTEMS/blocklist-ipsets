@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "AM",
-		"value": 31
+		"value": 30
 	},
 	{
 		"code": "AR",
@@ -65,7 +65,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 233
+		"value": 232
 	},
 	{
 		"code": "BS",
@@ -93,7 +93,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 942
+		"value": 943
 	},
 	{
 		"code": "CO",
@@ -225,7 +225,7 @@
 	},
 	{
 		"code": "IR",
-		"value": 62
+		"value": 61
 	},
 	{
 		"code": "IS",
@@ -393,7 +393,7 @@
 	},
 	{
 		"code": "RO",
-		"value": 723
+		"value": 722
 	},
 	{
 		"code": "RS",
@@ -477,7 +477,7 @@
 	},
 	{
 		"code": "UA",
-		"value": 501
+		"value": 500
 	},
 	{
 		"code": "UG",

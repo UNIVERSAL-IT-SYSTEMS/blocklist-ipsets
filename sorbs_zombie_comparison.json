@@ -20,13 +20,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 44205,
+		"ips": 44192,
 		"common": 5
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20059,
+		"ips": 20047,
 		"common": 5
 	},
 	{
@@ -62,7 +62,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208335,
+		"ips": 208331,
 		"common": 5
 	},
 	{

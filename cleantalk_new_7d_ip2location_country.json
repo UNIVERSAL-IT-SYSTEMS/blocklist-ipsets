@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 200
+		"value": 199
 	},
 	{
 		"code": "BY",
@@ -49,7 +49,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 622
+		"value": 623
 	},
 	{
 		"code": "CO",
@@ -157,7 +157,7 @@
 	},
 	{
 		"code": "IR",
-		"value": 41
+		"value": 40
 	},
 	{
 		"code": "IS",
@@ -285,7 +285,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 881
+		"value": 880
 	},
 	{
 		"code": "SA",
@@ -329,11 +329,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 156
+		"value": 155
 	},
 	{
 		"code": "US",
-		"value": 1441
+		"value": 1439
 	},
 	{
 		"code": "VE",

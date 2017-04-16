@@ -38,31 +38,31 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 44205,
+		"ips": 44192,
 		"common": 6
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 15513,
+		"ips": 15509,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20059,
+		"ips": 20047,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33139,
+		"ips": 33138,
 		"common": 7
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13677,
+		"ips": 13676,
 		"common": 2
 	},
 	{
@@ -122,13 +122,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208335,
+		"ips": 208331,
 		"common": 33
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42671,
+		"ips": 42668,
 		"common": 1
 	},
 	{

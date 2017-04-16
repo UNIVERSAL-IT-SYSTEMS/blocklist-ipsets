@@ -25,7 +25,7 @@
 	},
 	{
 		"code": "AU",
-		"value": 25
+		"value": 26
 	},
 	{
 		"code": "AX",
@@ -53,7 +53,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 3079
+		"value": 3080
 	},
 	{
 		"code": "BY",
@@ -73,7 +73,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 868
+		"value": 869
 	},
 	{
 		"code": "CO",
@@ -249,7 +249,7 @@
 	},
 	{
 		"code": "NO",
-		"value": 155
+		"value": 156
 	},
 	{
 		"code": "NP",
@@ -353,7 +353,7 @@
 	},
 	{
 		"code": "US",
-		"value": 1959
+		"value": 1962
 	},
 	{
 		"code": "VE",

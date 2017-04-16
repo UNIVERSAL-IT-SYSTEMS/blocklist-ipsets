@@ -17,7 +17,7 @@
 	},
 	{
 		"code": "AU",
-		"value": 8
+		"value": 9
 	},
 	{
 		"code": "BD",
@@ -37,7 +37,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 404
+		"value": 411
 	},
 	{
 		"code": "BY",
@@ -57,7 +57,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 168
+		"value": 169
 	},
 	{
 		"code": "CO",
@@ -169,7 +169,7 @@
 	},
 	{
 		"code": "MX",
-		"value": 62
+		"value": 64
 	},
 	{
 		"code": "MY",
@@ -185,7 +185,7 @@
 	},
 	{
 		"code": "NO",
-		"value": 70
+		"value": 71
 	},
 	{
 		"code": "NP",
@@ -253,7 +253,7 @@
 	},
 	{
 		"code": "TH",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "TR",
@@ -269,7 +269,7 @@
 	},
 	{
 		"code": "US",
-		"value": 820
+		"value": 826
 	},
 	{
 		"code": "ZA",

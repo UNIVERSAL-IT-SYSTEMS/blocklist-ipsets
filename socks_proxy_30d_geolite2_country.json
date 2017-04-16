@@ -25,7 +25,7 @@
 	},
 	{
 		"code": "AU",
-		"value": 52
+		"value": 53
 	},
 	{
 		"code": "AX",
@@ -53,7 +53,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 6291
+		"value": 6292
 	},
 	{
 		"code": "BY",
@@ -72,12 +72,8 @@
 		"value": 8
 	},
 	{
-		"code": "CM",
-		"value": 1
-	},
-	{
 		"code": "CN",
-		"value": 1320
+		"value": 1321
 	},
 	{
 		"code": "CO",
@@ -285,7 +281,7 @@
 	},
 	{
 		"code": "NO",
-		"value": 244
+		"value": 245
 	},
 	{
 		"code": "NP",
@@ -357,7 +353,7 @@
 	},
 	{
 		"code": "SG",
-		"value": 130
+		"value": 129
 	},
 	{
 		"code": "SI",
@@ -365,7 +361,7 @@
 	},
 	{
 		"code": "SK",
-		"value": 16
+		"value": 15
 	},
 	{
 		"code": "SR",
@@ -405,7 +401,7 @@
 	},
 	{
 		"code": "US",
-		"value": 4229
+		"value": 4230
 	},
 	{
 		"code": "UY",
