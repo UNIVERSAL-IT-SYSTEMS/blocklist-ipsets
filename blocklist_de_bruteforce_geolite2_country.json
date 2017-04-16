@@ -141,7 +141,7 @@
 	},
 	{
 		"code": "IT",
-		"value": 12
+		"value": 13
 	},
 	{
 		"code": "JM",
@@ -289,7 +289,11 @@
 	},
 	{
 		"code": "US",
-		"value": 126
+		"value": 124
+	},
+	{
+		"code": "VE",
+		"value": 1
 	},
 	{
 		"code": "VN",

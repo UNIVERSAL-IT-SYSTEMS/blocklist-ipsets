@@ -77,11 +77,11 @@
 	},
 	{
 		"code": "FI",
-		"value": 9
+		"value": 8
 	},
 	{
 		"code": "FR",
-		"value": 151
+		"value": 152
 	},
 	{
 		"code": "GB",
@@ -181,7 +181,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 47
+		"value": 46
 	},
 	{
 		"code": "SC",
@@ -225,7 +225,7 @@
 	},
 	{
 		"code": "US",
-		"value": 159
+		"value": 158
 	},
 	{
 		"code": "VN",

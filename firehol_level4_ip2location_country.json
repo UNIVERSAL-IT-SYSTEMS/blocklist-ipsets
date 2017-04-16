@@ -5,7 +5,7 @@
 	},
 	{
 		"code": "AE",
-		"value": 199
+		"value": 198
 	},
 	{
 		"code": "AF",
@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "AR",
-		"value": 5527
+		"value": 5525
 	},
 	{
 		"code": "AS",
@@ -93,7 +93,7 @@
 	},
 	{
 		"code": "BO",
-		"value": 47
+		"value": 46
 	},
 	{
 		"code": "BQ",
@@ -117,7 +117,7 @@
 	},
 	{
 		"code": "BY",
-		"value": 567
+		"value": 566
 	},
 	{
 		"code": "BZ",
@@ -125,7 +125,7 @@
 	},
 	{
 		"code": "CA",
-		"value": 243071
+		"value": 243072
 	},
 	{
 		"code": "CD",
@@ -153,7 +153,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 1162331
+		"value": 1162330
 	},
 	{
 		"code": "CO",
@@ -161,7 +161,7 @@
 	},
 	{
 		"code": "COUNTRYLESS",
-		"value": 646898
+		"value": 646899
 	},
 	{
 		"code": "CR",
@@ -185,7 +185,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 169226
+		"value": 169223
 	},
 	{
 		"code": "DJ",
@@ -245,7 +245,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 82957
+		"value": 82960
 	},
 	{
 		"code": "GD",
@@ -309,7 +309,7 @@
 	},
 	{
 		"code": "HR",
-		"value": 212
+		"value": 213
 	},
 	{
 		"code": "HT",
@@ -321,7 +321,7 @@
 	},
 	{
 		"code": "ID",
-		"value": 772
+		"value": 771
 	},
 	{
 		"code": "IE",
@@ -337,7 +337,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 147793
+		"value": 147792
 	},
 	{
 		"code": "IQ",
@@ -353,7 +353,7 @@
 	},
 	{
 		"code": "IT",
-		"value": 1655
+		"value": 1656
 	},
 	{
 		"code": "JM",
@@ -485,7 +485,7 @@
 	},
 	{
 		"code": "MN",
-		"value": 64
+		"value": 65
 	},
 	{
 		"code": "MO",
@@ -517,7 +517,7 @@
 	},
 	{
 		"code": "MX",
-		"value": 65980
+		"value": 65979
 	},
 	{
 		"code": "MY",
@@ -625,15 +625,15 @@
 	},
 	{
 		"code": "RO",
-		"value": 12808
+		"value": 12809
 	},
 	{
 		"code": "RS",
-		"value": 528
+		"value": 529
 	},
 	{
 		"code": "RU",
-		"value": 112168
+		"value": 112167
 	},
 	{
 		"code": "RW",
@@ -753,7 +753,7 @@
 	},
 	{
 		"code": "UA",
-		"value": 286274
+		"value": 286273
 	},
 	{
 		"code": "UG",
@@ -761,7 +761,7 @@
 	},
 	{
 		"code": "US",
-		"value": 4293449
+		"value": 4293445
 	},
 	{
 		"code": "UY",
@@ -777,7 +777,7 @@
 	},
 	{
 		"code": "VG",
-		"value": 79
+		"value": 78
 	},
 	{
 		"code": "VI",

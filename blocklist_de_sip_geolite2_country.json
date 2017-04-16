@@ -49,7 +49,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 37
+		"value": 36
 	},
 	{
 		"code": "GB",
@@ -148,11 +148,15 @@
 		"value": 4
 	},
 	{
+		"code": "SK",
+		"value": 1
+	},
+	{
 		"code": "TR",
 		"value": 1
 	},
 	{
 		"code": "US",
-		"value": 56
+		"value": 55
 	}
 ]

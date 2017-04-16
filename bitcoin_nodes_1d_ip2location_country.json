@@ -13,7 +13,7 @@
 	},
 	{
 		"code": "AU",
-		"value": 98
+		"value": 97
 	},
 	{
 		"code": "AX",
@@ -45,7 +45,7 @@
 	},
 	{
 		"code": "CA",
-		"value": 291
+		"value": 290
 	},
 	{
 		"code": "CH",
@@ -81,11 +81,11 @@
 	},
 	{
 		"code": "CZ",
-		"value": 59
+		"value": 60
 	},
 	{
 		"code": "DE",
-		"value": 1066
+		"value": 1064
 	},
 	{
 		"code": "DK",
@@ -257,7 +257,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 362
+		"value": 361
 	},
 	{
 		"code": "NO",
@@ -345,7 +345,7 @@
 	},
 	{
 		"code": "US",
-		"value": 1979
+		"value": 1977
 	},
 	{
 		"code": "VE",

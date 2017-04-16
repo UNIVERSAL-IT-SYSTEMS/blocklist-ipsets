@@ -8,13 +8,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44475,
+		"ips": 44449,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 237,
+		"ips": 236,
 		"common": 4
 	},
 	{
@@ -68,7 +68,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54241,
+		"ips": 54243,
 		"common": 5
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1687,
+		"ips": 1730,
 		"common": 1
 	},
 	{
