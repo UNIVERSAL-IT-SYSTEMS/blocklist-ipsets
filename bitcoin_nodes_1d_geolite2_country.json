@@ -77,11 +77,11 @@
 	},
 	{
 		"code": "CZ",
-		"value": 60
+		"value": 61
 	},
 	{
 		"code": "DE",
-		"value": 1062
+		"value": 1063
 	},
 	{
 		"code": "DK",
@@ -109,7 +109,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 389
+		"value": 388
 	},
 	{
 		"code": "GB",
@@ -301,7 +301,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 257
+		"value": 256
 	},
 	{
 		"code": "SA",
@@ -349,7 +349,7 @@
 	},
 	{
 		"code": "US",
-		"value": 2000
+		"value": 1999
 	},
 	{
 		"code": "VE",
