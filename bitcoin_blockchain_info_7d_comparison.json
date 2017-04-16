@@ -27,31 +27,31 @@
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
 		"ips": 4408,
-		"common": 883
+		"common": 882
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5487,
-		"common": 769
+		"ips": 5500,
+		"common": 770
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6602,
-		"common": 789
+		"ips": 6586,
+		"common": 788
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22272,
-		"common": 875
+		"ips": 22270,
+		"common": 874
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
 		"ips": 10269,
-		"common": 872
+		"common": 871
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42612,
+		"ips": 42613,
 		"common": 21
 	},
 	{

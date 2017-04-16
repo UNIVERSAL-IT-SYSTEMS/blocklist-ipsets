@@ -116,8 +116,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13279,
-		"common": 461
+		"ips": 13376,
+		"common": 462
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -464,7 +464,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42612,
+		"ips": 42613,
 		"common": 1
 	},
 	{
@@ -488,8 +488,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586120,
-		"common": 521
+		"ips": 9586216,
+		"common": 522
 	},
 	{
 		"name": "firehol_webclient",
@@ -746,8 +746,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 8890,
-		"common": 73
+		"ips": 9177,
+		"common": 82
 	},
 	{
 		"name": "nullsecure",
