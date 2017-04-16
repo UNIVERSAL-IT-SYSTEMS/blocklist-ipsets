@@ -74,26 +74,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44157,
-		"common": 154
+		"ips": 43564,
+		"common": 153
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 566,
+		"ips": 555,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4849,
+		"ips": 4804,
 		"common": 35
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24426,
-		"common": 153
+		"ips": 23984,
+		"common": 152
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42613,
+		"ips": 42616,
 		"common": 64
 	},
 	{
@@ -350,8 +350,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53385,
-		"common": 163
+		"ips": 52797,
+		"common": 162
 	},
 	{
 		"name": "firehol_level3",
@@ -368,7 +368,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29271,
+		"ips": 29274,
 		"common": 64
 	},
 	{
@@ -380,8 +380,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34735876,
-		"common": 54
+		"ips": 34735844,
+		"common": 53
 	},
 	{
 		"name": "fullbogons",
@@ -596,8 +596,8 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 2600,
-		"common": 14
+		"ips": 2543,
+		"common": 13
 	},
 	{
 		"name": "nixspam",
@@ -620,7 +620,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 282,
+		"ips": 280,
 		"common": 1
 	},
 	{
@@ -885,24 +885,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2174,
+		"ips": 2181,
 		"common": 29
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 16184,
+		"ips": 16187,
 		"common": 58
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 8137,
+		"ips": 8141,
 		"common": 42
 	},
 	{

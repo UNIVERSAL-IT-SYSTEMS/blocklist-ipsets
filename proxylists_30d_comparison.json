@@ -38,25 +38,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44157,
-		"common": 296
+		"ips": 43564,
+		"common": 293
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 242,
-		"common": 27
+		"ips": 236,
+		"common": 26
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24426,
-		"common": 267
+		"ips": 23984,
+		"common": 265
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17514,
+		"ips": 17384,
 		"common": 2
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42613,
+		"ips": 42616,
 		"common": 6517
 	},
 	{
@@ -350,8 +350,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53385,
-		"common": 301
+		"ips": 52797,
+		"common": 298
 	},
 	{
 		"name": "firehol_level3",
@@ -368,7 +368,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29271,
+		"ips": 29274,
 		"common": 6531
 	},
 	{
@@ -380,8 +380,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34735876,
-		"common": 611
+		"ips": 34735844,
+		"common": 601
 	},
 	{
 		"name": "gofferje_sip",
@@ -596,8 +596,8 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 2600,
-		"common": 168
+		"ips": 2543,
+		"common": 158
 	},
 	{
 		"name": "nixspam",
@@ -897,25 +897,25 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 15
+		"common": 11
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2174,
-		"common": 308
+		"ips": 2181,
+		"common": 309
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 16184,
+		"ips": 16187,
 		"common": 1059
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 8137,
-		"common": 636
+		"ips": 8141,
+		"common": 637
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -981,7 +981,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 52
+		"common": 50
 	},
 	{
 		"name": "sslproxies_1d",

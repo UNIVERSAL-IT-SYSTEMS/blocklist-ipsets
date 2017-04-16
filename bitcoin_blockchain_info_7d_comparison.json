@@ -32,25 +32,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5500,
-		"common": 770
+		"ips": 5496,
+		"common": 771
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6586,
+		"ips": 6591,
 		"common": 788
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22270,
+		"ips": 22267,
 		"common": 874
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10269,
+		"ips": 10273,
 		"common": 871
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42613,
+		"ips": 42616,
 		"common": 21
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53385,
+		"ips": 52797,
 		"common": 2
 	},
 	{
@@ -218,8 +218,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34735876,
-		"common": 181
+		"ips": 34735844,
+		"common": 180
 	},
 	{
 		"name": "fullbogons",
@@ -369,12 +369,6 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 1
-	},
-	{
-		"name": "myip",
-		"category": "abuse",
-		"ips": 2600,
 		"common": 1
 	},
 	{

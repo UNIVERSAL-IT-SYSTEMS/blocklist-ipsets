@@ -44,19 +44,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44157,
+		"ips": 43564,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9190,
+		"ips": 9186,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17514,
+		"ips": 17384,
 		"common": 1
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53385,
+		"ips": 52797,
 		"common": 6
 	},
 	{
@@ -158,8 +158,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34735876,
-		"common": 6
+		"ips": 34735844,
+		"common": 7
 	},
 	{
 		"name": "greensnow",
@@ -222,6 +222,12 @@
 		"common": 6
 	},
 	{
+		"name": "myip",
+		"category": "abuse",
+		"ips": 2543,
+		"common": 1
+	},
+	{
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 29041,
@@ -230,7 +236,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 282,
+		"ips": 280,
 		"common": 1
 	},
 	{

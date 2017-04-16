@@ -45,7 +45,7 @@
 	},
 	{
 		"code": "ES",
-		"value": 3
+		"value": 2
 	},
 	{
 		"code": "FI",
@@ -53,7 +53,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 34
+		"value": 33
 	},
 	{
 		"code": "GB",
@@ -144,6 +144,10 @@
 		"value": 1
 	},
 	{
+		"code": "RO",
+		"value": 1
+	},
+	{
 		"code": "RS",
 		"value": 3
 	},
@@ -169,6 +173,6 @@
 	},
 	{
 		"code": "US",
-		"value": 53
+		"value": 52
 	}
 ]

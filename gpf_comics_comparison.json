@@ -56,43 +56,43 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5500,
+		"ips": 5496,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6586,
+		"ips": 6591,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22270,
+		"ips": 22267,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10269,
+		"ips": 10273,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44157,
-		"common": 106
+		"ips": 43564,
+		"common": 105
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9190,
+		"ips": 9186,
 		"common": 48
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 242,
+		"ips": 236,
 		"common": 14
 	},
 	{
@@ -104,14 +104,14 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4849,
+		"ips": 4804,
 		"common": 15
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24426,
-		"common": 52
+		"ips": 23984,
+		"common": 51
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -404,7 +404,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42613,
+		"ips": 42616,
 		"common": 7
 	},
 	{
@@ -416,8 +416,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53385,
-		"common": 127
+		"ips": 52797,
+		"common": 126
 	},
 	{
 		"name": "firehol_level3",
@@ -434,7 +434,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29271,
+		"ips": 29274,
 		"common": 6
 	},
 	{
@@ -446,8 +446,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34735876,
-		"common": 283
+		"ips": 34735844,
+		"common": 282
 	},
 	{
 		"name": "gofferje_sip",
@@ -680,8 +680,8 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 2600,
-		"common": 26
+		"ips": 2543,
+		"common": 25
 	},
 	{
 		"name": "nixspam",

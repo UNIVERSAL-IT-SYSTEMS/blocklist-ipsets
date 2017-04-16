@@ -38,13 +38,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44157,
+		"ips": 43564,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 242,
+		"ips": 236,
 		"common": 11
 	},
 	{
@@ -248,13 +248,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42613,
+		"ips": 42616,
 		"common": 27
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53385,
+		"ips": 52797,
 		"common": 15
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29271,
+		"ips": 29274,
 		"common": 18
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34735876,
+		"ips": 34735844,
 		"common": 24
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 2600,
+		"ips": 2543,
 		"common": 5
 	},
 	{

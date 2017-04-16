@@ -44,14 +44,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44157,
-		"common": 129
+		"ips": 43564,
+		"common": 128
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17514,
-		"common": 129
+		"ips": 17384,
+		"common": 128
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -170,8 +170,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53385,
-		"common": 130
+		"ips": 52797,
+		"common": 129
 	},
 	{
 		"name": "firehol_level3",
@@ -188,7 +188,7 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34735876,
+		"ips": 34735844,
 		"common": 18
 	},
 	{
@@ -314,7 +314,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 282,
+		"ips": 280,
 		"common": 12
 	},
 	{

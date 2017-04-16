@@ -104,13 +104,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44157,
+		"ips": 43564,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9190,
+		"ips": 9186,
 		"common": 2
 	},
 	{
@@ -122,7 +122,7 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24426,
+		"ips": 23984,
 		"common": 6
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42613,
+		"ips": 42616,
 		"common": 1
 	},
 	{
@@ -506,7 +506,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53385,
+		"ips": 52797,
 		"common": 11
 	},
 	{
@@ -530,8 +530,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34735876,
-		"common": 2373
+		"ips": 34735844,
+		"common": 2374
 	},
 	{
 		"name": "fullbogons",
@@ -802,6 +802,12 @@
 		"category": "malware",
 		"ips": 1034,
 		"common": 20
+	},
+	{
+		"name": "myip",
+		"category": "abuse",
+		"ips": 2543,
+		"common": 1
 	},
 	{
 		"name": "nixspam",

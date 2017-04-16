@@ -38,7 +38,7 @@
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 237,
+		"ips": 235,
 		"common": 1
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42613,
+		"ips": 42616,
 		"common": 1
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34735876,
+		"ips": 34735844,
 		"common": 169
 	},
 	{

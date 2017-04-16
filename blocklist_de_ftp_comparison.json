@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44157,
-		"common": 566
+		"ips": 43564,
+		"common": 554
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -63,12 +63,6 @@
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 16270,
-		"common": 1
-	},
-	{
-		"name": "bruteforceblocker",
-		"category": "attacks",
-		"ips": 2160,
 		"common": 1
 	},
 	{
@@ -248,14 +242,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53385,
-		"common": 566
+		"ips": 52797,
+		"common": 554
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 146167,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "firehol_level4",
@@ -272,7 +266,7 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34735876,
+		"ips": 34735844,
 		"common": 9
 	},
 	{
@@ -369,7 +363,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1997385,
-		"common": 50
+		"common": 49
 	},
 	{
 		"name": "openbl_180d",
@@ -380,7 +374,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 282,
+		"ips": 280,
 		"common": 2
 	},
 	{
@@ -423,7 +417,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 4068,
-		"common": 31
+		"common": 30
 	},
 	{
 		"name": "packetmail_emerging_ips",
@@ -447,7 +441,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 47
+		"common": 44
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -459,7 +453,7 @@
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22951270,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "sorbs_recent_spam",
@@ -471,13 +465,13 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 110
+		"common": 106
 	},
 	{
 		"name": "sp_atma",
@@ -543,12 +537,12 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 23856,
-		"common": 21
+		"common": 20
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 229,
-		"common": 35
+		"common": 34
 	}
 ]

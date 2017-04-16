@@ -17,7 +17,7 @@
 	},
 	{
 		"code": "AT",
-		"value": 122
+		"value": 123
 	},
 	{
 		"code": "AU",
@@ -89,7 +89,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 1542
+		"value": 1543
 	},
 	{
 		"code": "DK",
@@ -361,11 +361,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 210
+		"value": 211
 	},
 	{
 		"code": "US",
-		"value": 2898
+		"value": 2899
 	},
 	{
 		"code": "VE",
