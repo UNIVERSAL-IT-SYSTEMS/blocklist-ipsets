@@ -248,14 +248,14 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 893,
+		"ips": 892,
 		"common": 57
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5507,
-		"common": 477
+		"ips": 5513,
+		"common": 480
 	},
 	{
 		"name": "bitcoin_nodes_1d",
@@ -266,13 +266,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22281,
-		"common": 794
+		"ips": 22277,
+		"common": 793
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10269,
+		"ips": 10268,
 		"common": 581
 	},
 	{
@@ -392,25 +392,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 51,
+		"ips": 39,
 		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1335,
+		"ips": 1322,
 		"common": 39
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16283,
-		"common": 509
+		"ips": 16280,
+		"common": 508
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5642,
+		"ips": 5640,
 		"common": 173
 	},
 	{
@@ -896,7 +896,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11794,
+		"ips": 11786,
 		"common": 618
 	},
 	{
@@ -920,8 +920,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53985,
-		"common": 2485
+		"ips": 53991,
+		"common": 2487
 	},
 	{
 		"name": "firehol_level3",
@@ -932,8 +932,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586221,
-		"common": 2537669
+		"ips": 9586219,
+		"common": 2537668
 	},
 	{
 		"name": "firehol_proxies",
@@ -980,8 +980,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1794,
-		"common": 96
+		"ips": 1803,
+		"common": 98
 	},
 	{
 		"name": "haley_ssh",
