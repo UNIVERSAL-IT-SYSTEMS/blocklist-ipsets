@@ -452,26 +452,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1545,
+		"ips": 1495,
 		"common": 81
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2687,
+		"ips": 2680,
 		"common": 128
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 6537,
-		"common": 212
+		"ips": 6543,
+		"common": 213
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4391,
-		"common": 204
+		"ips": 4399,
+		"common": 205
 	},
 	{
 		"name": "proxyrss",
@@ -524,25 +524,25 @@
 	{
 		"name": "proxz",
 		"category": "anonymizers",
-		"ips": 24,
-		"common": 2
+		"ips": 26,
+		"common": 1
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 280,
-		"common": 21
+		"ips": 285,
+		"common": 20
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2500,
+		"ips": 2502,
 		"common": 133
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 1035,
+		"ips": 1036,
 		"common": 79
 	},
 	{

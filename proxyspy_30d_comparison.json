@@ -728,26 +728,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1545,
-		"common": 469
+		"ips": 1495,
+		"common": 427
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2687,
-		"common": 1013
+		"ips": 2680,
+		"common": 1017
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 6537,
-		"common": 2384
+		"ips": 6543,
+		"common": 2383
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4391,
-		"common": 1719
+		"ips": 4399,
+		"common": 1718
 	},
 	{
 		"name": "proxyrss",
@@ -794,26 +794,26 @@
 	{
 		"name": "proxz",
 		"category": "anonymizers",
-		"ips": 24,
-		"common": 12
+		"ips": 26,
+		"common": 13
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 280,
-		"common": 124
+		"ips": 285,
+		"common": 129
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2500,
-		"common": 1168
+		"ips": 2502,
+		"common": 1169
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 1035,
-		"common": 489
+		"ips": 1036,
+		"common": 490
 	},
 	{
 		"name": "pushing_inertia_blocklist",

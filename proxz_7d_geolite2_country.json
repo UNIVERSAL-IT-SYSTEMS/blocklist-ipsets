@@ -41,11 +41,11 @@
 	},
 	{
 		"code": "BR",
-		"value": 32
+		"value": 34
 	},
 	{
 		"code": "CA",
-		"value": 70
+		"value": 71
 	},
 	{
 		"code": "CD",
@@ -193,7 +193,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 8
+		"value": 7
 	},
 	{
 		"code": "NO",
@@ -233,7 +233,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 67
+		"value": 66
 	},
 	{
 		"code": "SE",
@@ -269,11 +269,11 @@
 	},
 	{
 		"code": "US",
-		"value": 145
+		"value": 144
 	},
 	{
 		"code": "VE",
-		"value": 5
+		"value": 6
 	},
 	{
 		"code": "VG",

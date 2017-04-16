@@ -37,11 +37,11 @@
 	},
 	{
 		"code": "BR",
-		"value": 32
+		"value": 34
 	},
 	{
 		"code": "CA",
-		"value": 63
+		"value": 64
 	},
 	{
 		"code": "CD",
@@ -97,7 +97,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 61
+		"value": 60
 	},
 	{
 		"code": "GR",
@@ -189,7 +189,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 11
+		"value": 10
 	},
 	{
 		"code": "NO",
@@ -229,7 +229,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 65
+		"value": 64
 	},
 	{
 		"code": "SE",
@@ -269,7 +269,7 @@
 	},
 	{
 		"code": "VE",
-		"value": 5
+		"value": 6
 	},
 	{
 		"code": "VN",
