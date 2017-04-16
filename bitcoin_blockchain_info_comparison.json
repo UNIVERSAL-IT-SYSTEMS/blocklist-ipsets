@@ -2,7 +2,7 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 191,
+		"ips": 190,
 		"common": 182
 	},
 	{
@@ -14,31 +14,31 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 909,
+		"ips": 907,
 		"common": 182
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5444,
+		"ips": 5459,
 		"common": 176
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6608,
+		"ips": 6607,
 		"common": 177
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22276,
+		"ips": 22278,
 		"common": 179
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10258,
+		"ips": 10255,
 		"common": 179
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42668,
+		"ips": 42664,
 		"common": 4
 	},
 	{

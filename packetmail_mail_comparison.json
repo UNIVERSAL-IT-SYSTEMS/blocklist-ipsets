@@ -140,7 +140,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42668,
+		"ips": 42664,
 		"common": 1
 	},
 	{
@@ -164,7 +164,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29282,
+		"ips": 29278,
 		"common": 1
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 2228,
+		"ips": 2458,
 		"common": 6
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 8170,
+		"ips": 8162,
 		"common": 1
 	},
 	{

@@ -488,7 +488,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42668,
+		"ips": 42664,
 		"common": 46
 	},
 	{
@@ -506,7 +506,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146080,
+		"ips": 146083,
 		"common": 176
 	},
 	{
@@ -518,7 +518,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29282,
+		"ips": 29278,
 		"common": 33
 	},
 	{
@@ -776,8 +776,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 2228,
-		"common": 12
+		"ips": 2458,
+		"common": 13
 	},
 	{
 		"name": "nt_ssh_7d",
