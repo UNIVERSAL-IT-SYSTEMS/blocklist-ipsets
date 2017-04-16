@@ -105,7 +105,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 14
+		"value": 13
 	},
 	{
 		"code": "DZ",
@@ -269,7 +269,7 @@
 	},
 	{
 		"code": "MY",
-		"value": 8
+		"value": 9
 	},
 	{
 		"code": "NG",
@@ -277,7 +277,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 17
+		"value": 16
 	},
 	{
 		"code": "NO",
@@ -305,7 +305,7 @@
 	},
 	{
 		"code": "PK",
-		"value": 48
+		"value": 47
 	},
 	{
 		"code": "PL",
@@ -329,7 +329,7 @@
 	},
 	{
 		"code": "RO",
-		"value": 16
+		"value": 17
 	},
 	{
 		"code": "RS",
@@ -345,6 +345,10 @@
 	},
 	{
 		"code": "SC",
+		"value": 1
+	},
+	{
+		"code": "SD",
 		"value": 1
 	},
 	{
@@ -401,7 +405,7 @@
 	},
 	{
 		"code": "UA",
-		"value": 56
+		"value": 55
 	},
 	{
 		"code": "UG",

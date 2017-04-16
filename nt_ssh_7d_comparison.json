@@ -44,14 +44,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44443,
-		"common": 131
+		"ips": 44388,
+		"common": 132
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17521,
-		"common": 131
+		"ips": 17477,
+		"common": 132
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -170,8 +170,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54219,
-		"common": 132
+		"ips": 54163,
+		"common": 133
 	},
 	{
 		"name": "firehol_level3",

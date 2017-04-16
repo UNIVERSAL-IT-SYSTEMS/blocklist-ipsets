@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 5
+		"value": 4
 	},
 	{
 		"code": "BZ",
@@ -37,7 +37,7 @@
 	},
 	{
 		"code": "CA",
-		"value": 63
+		"value": 64
 	},
 	{
 		"code": "CH",
@@ -57,7 +57,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 81
+		"value": 82
 	},
 	{
 		"code": "DK",
@@ -145,7 +145,7 @@
 	},
 	{
 		"code": "LV",
-		"value": 10
+		"value": 9
 	},
 	{
 		"code": "MD",
@@ -225,7 +225,7 @@
 	},
 	{
 		"code": "US",
-		"value": 166
+		"value": 168
 	},
 	{
 		"code": "VN",

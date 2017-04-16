@@ -27,7 +27,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8299,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -39,7 +39,7 @@
 		"name": "bi_ftp_2_30d",
 		"category": "attacks",
 		"ips": 72,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "bi_mail_2_30d",
@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44443,
-		"common": 568
+		"ips": 44388,
+		"common": 567
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11506,
+		"ips": 11562,
 		"common": 26
 	},
 	{
@@ -248,8 +248,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54219,
-		"common": 568
+		"ips": 54163,
+		"common": 567
 	},
 	{
 		"name": "firehol_level3",
@@ -333,7 +333,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -441,7 +441,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 52
+		"common": 51
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -507,7 +507,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 547174,
-		"common": 41
+		"common": 40
 	},
 	{
 		"name": "stopforumspam_90d",
