@@ -1,0 +1,116 @@
+[
+	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 5574,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 8299,
+		"common": 8
+	},
+	{
+		"name": "bi_mail_2_30d",
+		"category": "attacks",
+		"ips": 1446,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 6651,
+		"common": 1
+	},
+	{
+		"name": "dragon_http",
+		"category": "attacks",
+		"ips": 59136,
+		"common": 3
+	},
+	{
+		"name": "dronebl_anonymizers",
+		"category": "anonymizers",
+		"ips": 322045,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 54379,
+		"common": 1
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 146085,
+		"common": 3
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1687,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762690808,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346613099,
+		"common": 1
+	},
+	{
+		"name": "jigsaw_attacks",
+		"category": "attacks",
+		"ips": 27109,
+		"common": 1
+	},
+	{
+		"name": "jigsaw_malware",
+		"category": "malware",
+		"ips": 59614,
+		"common": 2
+	},
+	{
+		"name": "openbl_360d",
+		"category": "attacks",
+		"ips": 38404,
+		"common": 2
+	},
+	{
+		"name": "openbl_all",
+		"category": "attacks",
+		"ips": 153297,
+		"common": 2
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2125,
+		"common": 1
+	},
+	{
+		"name": "sp_anti_infringement",
+		"category": "organizations",
+		"ips": 136184374,
+		"common": 2
+	},
+	{
+		"name": "threatcrowd",
+		"category": "malware",
+		"ips": 6383,
+		"common": 1
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 26013,
+		"common": 1
+	}
+]

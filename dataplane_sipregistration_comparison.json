@@ -1,0 +1,140 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 52014,
+		"common": 17
+	},
+	{
+		"name": "atlas_scans_30d",
+		"category": "attacks",
+		"ips": 99,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 44613,
+		"common": 3
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 236,
+		"common": 3
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 17065,
+		"common": 15
+	},
+	{
+		"name": "dataplane_sipinvitation",
+		"category": "attacks",
+		"ips": 46,
+		"common": 5
+	},
+	{
+		"name": "dataplane_sipquery",
+		"category": "attacks",
+		"ips": 403,
+		"common": 6
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 54379,
+		"common": 3
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 146085,
+		"common": 15
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34735876,
+		"common": 6
+	},
+	{
+		"name": "gofferje_sip",
+		"category": "attacks",
+		"ips": 1095696,
+		"common": 10
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unrouteable",
+		"ips": 656175779,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 16621,
+		"common": 8
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762690808,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 139023007,
+		"common": 5
+	},
+	{
+		"name": "jigsaw_malware",
+		"category": "malware",
+		"ips": 59614,
+		"common": 1
+	},
+	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 4037,
+		"common": 1
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2125,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512264,
+		"common": 6
+	},
+	{
+		"name": "stopforumspam_toxic",
+		"category": "abuse",
+		"ips": 536919,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 23856,
+		"common": 23
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 112,
+		"common": 1
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 26013,
+		"common": 30
+	}
+]

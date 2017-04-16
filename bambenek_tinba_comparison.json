@@ -1,0 +1,74 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 367,
+		"common": 3
+	},
+	{
+		"name": "bambenek_suppobox",
+		"category": "malware",
+		"ips": 64,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_online",
+		"category": "attacks",
+		"ips": 30542,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 656911154,
+		"common": 3
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34735876,
+		"common": 3
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 24599,
+		"common": 3
+	},
+	{
+		"name": "hphosts_fsa",
+		"category": "reputation",
+		"ips": 29164,
+		"common": 1
+	},
+	{
+		"name": "hphosts_pha",
+		"category": "reputation",
+		"ips": 1683,
+		"common": 1
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 25454,
+		"common": 1
+	},
+	{
+		"name": "hphosts_wrz",
+		"category": "reputation",
+		"ips": 821,
+		"common": 1
+	},
+	{
+		"name": "jigsaw_attacks",
+		"category": "attacks",
+		"ips": 27109,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512264,
+		"common": 1
+	}
+]
