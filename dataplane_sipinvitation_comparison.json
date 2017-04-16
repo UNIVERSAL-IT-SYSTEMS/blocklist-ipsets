@@ -44,7 +44,7 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 8448,
+		"ips": 8192,
 		"common": 1
 	},
 	{
@@ -68,7 +68,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54134,
+		"ips": 53938,
 		"common": 5
 	},
 	{

@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13512,
+		"ips": 13507,
 		"common": 2
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 8448,
+		"ips": 8192,
 		"common": 5
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54134,
+		"ips": 53938,
 		"common": 6
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586335,
+		"ips": 9586330,
 		"common": 113
 	},
 	{

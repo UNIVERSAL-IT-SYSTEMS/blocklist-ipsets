@@ -80,13 +80,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22289,
+		"ips": 22292,
 		"common": 5
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10260,
+		"ips": 10259,
 		"common": 3
 	},
 	{
@@ -146,8 +146,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13512,
-		"common": 474
+		"ips": 13507,
+		"common": 472
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -434,7 +434,7 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 8448,
+		"ips": 8192,
 		"common": 1
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54134,
+		"ips": 53938,
 		"common": 437
 	},
 	{
@@ -554,8 +554,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586335,
-		"common": 3314
+		"ips": 9586330,
+		"common": 3312
 	},
 	{
 		"name": "firehol_proxies",
@@ -1088,26 +1088,26 @@
 	{
 		"name": "proxyrss",
 		"category": "anonymizers",
-		"ips": 810,
-		"common": 174
+		"ips": 783,
+		"common": 173
 	},
 	{
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
-		"ips": 1878,
-		"common": 257
+		"ips": 1865,
+		"common": 258
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 5338,
+		"ips": 5333,
 		"common": 317
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 3463,
-		"common": 304
+		"ips": 3465,
+		"common": 305
 	},
 	{
 		"name": "proxyspy",

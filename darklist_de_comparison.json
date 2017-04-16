@@ -122,7 +122,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13512,
+		"ips": 13507,
 		"common": 135
 	},
 	{
@@ -404,8 +404,8 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 8448,
-		"common": 772
+		"ips": 8192,
+		"common": 516
 	},
 	{
 		"name": "dshield_30d",
@@ -548,8 +548,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54134,
-		"common": 1089
+		"ips": 53938,
+		"common": 859
 	},
 	{
 		"name": "firehol_level3",
@@ -560,7 +560,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586335,
+		"ips": 9586330,
 		"common": 496
 	},
 	{
@@ -1010,25 +1010,25 @@
 	{
 		"name": "proxyrss",
 		"category": "anonymizers",
-		"ips": 810,
-		"common": 2
+		"ips": 783,
+		"common": 3
 	},
 	{
 		"name": "proxyrss_1d",
 		"category": "anonymizers",
-		"ips": 1878,
+		"ips": 1865,
 		"common": 7
 	},
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 5338,
+		"ips": 5333,
 		"common": 10
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 3463,
+		"ips": 3465,
 		"common": 8
 	},
 	{
