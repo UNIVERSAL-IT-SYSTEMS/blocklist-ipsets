@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "AR",
-		"value": 330
+		"value": 331
 	},
 	{
 		"code": "AT",
@@ -37,7 +37,7 @@
 	},
 	{
 		"code": "AU",
-		"value": 56
+		"value": 57
 	},
 	{
 		"code": "AW",
@@ -125,7 +125,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 1941
+		"value": 1944
 	},
 	{
 		"code": "CO",
@@ -200,6 +200,10 @@
 		"value": 150
 	},
 	{
+		"code": "GD",
+		"value": 1
+	},
+	{
 		"code": "GE",
 		"value": 9
 	},
@@ -253,7 +257,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 559
+		"value": 562
 	},
 	{
 		"code": "IQ",
@@ -573,11 +577,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 325
+		"value": 326
 	},
 	{
 		"code": "US",
-		"value": 3941
+		"value": 3942
 	},
 	{
 		"code": "UY",
