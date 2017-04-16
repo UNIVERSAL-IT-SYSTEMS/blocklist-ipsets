@@ -63,7 +63,7 @@
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
 		"ips": 4408,
-		"common": 3674
+		"common": 3675
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
@@ -74,20 +74,20 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5508,
-		"common": 5508
+		"ips": 5502,
+		"common": 5502
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6593,
-		"common": 6593
+		"ips": 6602,
+		"common": 6602
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22279,
-		"common": 10272
+		"ips": 22278,
+		"common": 10271
 	},
 	{
 		"name": "blocklist_de",
@@ -399,7 +399,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34735876,
-		"common": 1497
+		"common": 1498
 	},
 	{
 		"name": "fullbogons",
@@ -411,7 +411,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095697,
-		"common": 205
+		"common": 206
 	},
 	{
 		"name": "gpf_comics",
@@ -561,7 +561,7 @@
 		"name": "iblocklist_isp_twc",
 		"category": "organizations",
 		"ips": 15015936,
-		"common": 123
+		"common": 122
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -573,7 +573,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762687892,
-		"common": 297
+		"common": 298
 	},
 	{
 		"name": "iblocklist_level2",
@@ -729,7 +729,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 1469
+		"common": 1470
 	},
 	{
 		"name": "sblam",
@@ -753,7 +753,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 2401
+		"common": 2400
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -783,7 +783,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 308
+		"common": 306
 	},
 	{
 		"name": "sp_atma",

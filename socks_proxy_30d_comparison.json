@@ -584,8 +584,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 7508,
-		"common": 172
+		"ips": 7768,
+		"common": 180
 	},
 	{
 		"name": "nullsecure",
@@ -734,26 +734,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1497,
-		"common": 649
+		"ips": 1494,
+		"common": 645
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2608,
-		"common": 720
+		"ips": 2660,
+		"common": 723
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 6542,
-		"common": 1055
+		"ips": 6545,
+		"common": 1057
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4395,
-		"common": 836
+		"ips": 4398,
+		"common": 837
 	},
 	{
 		"name": "proxyrss",
@@ -806,14 +806,14 @@
 	{
 		"name": "proxz",
 		"category": "anonymizers",
-		"ips": 23,
-		"common": 1
+		"ips": 24,
+		"common": 3
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 277,
-		"common": 37
+		"ips": 290,
+		"common": 38
 	},
 	{
 		"name": "proxz_30d",
@@ -824,7 +824,7 @@
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 1035,
+		"ips": 1037,
 		"common": 162
 	},
 	{

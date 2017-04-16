@@ -608,8 +608,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 7508,
-		"common": 3
+		"ips": 7768,
+		"common": 4
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -728,13 +728,13 @@
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 6542,
+		"ips": 6545,
 		"common": 1
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4395,
+		"ips": 4398,
 		"common": 1
 	},
 	{

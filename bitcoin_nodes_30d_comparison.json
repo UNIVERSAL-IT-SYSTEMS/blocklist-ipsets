@@ -80,20 +80,20 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5508,
-		"common": 5508
+		"ips": 5502,
+		"common": 5502
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6593,
-		"common": 6593
+		"ips": 6602,
+		"common": 6602
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10272,
-		"common": 10272
+		"ips": 10271,
+		"common": 10271
 	},
 	{
 		"name": "blocklist_de",
@@ -819,7 +819,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 5907
+		"common": 5906
 	},
 	{
 		"name": "sorbs_new_spam",

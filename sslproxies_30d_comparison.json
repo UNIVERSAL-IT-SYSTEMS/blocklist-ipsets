@@ -38,25 +38,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5508,
+		"ips": 5502,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6593,
+		"ips": 6602,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22279,
+		"ips": 22278,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10272,
+		"ips": 10271,
 		"common": 1
 	},
 	{
@@ -488,8 +488,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 7508,
-		"common": 3
+		"ips": 7768,
+		"common": 4
 	},
 	{
 		"name": "openbl_360d",
@@ -572,26 +572,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1497,
-		"common": 107
+		"ips": 1494,
+		"common": 98
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2608,
-		"common": 172
+		"ips": 2660,
+		"common": 179
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 6542,
+		"ips": 6545,
 		"common": 516
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4395,
-		"common": 310
+		"ips": 4398,
+		"common": 311
 	},
 	{
 		"name": "proxyrss",
@@ -644,14 +644,14 @@
 	{
 		"name": "proxz",
 		"category": "anonymizers",
-		"ips": 23,
-		"common": 2
+		"ips": 24,
+		"common": 3
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 277,
-		"common": 29
+		"ips": 290,
+		"common": 30
 	},
 	{
 		"name": "proxz_30d",
@@ -662,8 +662,8 @@
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 1035,
-		"common": 119
+		"ips": 1037,
+		"common": 117
 	},
 	{
 		"name": "pushing_inertia_blocklist",

@@ -45,7 +45,7 @@
 	},
 	{
 		"code": "CA",
-		"value": 72
+		"value": 71
 	},
 	{
 		"code": "CD",
@@ -61,7 +61,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 211
+		"value": 212
 	},
 	{
 		"code": "CO",
@@ -73,7 +73,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 19
+		"value": 18
 	},
 	{
 		"code": "DK",
@@ -164,10 +164,6 @@
 		"value": 1
 	},
 	{
-		"code": "LV",
-		"value": 1
-	},
-	{
 		"code": "MD",
 		"value": 1
 	},
@@ -233,7 +229,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 66
+		"value": 67
 	},
 	{
 		"code": "SE",
@@ -269,7 +265,7 @@
 	},
 	{
 		"code": "US",
-		"value": 144
+		"value": 147
 	},
 	{
 		"code": "VE",

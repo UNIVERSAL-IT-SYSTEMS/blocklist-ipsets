@@ -470,7 +470,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 7508,
+		"ips": 7768,
 		"common": 14
 	},
 	{
@@ -584,25 +584,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1497,
-		"common": 272
+		"ips": 1494,
+		"common": 278
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2608,
-		"common": 468
+		"ips": 2660,
+		"common": 476
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 6542,
+		"ips": 6545,
 		"common": 679
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4395,
+		"ips": 4398,
 		"common": 659
 	},
 	{
@@ -656,14 +656,14 @@
 	{
 		"name": "proxz",
 		"category": "anonymizers",
-		"ips": 23,
-		"common": 6
+		"ips": 24,
+		"common": 8
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 277,
-		"common": 83
+		"ips": 290,
+		"common": 88
 	},
 	{
 		"name": "proxz_30d",
@@ -674,8 +674,8 @@
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 1035,
-		"common": 267
+		"ips": 1037,
+		"common": 268
 	},
 	{
 		"name": "pushing_inertia_blocklist",
