@@ -14,7 +14,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44388,
+		"ips": 44506,
 		"common": 3
 	},
 	{
@@ -44,7 +44,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54160,
+		"ips": 54279,
 		"common": 3
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 112,
+		"ips": 139,
 		"common": 1
 	},
 	{

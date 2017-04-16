@@ -50,19 +50,19 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22163,
+		"ips": 22171,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19902,
+		"ips": 19922,
 		"common": 1
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 322046,
+		"ips": 322045,
 		"common": 2
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911126,
+		"ips": 656911102,
 		"common": 2562
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 153297,
+		"ips": 153318,
 		"common": 1
 	},
 	{

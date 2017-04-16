@@ -68,19 +68,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5475,
+		"ips": 5466,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6611,
+		"ips": 6609,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22289,
+		"ips": 22286,
 		"common": 4
 	},
 	{
@@ -92,31 +92,31 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44388,
+		"ips": 44506,
 		"common": 77
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 248,
+		"ips": 249,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4746,
+		"ips": 4777,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24642,
+		"ips": 24701,
 		"common": 46
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17477,
+		"ips": 17532,
 		"common": 28
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13487,
+		"ips": 13514,
 		"common": 31
 	},
 	{
@@ -296,13 +296,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22163,
+		"ips": 22171,
 		"common": 33
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19902,
+		"ips": 19922,
 		"common": 33
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 322046,
+		"ips": 322045,
 		"common": 9517
 	},
 	{
@@ -524,13 +524,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911126,
+		"ips": 656911102,
 		"common": 173
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54160,
+		"ips": 54279,
 		"common": 91
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586321,
+		"ips": 9586348,
 		"common": 269
 	},
 	{
@@ -884,7 +884,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 2992,
+		"ips": 3279,
 		"common": 7
 	},
 	{
@@ -908,7 +908,7 @@
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 38404,
+		"ips": 38417,
 		"common": 49
 	},
 	{
@@ -926,7 +926,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 153297,
+		"ips": 153318,
 		"common": 211
 	},
 	{
@@ -1416,10 +1416,10 @@
 		"common": 21
 	},
 	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 451,
-		"common": 1
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 440,
+		"common": 2
 	},
 	{
 		"name": "voipbl",

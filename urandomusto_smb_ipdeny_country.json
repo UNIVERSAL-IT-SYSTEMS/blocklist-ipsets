@@ -1,7 +1,11 @@
 [
 	{
 		"code": "CN",
-		"value": 2
+		"value": 3
+	},
+	{
+		"code": "DE",
+		"value": 1
 	},
 	{
 		"code": "IN",
@@ -13,6 +17,6 @@
 	},
 	{
 		"code": "US",
-		"value": 9
+		"value": 10
 	}
 ]

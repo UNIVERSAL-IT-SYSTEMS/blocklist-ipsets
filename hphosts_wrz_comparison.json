@@ -38,8 +38,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 340,
-		"common": 26
+		"ips": 316,
+		"common": 25
 	},
 	{
 		"name": "bambenek_pykspa",
@@ -86,19 +86,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44388,
+		"ips": 44506,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24642,
+		"ips": 24701,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13487,
+		"ips": 13514,
 		"common": 5
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 322046,
+		"ips": 322045,
 		"common": 1
 	},
 	{
@@ -260,13 +260,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911126,
-		"common": 30
+		"ips": 656911102,
+		"common": 29
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54160,
+		"ips": 54279,
 		"common": 1
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586321,
+		"ips": 9586348,
 		"common": 62
 	},
 	{

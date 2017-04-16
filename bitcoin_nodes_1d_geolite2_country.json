@@ -45,7 +45,7 @@
 	},
 	{
 		"code": "CA",
-		"value": 287
+		"value": 286
 	},
 	{
 		"code": "CH",
@@ -109,7 +109,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 394
+		"value": 395
 	},
 	{
 		"code": "GB",
@@ -165,7 +165,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 24
+		"value": 23
 	},
 	{
 		"code": "IR",
@@ -189,7 +189,7 @@
 	},
 	{
 		"code": "JP",
-		"value": 85
+		"value": 84
 	},
 	{
 		"code": "KG",
@@ -313,7 +313,7 @@
 	},
 	{
 		"code": "SE",
-		"value": 101
+		"value": 100
 	},
 	{
 		"code": "SG",
@@ -345,11 +345,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 98
+		"value": 100
 	},
 	{
 		"code": "US",
-		"value": 2009
+		"value": 2008
 	},
 	{
 		"code": "VE",

@@ -20,13 +20,13 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6611,
+		"ips": 6609,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22289,
+		"ips": 22286,
 		"common": 1
 	},
 	{
@@ -38,7 +38,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13487,
+		"ips": 13514,
 		"common": 4
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586321,
+		"ips": 9586348,
 		"common": 18
 	},
 	{
@@ -266,13 +266,13 @@
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 38404,
+		"ips": 38417,
 		"common": 1
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 153297,
+		"ips": 153318,
 		"common": 3
 	},
 	{

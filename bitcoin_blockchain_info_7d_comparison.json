@@ -32,19 +32,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5475,
-		"common": 784
+		"ips": 5466,
+		"common": 783
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6611,
+		"ips": 6609,
 		"common": 807
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22289,
+		"ips": 22286,
 		"common": 897
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 322046,
+		"ips": 322045,
 		"common": 1
 	},
 	{
@@ -200,13 +200,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911126,
+		"ips": 656911102,
 		"common": 4
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54160,
+		"ips": 54279,
 		"common": 2
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 38404,
+		"ips": 38417,
 		"common": 2
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 153297,
+		"ips": 153318,
 		"common": 4
 	},
 	{
@@ -513,12 +513,6 @@
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
 		"ips": 1262,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 446,
 		"common": 1
 	},
 	{

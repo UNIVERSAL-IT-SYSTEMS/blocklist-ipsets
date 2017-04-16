@@ -8,8 +8,12 @@
 		"value": 1
 	},
 	{
+		"code": "BR",
+		"value": 1
+	},
+	{
 		"code": "CN",
-		"value": 15
+		"value": 18
 	},
 	{
 		"code": "CZ",
@@ -25,6 +29,10 @@
 	},
 	{
 		"code": "IT",
+		"value": 1
+	},
+	{
+		"code": "KR",
 		"value": 1
 	},
 	{
@@ -57,7 +65,7 @@
 	},
 	{
 		"code": "SG",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "TR",
@@ -69,7 +77,7 @@
 	},
 	{
 		"code": "US",
-		"value": 3
+		"value": 7
 	},
 	{
 		"code": "VN",

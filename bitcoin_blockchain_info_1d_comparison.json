@@ -20,19 +20,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5475,
+		"ips": 5466,
 		"common": 180
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6611,
+		"ips": 6609,
 		"common": 185
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22289,
+		"ips": 22286,
 		"common": 187
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 153297,
+		"ips": 153318,
 		"common": 1
 	},
 	{

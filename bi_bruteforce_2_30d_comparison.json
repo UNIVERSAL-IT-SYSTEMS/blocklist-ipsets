@@ -32,13 +32,13 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 322046,
+		"ips": 322045,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54160,
+		"ips": 54279,
 		"common": 1
 	},
 	{
@@ -80,13 +80,13 @@
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 38404,
+		"ips": 38417,
 		"common": 2
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 153297,
+		"ips": 153318,
 		"common": 2
 	},
 	{

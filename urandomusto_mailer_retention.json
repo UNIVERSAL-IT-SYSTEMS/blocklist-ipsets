@@ -1,7 +1,7 @@
 {
 	"ipset": "urandomusto_mailer",
 	"started": 1483790429000,
-	"updated": 1492315483000,
+	"updated": 1492327285000,
 	"incomplete": 0,
 	"past": {
 		"hours": [ 
@@ -90,7 +90,7 @@
 		"ips": [ 
 			390310,
 			25402,
-			5819,
+			6270,
 			3736,
 			3365,
 			2658,
@@ -170,7 +170,7 @@
 			8,
 			8,
 			10 ],
-		"total": 470847
+		"total": 471298
 	},
 	"current": {
 		"hours": [ 
