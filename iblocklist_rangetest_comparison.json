@@ -494,7 +494,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 403,
+		"ips": 404,
 		"common": 1
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 322045,
+		"ips": 322046,
 		"common": 430
 	},
 	{
@@ -710,7 +710,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42666,
+		"ips": 42667,
 		"common": 119
 	},
 	{
@@ -740,7 +740,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29278,
+		"ips": 29279,
 		"common": 53
 	},
 	{
@@ -1088,7 +1088,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 2309,
+		"ips": 2352,
 		"common": 6
 	},
 	{
@@ -1305,24 +1305,24 @@
 		"name": "proxyspy",
 		"category": "anonymizers",
 		"ips": 296,
-		"common": 5
+		"common": 3
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 957,
+		"ips": 970,
 		"common": 9
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 5734,
+		"ips": 5737,
 		"common": 19
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2361,
+		"ips": 2365,
 		"common": 10
 	},
 	{

@@ -416,7 +416,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 403,
+		"ips": 404,
 		"common": 1
 	},
 	{
@@ -710,7 +710,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42666,
+		"ips": 42667,
 		"common": 6831
 	},
 	{
@@ -740,7 +740,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29278,
+		"ips": 29279,
 		"common": 6702
 	},
 	{
@@ -843,7 +843,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 9013
+		"common": 9014
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -1089,7 +1089,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1997385,
-		"common": 3274
+		"common": 3275
 	},
 	{
 		"name": "malwaredomainlist",
@@ -1112,8 +1112,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 2309,
-		"common": 67
+		"ips": 2352,
+		"common": 65
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1329,24 +1329,24 @@
 		"name": "proxyspy",
 		"category": "anonymizers",
 		"ips": 296,
-		"common": 67
+		"common": 70
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 957,
-		"common": 254
+		"ips": 970,
+		"common": 256
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 5734,
+		"ips": 5737,
 		"common": 1587
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2361,
+		"ips": 2365,
 		"common": 646
 	},
 	{
@@ -1539,7 +1539,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 13311
+		"common": 13312
 	},
 	{
 		"name": "sorbs_zombie",

@@ -290,7 +290,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 322045,
+		"ips": 322046,
 		"common": 2
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42666,
+		"ips": 42667,
 		"common": 1
 	},
 	{
@@ -790,12 +790,6 @@
 		"category": "malware",
 		"ips": 1034,
 		"common": 20
-	},
-	{
-		"name": "nixspam",
-		"category": "spam",
-		"ips": 2309,
-		"common": 1
 	},
 	{
 		"name": "nullsecure",
