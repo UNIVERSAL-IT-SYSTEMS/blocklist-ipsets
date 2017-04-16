@@ -33,7 +33,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 203
+		"value": 201
 	},
 	{
 		"code": "CR",
@@ -89,7 +89,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 29
+		"value": 28
 	},
 	{
 		"code": "IR",
@@ -169,11 +169,11 @@
 	},
 	{
 		"code": "RU",
-		"value": 235
+		"value": 236
 	},
 	{
 		"code": "SC",
-		"value": 17
+		"value": 16
 	},
 	{
 		"code": "SE",
@@ -189,7 +189,7 @@
 	},
 	{
 		"code": "TH",
-		"value": 18
+		"value": 19
 	},
 	{
 		"code": "TN",
@@ -209,7 +209,7 @@
 	},
 	{
 		"code": "US",
-		"value": 333
+		"value": 334
 	},
 	{
 		"code": "VE",

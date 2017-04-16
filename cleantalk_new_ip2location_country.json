@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 78
+		"value": 77
 	},
 	{
 		"code": "DE",
@@ -65,7 +65,7 @@
 	},
 	{
 		"code": "IR",
-		"value": 5
+		"value": 4
 	},
 	{
 		"code": "IT",
@@ -129,7 +129,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 113
+		"value": 115
 	},
 	{
 		"code": "SC",
@@ -145,7 +145,7 @@
 	},
 	{
 		"code": "TH",
-		"value": 10
+		"value": 11
 	},
 	{
 		"code": "TN",
@@ -165,7 +165,7 @@
 	},
 	{
 		"code": "US",
-		"value": 127
+		"value": 128
 	},
 	{
 		"code": "VN",
