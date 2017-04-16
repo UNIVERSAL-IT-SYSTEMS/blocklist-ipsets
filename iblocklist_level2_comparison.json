@@ -128,8 +128,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 108,
-		"common": 12
+		"ips": 111,
+		"common": 13
 	},
 	{
 		"name": "bambenek_c2",
@@ -338,8 +338,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13291,
-		"common": 434
+		"ips": 13292,
+		"common": 435
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -932,8 +932,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586135,
-		"common": 2537668
+		"ips": 9586136,
+		"common": 2537669
 	},
 	{
 		"name": "firehol_proxies",
