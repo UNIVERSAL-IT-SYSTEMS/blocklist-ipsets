@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 52014,
-		"common": 244
+		"common": 243
 	},
 	{
 		"name": "bambenek_banjori",
@@ -44,7 +44,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 376,
+		"ips": 374,
 		"common": 58
 	},
 	{
@@ -87,7 +87,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 44538,
-		"common": 1559
+		"common": 1554
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -117,13 +117,13 @@
 		"name": "blocklist_de_imap",
 		"category": "attacks",
 		"ips": 4790,
-		"common": 235
+		"common": 233
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 24722,
-		"common": 566
+		"common": 563
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -135,7 +135,7 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 17586,
-		"common": 479
+		"common": 477
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -243,7 +243,7 @@
 		"name": "cleanmx_viruses",
 		"category": "spam",
 		"ips": 12190,
-		"common": 133
+		"common": 132
 	},
 	{
 		"name": "cleantalk",
@@ -357,7 +357,7 @@
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 19902,
-		"common": 348
+		"common": 349
 	},
 	{
 		"name": "dm_tor",
@@ -386,7 +386,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 309867,
+		"ips": 309866,
 		"common": 57
 	},
 	{
@@ -543,7 +543,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 54243,
-		"common": 1845
+		"common": 1840
 	},
 	{
 		"name": "firehol_level3",
@@ -554,8 +554,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586273,
-		"common": 13447
+		"ips": 9586252,
+		"common": 13425
 	},
 	{
 		"name": "firehol_proxies",
@@ -573,7 +573,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34735876,
-		"common": 2369
+		"common": 2368
 	},
 	{
 		"name": "gofferje_sip",
@@ -681,7 +681,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 405
+		"common": 404
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -747,7 +747,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 26
+		"common": 25
 	},
 	{
 		"name": "iblocklist_isp_qwest",
@@ -783,7 +783,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690808,
-		"common": 346
+		"common": 345
 	},
 	{
 		"name": "iblocklist_level2",
@@ -795,7 +795,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 1059
+		"common": 1058
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -825,7 +825,7 @@
 		"name": "iblocklist_pedophiles",
 		"category": "reputation",
 		"ips": 845657,
-		"common": 48
+		"common": 47
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -915,7 +915,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1997385,
-		"common": 2628
+		"common": 2626
 	},
 	{
 		"name": "malwaredomainlist",
@@ -1227,7 +1227,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 1682
+		"common": 1681
 	},
 	{
 		"name": "ransomware_feed",
@@ -1335,7 +1335,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 555
+		"common": 552
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -1353,7 +1353,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 1915
+		"common": 1913
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1365,7 +1365,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 426
+		"common": 425
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -1479,12 +1479,12 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11682,
-		"common": 57
+		"common": 56
 	},
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 21414,
+		"ips": 21417,
 		"common": 108
 	},
 	{
@@ -1527,7 +1527,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 23856,
-		"common": 99
+		"common": 98
 	},
 	{
 		"name": "urandomusto_ftp",

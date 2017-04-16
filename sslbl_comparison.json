@@ -188,7 +188,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 21414,
+		"ips": 21417,
 		"common": 20
 	}
 ]

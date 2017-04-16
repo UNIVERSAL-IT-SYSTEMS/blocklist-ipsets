@@ -92,7 +92,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 376,
+		"ips": 374,
 		"common": 8
 	},
 	{
@@ -242,8 +242,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13447,
-		"common": 555
+		"ips": 13425,
+		"common": 552
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -530,7 +530,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 309867,
+		"ips": 309866,
 		"common": 50462
 	},
 	{
@@ -800,8 +800,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586273,
-		"common": 24951
+		"ips": 9586252,
+		"common": 24949
 	},
 	{
 		"name": "firehol_proxies",
@@ -1826,8 +1826,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 21414,
-		"common": 1690
+		"ips": 21417,
+		"common": 1692
 	},
 	{
 		"name": "threatcrowd",

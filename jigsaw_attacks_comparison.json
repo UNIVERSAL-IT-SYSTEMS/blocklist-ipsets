@@ -152,8 +152,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 376,
-		"common": 48
+		"ips": 374,
+		"common": 49
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -302,7 +302,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13447,
+		"ips": 13425,
 		"common": 62
 	},
 	{
@@ -578,7 +578,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 309867,
+		"ips": 309866,
 		"common": 219
 	},
 	{
@@ -836,7 +836,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586273,
+		"ips": 9586252,
 		"common": 1386
 	},
 	{
@@ -1676,7 +1676,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 21414,
+		"ips": 21417,
 		"common": 307
 	},
 	{
