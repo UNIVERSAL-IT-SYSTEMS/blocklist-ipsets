@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44139,
-		"common": 564
+		"ips": 44015,
+		"common": 556
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -248,8 +248,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53144,
-		"common": 564
+		"ips": 53020,
+		"common": 556
 	},
 	{
 		"name": "firehol_level3",

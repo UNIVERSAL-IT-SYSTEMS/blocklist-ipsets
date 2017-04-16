@@ -3,7 +3,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 371,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -27,7 +27,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656911157,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "firehol_level4",
@@ -39,7 +39,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34735876,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "hphosts_ats",
@@ -51,7 +51,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 24599,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "hphosts_exp",
@@ -94,12 +94,6 @@
 		"category": "unrouteable",
 		"ips": 656175779,
 		"common": 3
-	},
-	{
-		"name": "iblocklist_level1",
-		"category": "reputation",
-		"ips": 762687892,
-		"common": 1
 	},
 	{
 		"name": "jigsaw_attacks",

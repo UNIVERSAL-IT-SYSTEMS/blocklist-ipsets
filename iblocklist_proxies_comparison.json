@@ -50,7 +50,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 322046,
+		"ips": 322045,
 		"common": 96
 	},
 	{
@@ -98,7 +98,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42617,
+		"ips": 42611,
 		"common": 673
 	},
 	{
@@ -350,13 +350,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 16182,
+		"ips": 16183,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 8133,
+		"ips": 8135,
 		"common": 1
 	},
 	{

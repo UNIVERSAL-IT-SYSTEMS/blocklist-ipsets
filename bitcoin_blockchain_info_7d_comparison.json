@@ -27,31 +27,31 @@
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
 		"ips": 4408,
-		"common": 885
+		"common": 883
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5478,
-		"common": 772
+		"ips": 5479,
+		"common": 771
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6593,
-		"common": 790
+		"ips": 6597,
+		"common": 789
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22270,
-		"common": 877
+		"ips": 22271,
+		"common": 875
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10264,
-		"common": 874
+		"ips": 10265,
+		"common": 872
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
@@ -128,7 +128,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 322046,
+		"ips": 322045,
 		"common": 1
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42617,
+		"ips": 42611,
 		"common": 21
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53144,
+		"ips": 53020,
 		"common": 2
 	},
 	{
@@ -219,7 +219,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34735876,
-		"common": 182
+		"common": 181
 	},
 	{
 		"name": "fullbogons",
@@ -399,7 +399,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 171
+		"common": 170
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -488,13 +488,13 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2126,
+		"ips": 2121,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1257,
+		"ips": 1258,
 		"common": 1
 	},
 	{

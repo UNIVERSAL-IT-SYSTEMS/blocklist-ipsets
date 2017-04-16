@@ -41,7 +41,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 30
+		"value": 31
 	},
 	{
 		"code": "BS",
@@ -49,11 +49,11 @@
 	},
 	{
 		"code": "BY",
-		"value": 22
+		"value": 23
 	},
 	{
 		"code": "CA",
-		"value": 93
+		"value": 94
 	},
 	{
 		"code": "CG",
@@ -69,7 +69,7 @@
 	},
 	{
 		"code": "CL",
-		"value": 30
+		"value": 31
 	},
 	{
 		"code": "CM",
@@ -77,11 +77,11 @@
 	},
 	{
 		"code": "CN",
-		"value": 185
+		"value": 187
 	},
 	{
 		"code": "CO",
-		"value": 7
+		"value": 8
 	},
 	{
 		"code": "CR",
@@ -97,7 +97,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 231
+		"value": 234
 	},
 	{
 		"code": "DK",
@@ -129,11 +129,11 @@
 	},
 	{
 		"code": "FR",
-		"value": 170
+		"value": 174
 	},
 	{
 		"code": "GB",
-		"value": 116
+		"value": 118
 	},
 	{
 		"code": "GE",
@@ -157,15 +157,15 @@
 	},
 	{
 		"code": "HU",
-		"value": 10
+		"value": 11
 	},
 	{
 		"code": "ID",
-		"value": 58
+		"value": 59
 	},
 	{
 		"code": "IE",
-		"value": 36
+		"value": 37
 	},
 	{
 		"code": "IL",
@@ -177,7 +177,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 254
+		"value": 257
 	},
 	{
 		"code": "IQ",
@@ -193,7 +193,7 @@
 	},
 	{
 		"code": "IT",
-		"value": 17
+		"value": 19
 	},
 	{
 		"code": "JP",
@@ -217,7 +217,7 @@
 	},
 	{
 		"code": "KR",
-		"value": 56
+		"value": 57
 	},
 	{
 		"code": "KY",
@@ -285,11 +285,11 @@
 	},
 	{
 		"code": "NL",
-		"value": 142
+		"value": 144
 	},
 	{
 		"code": "NO",
-		"value": 11
+		"value": 12
 	},
 	{
 		"code": "PA",
@@ -301,11 +301,11 @@
 	},
 	{
 		"code": "PK",
-		"value": 166
+		"value": 169
 	},
 	{
 		"code": "PL",
-		"value": 49
+		"value": 50
 	},
 	{
 		"code": "PT",
@@ -317,7 +317,7 @@
 	},
 	{
 		"code": "RO",
-		"value": 70
+		"value": 71
 	},
 	{
 		"code": "RS",
@@ -325,7 +325,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 485
+		"value": 494
 	},
 	{
 		"code": "SC",
@@ -333,7 +333,7 @@
 	},
 	{
 		"code": "SE",
-		"value": 103
+		"value": 107
 	},
 	{
 		"code": "SG",
@@ -357,7 +357,7 @@
 	},
 	{
 		"code": "TR",
-		"value": 27
+		"value": 28
 	},
 	{
 		"code": "TW",
@@ -365,11 +365,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 176
+		"value": 180
 	},
 	{
 		"code": "US",
-		"value": 1767
+		"value": 1804
 	},
 	{
 		"code": "VE",

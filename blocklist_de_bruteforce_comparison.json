@@ -56,8 +56,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44139,
-		"common": 749
+		"ips": 44015,
+		"common": 747
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -242,7 +242,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 322046,
+		"ips": 322045,
 		"common": 11
 	},
 	{
@@ -314,8 +314,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53144,
-		"common": 749
+		"ips": 53020,
+		"common": 747
 	},
 	{
 		"name": "firehol_level3",
@@ -728,7 +728,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4742,
+		"ips": 4831,
 		"common": 3
 	},
 	{

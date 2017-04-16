@@ -80,7 +80,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 891,
+		"ips": 883,
 		"common": 1
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 322046,
+		"ips": 322045,
 		"common": 1
 	},
 	{
