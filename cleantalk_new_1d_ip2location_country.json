@@ -33,7 +33,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 203
+		"value": 201
 	},
 	{
 		"code": "CR",
@@ -101,7 +101,7 @@
 	},
 	{
 		"code": "JP",
-		"value": 4
+		"value": 3
 	},
 	{
 		"code": "KE",
@@ -205,11 +205,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 38
+		"value": 35
 	},
 	{
 		"code": "US",
-		"value": 291
+		"value": 290
 	},
 	{
 		"code": "VE",

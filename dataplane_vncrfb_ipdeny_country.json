@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "AZ",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "BA",
@@ -161,7 +161,7 @@
 	},
 	{
 		"code": "ID",
-		"value": 36
+		"value": 35
 	},
 	{
 		"code": "IE",
@@ -265,7 +265,7 @@
 	},
 	{
 		"code": "MY",
-		"value": 9
+		"value": 8
 	},
 	{
 		"code": "NG",
@@ -273,7 +273,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 17
+		"value": 16
 	},
 	{
 		"code": "NO",
@@ -297,7 +297,7 @@
 	},
 	{
 		"code": "PH",
-		"value": 12
+		"value": 13
 	},
 	{
 		"code": "PK",
@@ -305,7 +305,7 @@
 	},
 	{
 		"code": "PL",
-		"value": 12
+		"value": 13
 	},
 	{
 		"code": "PS",
@@ -313,7 +313,7 @@
 	},
 	{
 		"code": "PT",
-		"value": 3
+		"value": 2
 	},
 	{
 		"code": "QA",
@@ -325,7 +325,7 @@
 	},
 	{
 		"code": "RO",
-		"value": 17
+		"value": 18
 	},
 	{
 		"code": "RS",
