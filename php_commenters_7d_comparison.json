@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42677,
+		"ips": 42676,
 		"common": 121
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29293,
+		"ips": 29292,
 		"common": 80
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 4569,
+		"ips": 5012,
 		"common": 4
 	},
 	{
@@ -908,13 +908,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3156,
-		"common": 11
+		"ips": 3154,
+		"common": 10
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 935,
+		"ips": 934,
 		"common": 10
 	},
 	{

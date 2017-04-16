@@ -49,7 +49,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 21
+		"value": 20
 	},
 	{
 		"code": "CO",
@@ -78,10 +78,6 @@
 	{
 		"code": "DK",
 		"value": 4
-	},
-	{
-		"code": "EE",
-		"value": 1
 	},
 	{
 		"code": "ES",
@@ -193,7 +189,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 57
+		"value": 56
 	},
 	{
 		"code": "NO",
@@ -257,7 +253,7 @@
 	},
 	{
 		"code": "US",
-		"value": 262
+		"value": 261
 	},
 	{
 		"code": "ZA",

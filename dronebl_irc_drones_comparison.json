@@ -62,7 +62,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22287,
+		"ips": 22285,
 		"common": 1
 	},
 	{
@@ -434,7 +434,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42677,
+		"ips": 42676,
 		"common": 478
 	},
 	{
@@ -464,7 +464,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29293,
+		"ips": 29292,
 		"common": 470
 	},
 	{
@@ -794,8 +794,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 4569,
-		"common": 71
+		"ips": 5012,
+		"common": 78
 	},
 	{
 		"name": "nullsecure",
@@ -1232,13 +1232,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3156,
+		"ips": 3154,
 		"common": 19
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 935,
+		"ips": 934,
 		"common": 7
 	},
 	{

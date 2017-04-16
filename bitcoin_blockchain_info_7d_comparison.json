@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 52014,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -20,38 +20,38 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 189,
-		"common": 189
+		"ips": 188,
+		"common": 188
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
 		"ips": 4408,
-		"common": 901
+		"common": 896
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5478,
-		"common": 783
+		"ips": 5474,
+		"common": 779
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6612,
-		"common": 805
+		"ips": 6609,
+		"common": 800
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22287,
-		"common": 893
+		"ips": 22285,
+		"common": 888
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10260,
-		"common": 890
+		"ips": 10259,
+		"common": 885
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
@@ -87,13 +87,13 @@
 		"name": "bogons",
 		"category": "unroutable",
 		"ips": 592708608,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "cidr_report_bogons",
 		"category": "unrouteable",
 		"ips": 602148232,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
@@ -194,14 +194,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42677,
+		"ips": 42676,
 		"common": 21
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656911153,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "firehol_level2",
@@ -213,7 +213,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 146131,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
@@ -225,7 +225,7 @@
 		"name": "fullbogons",
 		"category": "unrouteable",
 		"ips": 631373640,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "gofferje_sip",
@@ -249,13 +249,13 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 37
+		"common": 36
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unrouteable",
 		"ips": 602148232,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_dshield",
@@ -267,19 +267,19 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 30
+		"common": 29
 	},
 	{
 		"name": "iblocklist_fornonlancomputers",
 		"category": "reputation",
 		"ips": 302055424,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_iana_private",
 		"category": "unroutable",
 		"ips": 51643638,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_att",
@@ -303,7 +303,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 32
+		"common": 31
 	},
 	{
 		"name": "iblocklist_isp_qwest",
@@ -333,7 +333,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 58
+		"common": 57
 	},
 	{
 		"name": "iblocklist_level3",
@@ -381,37 +381,19 @@
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 29026,
-		"common": 2
-	},
-	{
-		"name": "openbl_30d",
-		"category": "attacks",
-		"ips": 6226,
 		"common": 1
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 38417,
-		"common": 2
-	},
-	{
-		"name": "openbl_60d",
-		"category": "attacks",
-		"ips": 11145,
-		"common": 1
-	},
-	{
-		"name": "openbl_90d",
-		"category": "attacks",
-		"ips": 14771,
 		"common": 1
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 153318,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -429,7 +411,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 126
+		"common": 125
 	},
 	{
 		"name": "sorbs_noserver",

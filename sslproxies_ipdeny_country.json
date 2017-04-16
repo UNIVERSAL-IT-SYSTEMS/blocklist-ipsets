@@ -9,11 +9,11 @@
 	},
 	{
 		"code": "BR",
-		"value": 15
+		"value": 16
 	},
 	{
 		"code": "CA",
-		"value": 12
+		"value": 13
 	},
 	{
 		"code": "CL",
@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 3
+		"value": 2
 	},
 	{
 		"code": "EG",
@@ -89,7 +89,7 @@
 	},
 	{
 		"code": "US",
-		"value": 29
+		"value": 28
 	},
 	{
 		"code": "VN",

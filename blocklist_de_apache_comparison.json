@@ -464,7 +464,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42677,
+		"ips": 42676,
 		"common": 1
 	},
 	{
@@ -740,8 +740,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 4569,
-		"common": 19
+		"ips": 5012,
+		"common": 51
 	},
 	{
 		"name": "nullsecure",
