@@ -9,7 +9,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 256
+		"value": 512
 	},
 	{
 		"code": "NL",
@@ -25,7 +25,7 @@
 	},
 	{
 		"code": "US",
-		"value": 2816
+		"value": 2560
 	},
 	{
 		"code": "ZA",

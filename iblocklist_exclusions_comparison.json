@@ -128,7 +128,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42683,
+		"ips": 42667,
 		"common": 1
 	},
 	{
@@ -416,8 +416,8 @@
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
-		"ips": 20734,
-		"common": 2
+		"ips": 20649,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_90d",

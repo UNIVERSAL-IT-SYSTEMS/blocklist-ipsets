@@ -404,7 +404,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54242,
+		"ips": 54241,
 		"common": 55
 	},
 	{
@@ -632,7 +632,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 296,
+		"ips": 289,
 		"common": 9
 	},
 	{
@@ -662,7 +662,7 @@
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 14769,
+		"ips": 14771,
 		"common": 32
 	},
 	{
@@ -788,7 +788,7 @@
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
-		"ips": 20734,
+		"ips": 20649,
 		"common": 1
 	},
 	{
