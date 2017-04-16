@@ -74,7 +74,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7114,
+		"ips": 7120,
 		"common": 1
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42632,
+		"ips": 42680,
 		"common": 1
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53864,
+		"ips": 53876,
 		"common": 2
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586212,
+		"ips": 9586225,
 		"common": 2
 	},
 	{

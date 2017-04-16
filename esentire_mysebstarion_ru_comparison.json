@@ -8,13 +8,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 16273,
+		"ips": 16283,
 		"common": 1
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5633,
+		"ips": 5642,
 		"common": 1
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586212,
+		"ips": 9586225,
 		"common": 2
 	},
 	{

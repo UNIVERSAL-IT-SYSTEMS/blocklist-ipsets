@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11786,
+		"ips": 11781,
 		"common": 1
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586212,
+		"ips": 9586225,
 		"common": 3
 	},
 	{

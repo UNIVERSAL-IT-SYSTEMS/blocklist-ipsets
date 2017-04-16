@@ -81,7 +81,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 801
+		"value": 802
 	},
 	{
 		"code": "CO",
@@ -353,7 +353,7 @@
 	},
 	{
 		"code": "PL",
-		"value": 194
+		"value": 195
 	},
 	{
 		"code": "PR",
@@ -457,11 +457,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 691
+		"value": 692
 	},
 	{
 		"code": "US",
-		"value": 6543
+		"value": 6550
 	},
 	{
 		"code": "UY",
