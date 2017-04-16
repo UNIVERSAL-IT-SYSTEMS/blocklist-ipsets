@@ -97,7 +97,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 16
+		"value": 17
 	},
 	{
 		"code": "HK",
@@ -141,7 +141,7 @@
 	},
 	{
 		"code": "IT",
-		"value": 7
+		"value": 8
 	},
 	{
 		"code": "JP",
@@ -273,7 +273,7 @@
 	},
 	{
 		"code": "US",
-		"value": 849
+		"value": 851
 	},
 	{
 		"code": "ZA",

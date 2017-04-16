@@ -237,7 +237,7 @@
 		"name": "dronebl_worms_bots",
 		"category": "malware",
 		"ips": 120902,
-		"common": 931
+		"common": 930
 	},
 	{
 		"name": "dshield_30d",
@@ -278,8 +278,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42714,
-		"common": 8143
+		"ips": 42712,
+		"common": 8142
 	},
 	{
 		"name": "firehol_level1",
@@ -308,8 +308,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29279,
-		"common": 8145
+		"ips": 29277,
+		"common": 8144
 	},
 	{
 		"name": "firehol_webclient",
@@ -818,14 +818,14 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2314,
-		"common": 2314
+		"ips": 2318,
+		"common": 2318
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
 		"ips": 16166,
-		"common": 8163
+		"common": 8162
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -884,13 +884,13 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 242,
+		"ips": 243,
 		"common": 7
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3166,
+		"ips": 3164,
 		"common": 19
 	},
 	{
