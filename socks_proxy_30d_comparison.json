@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911152,
+		"ips": 656911155,
 		"common": 5
 	},
 	{
@@ -1058,8 +1058,8 @@
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 451,
-		"common": 23
+		"ips": 448,
+		"common": 32
 	},
 	{
 		"name": "xroxy",

@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911152,
+		"ips": 656911155,
 		"common": 7
 	},
 	{
@@ -740,7 +740,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 407,
+		"ips": 411,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 448,
+		"common": 2
 	}
 ]

@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911152,
+		"ips": 656911155,
 		"common": 42
 	},
 	{
@@ -878,25 +878,25 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 407,
+		"ips": 411,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 58,
+		"ips": 60,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 449,
+		"ips": 444,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 156,
+		"ips": 177,
 		"common": 1
 	},
 	{

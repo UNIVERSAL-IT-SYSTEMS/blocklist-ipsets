@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911152,
+		"ips": 656911155,
 		"common": 1
 	},
 	{
@@ -645,6 +645,12 @@
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
 		"ips": 1258,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 448,
 		"common": 1
 	},
 	{

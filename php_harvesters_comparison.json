@@ -602,7 +602,7 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 407,
+		"ips": 411,
 		"common": 1
 	}
 ]

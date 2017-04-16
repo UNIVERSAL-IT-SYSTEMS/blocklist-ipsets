@@ -266,7 +266,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911152,
+		"ips": 656911155,
 		"common": 6
 	},
 	{
@@ -566,14 +566,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 170,
+		"ips": 203,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 407,
-		"common": 2
+		"ips": 411,
+		"common": 1
 	},
 	{
 		"name": "vxvault",

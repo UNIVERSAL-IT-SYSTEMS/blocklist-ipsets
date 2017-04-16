@@ -214,11 +214,5 @@
 		"category": "organizations",
 		"ips": 136184374,
 		"common": 2
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 449,
-		"common": 1
 	}
 ]

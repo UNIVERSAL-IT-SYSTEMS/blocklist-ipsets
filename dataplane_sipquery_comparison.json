@@ -242,7 +242,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911152,
+		"ips": 656911155,
 		"common": 24
 	},
 	{
@@ -548,20 +548,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 170,
+		"ips": 203,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 407,
+		"ips": 411,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 156,
-		"common": 30
+		"ips": 177,
+		"common": 32
 	},
 	{
 		"name": "voipbl",

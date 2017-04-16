@@ -368,8 +368,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911152,
-		"common": 317
+		"ips": 656911155,
+		"common": 318
 	},
 	{
 		"name": "firehol_level2",
@@ -938,8 +938,8 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 407,
-		"common": 4
+		"ips": 411,
+		"common": 2
 	},
 	{
 		"name": "urlvir",

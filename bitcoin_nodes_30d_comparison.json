@@ -80,20 +80,20 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5509,
-		"common": 5509
+		"ips": 5500,
+		"common": 5500
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6606,
-		"common": 6606
+		"ips": 6601,
+		"common": 6601
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10267,
-		"common": 10267
+		"ips": 10264,
+		"common": 10264
 	},
 	{
 		"name": "blocklist_de",
@@ -398,7 +398,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911152,
+		"ips": 656911155,
 		"common": 16
 	},
 	{
@@ -819,7 +819,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 5903
+		"common": 5902
 	},
 	{
 		"name": "sorbs_new_spam",

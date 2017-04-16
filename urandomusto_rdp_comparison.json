@@ -122,7 +122,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911152,
+		"ips": 656911155,
 		"common": 1
 	},
 	{
@@ -141,7 +141,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34735876,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "greensnow",
@@ -171,7 +171,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762690808,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "iblocklist_level2",
@@ -231,7 +231,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "sorbs_web",
@@ -243,7 +243,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "sp_atma",
@@ -290,13 +290,19 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 407,
+		"ips": 411,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 18,
+		"ips": 22,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 441,
 		"common": 1
 	},
 	{

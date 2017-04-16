@@ -762,6 +762,18 @@
 		"common": 2
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 411,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 448,
+		"common": 1
+	},
+	{
 		"name": "xroxy",
 		"category": "anonymizers",
 		"ips": 61,

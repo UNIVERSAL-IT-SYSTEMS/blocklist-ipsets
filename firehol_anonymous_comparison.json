@@ -92,25 +92,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5509,
-		"common": 99
+		"ips": 5500,
+		"common": 100
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6606,
+		"ips": 6601,
 		"common": 102
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22280,
+		"ips": 22278,
 		"common": 134
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10267,
+		"ips": 10264,
 		"common": 118
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911152,
+		"ips": 656911155,
 		"common": 32
 	},
 	{
@@ -1442,20 +1442,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 170,
+		"ips": 203,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 407,
-		"common": 12
+		"ips": 411,
+		"common": 14
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 451,
-		"common": 26
+		"ips": 448,
+		"common": 35
 	},
 	{
 		"name": "voipbl",

@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911152,
+		"ips": 656911155,
 		"common": 38
 	},
 	{
@@ -854,8 +854,8 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 449,
-		"common": 15
+		"ips": 444,
+		"common": 2
 	},
 	{
 		"name": "voipbl",

@@ -33,7 +33,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 5574,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blocklist_de",
@@ -110,7 +110,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911152,
+		"ips": 656911155,
 		"common": 3
 	},
 	{
@@ -222,6 +222,12 @@
 		"common": 9
 	},
 	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375226662,
+		"common": 1
+	},
+	{
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
@@ -243,7 +249,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 23856,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "urandomusto_dns",
@@ -254,7 +260,7 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 407,
+		"ips": 411,
 		"common": 1
 	},
 	{
@@ -266,13 +272,13 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 58,
+		"ips": 60,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 156,
+		"ips": 177,
 		"common": 1
 	}
 ]

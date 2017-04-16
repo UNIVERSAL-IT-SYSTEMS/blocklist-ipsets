@@ -356,13 +356,7 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 407,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 451,
+		"ips": 411,
 		"common": 1
 	}
 ]

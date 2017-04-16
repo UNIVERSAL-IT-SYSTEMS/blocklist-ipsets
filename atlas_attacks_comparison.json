@@ -140,7 +140,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911152,
+		"ips": 656911155,
 		"common": 2
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 18,
+		"ips": 22,
 		"common": 1
 	}
 ]

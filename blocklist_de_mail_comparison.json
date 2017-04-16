@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911152,
+		"ips": 656911155,
 		"common": 554
 	},
 	{
@@ -1340,25 +1340,31 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 170,
+		"ips": 203,
 		"common": 11
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 407,
-		"common": 16
+		"ips": 411,
+		"common": 10
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 451,
-		"common": 50
+		"ips": 448,
+		"common": 57
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 444,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 156,
+		"ips": 177,
 		"common": 1
 	},
 	{
