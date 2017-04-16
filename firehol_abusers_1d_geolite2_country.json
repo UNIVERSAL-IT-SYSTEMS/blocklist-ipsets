@@ -9,7 +9,7 @@
 	},
 	{
 		"code": "AL",
-		"value": 5
+		"value": 6
 	},
 	{
 		"code": "AM",
@@ -61,11 +61,11 @@
 	},
 	{
 		"code": "BY",
-		"value": 89
+		"value": 90
 	},
 	{
 		"code": "CA",
-		"value": 185
+		"value": 186
 	},
 	{
 		"code": "CG",
@@ -93,7 +93,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 612
+		"value": 616
 	},
 	{
 		"code": "CO",
@@ -101,7 +101,7 @@
 	},
 	{
 		"code": "CR",
-		"value": 6
+		"value": 5
 	},
 	{
 		"code": "CY",
@@ -113,7 +113,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 456
+		"value": 464
 	},
 	{
 		"code": "DK",
@@ -149,7 +149,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 357
+		"value": 356
 	},
 	{
 		"code": "GA",
@@ -157,7 +157,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 277
+		"value": 281
 	},
 	{
 		"code": "GE",
@@ -193,7 +193,7 @@
 	},
 	{
 		"code": "ID",
-		"value": 110
+		"value": 109
 	},
 	{
 		"code": "IE",
@@ -225,7 +225,7 @@
 	},
 	{
 		"code": "IT",
-		"value": 43
+		"value": 44
 	},
 	{
 		"code": "JP",
@@ -249,7 +249,7 @@
 	},
 	{
 		"code": "KR",
-		"value": 68
+		"value": 69
 	},
 	{
 		"code": "KY",
@@ -257,7 +257,7 @@
 	},
 	{
 		"code": "KZ",
-		"value": 64
+		"value": 66
 	},
 	{
 		"code": "LB",
@@ -293,7 +293,7 @@
 	},
 	{
 		"code": "MD",
-		"value": 71
+		"value": 72
 	},
 	{
 		"code": "MK",
@@ -329,11 +329,11 @@
 	},
 	{
 		"code": "NL",
-		"value": 393
+		"value": 395
 	},
 	{
 		"code": "NO",
-		"value": 34
+		"value": 35
 	},
 	{
 		"code": "NP",
@@ -353,7 +353,7 @@
 	},
 	{
 		"code": "PK",
-		"value": 180
+		"value": 181
 	},
 	{
 		"code": "PL",
@@ -373,15 +373,15 @@
 	},
 	{
 		"code": "RO",
-		"value": 513
+		"value": 516
 	},
 	{
 		"code": "RS",
-		"value": 8
+		"value": 7
 	},
 	{
 		"code": "RU",
-		"value": 1086
+		"value": 1099
 	},
 	{
 		"code": "RW",
@@ -405,7 +405,7 @@
 	},
 	{
 		"code": "SG",
-		"value": 49
+		"value": 50
 	},
 	{
 		"code": "SK",
@@ -421,7 +421,7 @@
 	},
 	{
 		"code": "TH",
-		"value": 71
+		"value": 72
 	},
 	{
 		"code": "TJ",
@@ -433,7 +433,7 @@
 	},
 	{
 		"code": "TR",
-		"value": 38
+		"value": 37
 	},
 	{
 		"code": "TW",
@@ -441,11 +441,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 323
+		"value": 327
 	},
 	{
 		"code": "US",
-		"value": 4913
+		"value": 4917
 	},
 	{
 		"code": "UZ",
