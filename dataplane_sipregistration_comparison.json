@@ -44,7 +44,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53135,
+		"ips": 53144,
 		"common": 4
 	},
 	{
@@ -68,7 +68,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1082,
+		"ips": 1095,
 		"common": 1
 	},
 	{

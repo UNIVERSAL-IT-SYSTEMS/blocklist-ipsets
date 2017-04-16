@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "BD",
-		"value": 4
+		"value": 5
 	},
 	{
 		"code": "BE",
@@ -96,10 +96,6 @@
 		"value": 2
 	},
 	{
-		"code": "DZ",
-		"value": 1
-	},
-	{
 		"code": "EC",
 		"value": 3
 	},
@@ -113,7 +109,7 @@
 	},
 	{
 		"code": "ES",
-		"value": 29
+		"value": 30
 	},
 	{
 		"code": "FI",
@@ -121,7 +117,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 287
+		"value": 286
 	},
 	{
 		"code": "GB",
@@ -221,7 +217,7 @@
 	},
 	{
 		"code": "KZ",
-		"value": 12
+		"value": 13
 	},
 	{
 		"code": "LK",
@@ -341,7 +337,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 677
+		"value": 679
 	},
 	{
 		"code": "SA",
@@ -389,7 +385,7 @@
 	},
 	{
 		"code": "UA",
-		"value": 244
+		"value": 245
 	},
 	{
 		"code": "US",
