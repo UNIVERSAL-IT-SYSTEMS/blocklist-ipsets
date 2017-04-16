@@ -14,13 +14,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44449,
+		"ips": 44538,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9199,
+		"ips": 9200,
 		"common": 1
 	},
 	{
@@ -38,7 +38,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 120901,
+		"ips": 120902,
 		"common": 1
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911154,
+		"ips": 656911127,
 		"common": 1
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146085,
+		"ips": 146080,
 		"common": 9
 	},
 	{

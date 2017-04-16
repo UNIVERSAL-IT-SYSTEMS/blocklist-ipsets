@@ -14,7 +14,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 367,
+		"ips": 340,
 		"common": 10
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 120901,
+		"ips": 120902,
 		"common": 1
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911154,
+		"ips": 656911127,
 		"common": 24
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146085,
+		"ips": 146080,
 		"common": 1
 	},
 	{
@@ -548,7 +548,7 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 29012,
+		"ips": 29026,
 		"common": 1
 	},
 	{

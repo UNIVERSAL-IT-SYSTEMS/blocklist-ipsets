@@ -32,19 +32,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44449,
+		"ips": 44538,
 		"common": 127
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 247,
+		"ips": 248,
 		"common": 27
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24683,
+		"ips": 24722,
 		"common": 100
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 120901,
+		"ips": 120902,
 		"common": 466
 	},
 	{
@@ -314,7 +314,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146085,
+		"ips": 146080,
 		"common": 119
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "gpf_comics",
 		"category": "abuse",
-		"ips": 3767,
+		"ips": 3773,
 		"common": 2
 	},
 	{
@@ -542,13 +542,13 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 29012,
+		"ips": 29026,
 		"common": 6
 	},
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 6229,
+		"ips": 6226,
 		"common": 1
 	},
 	{
@@ -560,7 +560,7 @@
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 11135,
+		"ips": 11145,
 		"common": 3
 	},
 	{

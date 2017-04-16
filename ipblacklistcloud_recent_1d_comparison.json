@@ -2,13 +2,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44449,
+		"ips": 44538,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9199,
+		"ips": 9200,
 		"common": 1
 	},
 	{

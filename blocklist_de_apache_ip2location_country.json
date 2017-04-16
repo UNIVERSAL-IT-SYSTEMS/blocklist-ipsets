@@ -57,7 +57,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 257
+		"value": 256
 	},
 	{
 		"code": "CO",
@@ -225,7 +225,7 @@
 	},
 	{
 		"code": "MX",
-		"value": 5
+		"value": 6
 	},
 	{
 		"code": "MY",
@@ -273,7 +273,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 2601
+		"value": 2602
 	},
 	{
 		"code": "SA",

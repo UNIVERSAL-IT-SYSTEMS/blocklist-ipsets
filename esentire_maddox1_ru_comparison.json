@@ -8,19 +8,19 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22275,
+		"ips": 22276,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44449,
+		"ips": 44538,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9199,
+		"ips": 9200,
 		"common": 1
 	},
 	{
@@ -32,13 +32,13 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24683,
+		"ips": 24722,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17539,
+		"ips": 17586,
 		"common": 1
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19863,
+		"ips": 19902,
 		"common": 1
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911154,
+		"ips": 656911127,
 		"common": 227
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146085,
+		"ips": 146080,
 		"common": 151
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "gpf_comics",
 		"category": "abuse",
-		"ips": 3767,
+		"ips": 3773,
 		"common": 1
 	},
 	{

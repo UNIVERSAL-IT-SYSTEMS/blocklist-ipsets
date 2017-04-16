@@ -44,13 +44,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44449,
+		"ips": 44538,
 		"common": 708
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24683,
+		"ips": 24722,
 		"common": 707
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19863,
+		"ips": 19902,
 		"common": 5
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 120901,
+		"ips": 120902,
 		"common": 931
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911154,
+		"ips": 656911127,
 		"common": 4
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146085,
+		"ips": 146080,
 		"common": 176
 	},
 	{
@@ -548,7 +548,7 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 29012,
+		"ips": 29026,
 		"common": 2
 	},
 	{

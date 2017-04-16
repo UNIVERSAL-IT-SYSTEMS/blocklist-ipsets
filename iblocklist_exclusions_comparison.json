@@ -134,7 +134,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911154,
+		"ips": 656911127,
 		"common": 5
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "gpf_comics",
 		"category": "abuse",
-		"ips": 3767,
+		"ips": 3773,
 		"common": 1
 	},
 	{

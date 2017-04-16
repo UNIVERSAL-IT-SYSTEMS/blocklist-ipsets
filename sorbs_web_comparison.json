@@ -26,7 +26,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 367,
+		"ips": 340,
 		"common": 2
 	},
 	{
@@ -98,61 +98,61 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 4409,
+		"ips": 4408,
 		"common": 11
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 910,
+		"ips": 909,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5446,
+		"ips": 5444,
 		"common": 8
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
 		"ips": 6608,
-		"common": 26
+		"common": 25
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22275,
+		"ips": 22276,
 		"common": 130
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10256,
+		"ips": 10258,
 		"common": 56
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44449,
-		"common": 1733
+		"ips": 44538,
+		"common": 1736
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9199,
+		"ips": 9200,
 		"common": 59
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 247,
+		"ips": 248,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 711,
+		"ips": 710,
 		"common": 34
 	},
 	{
@@ -164,14 +164,14 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4783,
+		"ips": 4790,
 		"common": 214
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24683,
-		"common": 1362
+		"ips": 24722,
+		"common": 1364
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -182,8 +182,8 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17539,
-		"common": 296
+		"ips": 17586,
+		"common": 297
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -416,8 +416,8 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19863,
-		"common": 335
+		"ips": 19902,
+		"common": 337
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -488,7 +488,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 120901,
+		"ips": 120902,
 		"common": 11989
 	},
 	{
@@ -722,7 +722,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911154,
+		"ips": 656911127,
 		"common": 4160
 	},
 	{
@@ -734,7 +734,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146085,
+		"ips": 146080,
 		"common": 1030
 	},
 	{
@@ -776,7 +776,7 @@
 	{
 		"name": "gpf_comics",
 		"category": "abuse",
-		"ips": 3767,
+		"ips": 3773,
 		"common": 599
 	},
 	{
@@ -1154,7 +1154,7 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 29012,
+		"ips": 29026,
 		"common": 502
 	},
 	{
@@ -1166,7 +1166,7 @@
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 6229,
+		"ips": 6226,
 		"common": 75
 	},
 	{
@@ -1178,7 +1178,7 @@
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 11135,
+		"ips": 11145,
 		"common": 149
 	},
 	{

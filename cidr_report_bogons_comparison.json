@@ -14,7 +14,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 367,
+		"ips": 340,
 		"common": 1
 	},
 	{
@@ -68,19 +68,19 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 4409,
+		"ips": 4408,
 		"common": 4
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 910,
+		"ips": 909,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5446,
+		"ips": 5444,
 		"common": 5
 	},
 	{
@@ -92,13 +92,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 22275,
+		"ips": 22276,
 		"common": 7
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10256,
+		"ips": 10258,
 		"common": 5
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 120901,
+		"ips": 120902,
 		"common": 1
 	},
 	{
@@ -398,7 +398,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911154,
+		"ips": 656911127,
 		"common": 601380426
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146085,
+		"ips": 146080,
 		"common": 19
 	},
 	{
@@ -710,13 +710,13 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 29012,
+		"ips": 29026,
 		"common": 9
 	},
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 6229,
+		"ips": 6226,
 		"common": 6
 	},
 	{
@@ -728,7 +728,7 @@
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 11135,
+		"ips": 11145,
 		"common": 8
 	},
 	{

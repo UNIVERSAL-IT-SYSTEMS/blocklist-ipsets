@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "AU",
-		"value": 506
+		"value": 505
 	},
 	{
 		"code": "AW",
@@ -81,7 +81,7 @@
 	},
 	{
 		"code": "CA",
-		"value": 700
+		"value": 699
 	},
 	{
 		"code": "CH",
@@ -121,7 +121,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 3922
+		"value": 3923
 	},
 	{
 		"code": "DJ",
@@ -409,7 +409,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 1918
+		"value": 1919
 	},
 	{
 		"code": "SA",
@@ -457,7 +457,7 @@
 	},
 	{
 		"code": "TW",
-		"value": 171
+		"value": 172
 	},
 	{
 		"code": "UA",
@@ -465,7 +465,7 @@
 	},
 	{
 		"code": "US",
-		"value": 4616
+		"value": 4617
 	},
 	{
 		"code": "UY",
@@ -485,6 +485,6 @@
 	},
 	{
 		"code": "ZA",
-		"value": 142
+		"value": 141
 	}
 ]

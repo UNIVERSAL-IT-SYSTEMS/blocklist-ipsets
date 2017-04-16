@@ -81,7 +81,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 1050
+		"value": 1052
 	},
 	{
 		"code": "DK",
@@ -109,7 +109,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 397
+		"value": 395
 	},
 	{
 		"code": "GB",
@@ -165,7 +165,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 24
+		"value": 23
 	},
 	{
 		"code": "IR",
@@ -301,7 +301,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 253
+		"value": 254
 	},
 	{
 		"code": "SA",
@@ -341,7 +341,7 @@
 	},
 	{
 		"code": "TW",
-		"value": 27
+		"value": 28
 	},
 	{
 		"code": "UA",
@@ -349,7 +349,7 @@
 	},
 	{
 		"code": "US",
-		"value": 2015
+		"value": 2014
 	},
 	{
 		"code": "VE",

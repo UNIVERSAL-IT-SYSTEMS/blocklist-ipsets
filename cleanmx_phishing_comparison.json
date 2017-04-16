@@ -44,8 +44,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 367,
-		"common": 18
+		"ips": 340,
+		"common": 17
 	},
 	{
 		"name": "bambenek_pykspa",
@@ -104,25 +104,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44449,
+		"ips": 44538,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9199,
+		"ips": 9200,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 711,
+		"ips": 710,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24683,
+		"ips": 24722,
 		"common": 6
 	},
 	{
@@ -488,8 +488,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911154,
-		"common": 33
+		"ips": 656911127,
+		"common": 32
 	},
 	{
 		"name": "firehol_level2",
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146085,
+		"ips": 146080,
 		"common": 20
 	},
 	{
@@ -536,7 +536,7 @@
 	{
 		"name": "gpf_comics",
 		"category": "abuse",
-		"ips": 3767,
+		"ips": 3773,
 		"common": 1
 	},
 	{
@@ -800,7 +800,7 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 29012,
+		"ips": 29026,
 		"common": 2
 	},
 	{
