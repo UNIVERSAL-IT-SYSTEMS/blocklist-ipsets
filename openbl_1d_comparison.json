@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586277,
+		"ips": 9586283,
 		"common": 85
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 18458,
+		"ips": 18465,
 		"common": 58
 	},
 	{
