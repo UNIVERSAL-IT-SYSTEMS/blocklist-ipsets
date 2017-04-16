@@ -32,8 +32,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 7235,
-		"common": 1
+		"ips": 7508,
+		"common": 2
 	},
 	{
 		"name": "sorbs_new_spam",

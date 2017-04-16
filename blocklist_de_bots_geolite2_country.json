@@ -45,11 +45,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 16
-	},
-	{
-		"code": "EG",
-		"value": 1
+		"value": 15
 	},
 	{
 		"code": "FI",
@@ -82,10 +78,6 @@
 	{
 		"code": "IQ",
 		"value": 2
-	},
-	{
-		"code": "JP",
-		"value": 1
 	},
 	{
 		"code": "LT",
@@ -137,7 +129,7 @@
 	},
 	{
 		"code": "TH",
-		"value": 4
+		"value": 3
 	},
 	{
 		"code": "TW",
@@ -145,10 +137,10 @@
 	},
 	{
 		"code": "UA",
-		"value": 38
+		"value": 37
 	},
 	{
 		"code": "US",
-		"value": 35
+		"value": 34
 	}
 ]

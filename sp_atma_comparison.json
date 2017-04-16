@@ -158,7 +158,7 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 560,
+		"ips": 556,
 		"common": 2
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13360,
+		"ips": 13346,
 		"common": 8
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 403,
+		"ips": 405,
 		"common": 1
 	},
 	{
@@ -488,7 +488,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42676,
+		"ips": 42679,
 		"common": 307
 	},
 	{
@@ -512,13 +512,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586204,
+		"ips": 9586193,
 		"common": 91
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29280,
+		"ips": 29283,
 		"common": 31
 	},
 	{

@@ -9,7 +9,7 @@
 	},
 	{
 		"code": "AR",
-		"value": 18
+		"value": 17
 	},
 	{
 		"code": "AZ",
@@ -37,7 +37,7 @@
 	},
 	{
 		"code": "CO",
-		"value": 3
+		"value": 4
 	},
 	{
 		"code": "DE",
@@ -62,10 +62,6 @@
 	{
 		"code": "FR",
 		"value": 5
-	},
-	{
-		"code": "GB",
-		"value": 2
 	},
 	{
 		"code": "GE",
@@ -189,7 +185,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 26
+		"value": 25
 	},
 	{
 		"code": "SA",
@@ -221,7 +217,7 @@
 	},
 	{
 		"code": "TW",
-		"value": 18
+		"value": 17
 	},
 	{
 		"code": "UA",

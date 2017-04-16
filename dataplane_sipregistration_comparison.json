@@ -20,7 +20,7 @@
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 233,
+		"ips": 232,
 		"common": 3
 	},
 	{
@@ -38,7 +38,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 403,
+		"ips": 405,
 		"common": 5
 	},
 	{
