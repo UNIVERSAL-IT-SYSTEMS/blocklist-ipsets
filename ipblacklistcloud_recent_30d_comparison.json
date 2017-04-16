@@ -6,6 +6,12 @@
 		"common": 1
 	},
 	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 378,
+		"common": 1
+	},
+	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8299,
@@ -230,7 +236,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42712,
+		"ips": 42718,
 		"common": 3
 	},
 	{
@@ -260,7 +266,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29277,
+		"ips": 29283,
 		"common": 1
 	},
 	{

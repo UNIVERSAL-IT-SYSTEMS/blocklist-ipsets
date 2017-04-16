@@ -74,7 +74,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 374,
+		"ips": 378,
 		"common": 19
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42712,
+		"ips": 42718,
 		"common": 1
 	},
 	{

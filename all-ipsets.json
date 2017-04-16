@@ -532,10 +532,10 @@
 		"category": "attacks",
 		"maintainer": "BadIPs.com",
 		"started": 1438006573000,
-		"updated": 1492324100000,
-		"checked": 1492324100000,
+		"updated": 1492326081000,
+		"checked": 1492326081000,
 		"clock_skew": 0,
-		"ips": 374,
+		"ips": 378,
 		"errors": 0
 	},
 	{
@@ -1303,7 +1303,7 @@
 		"maintainer": "DataPlane.org",
 		"started": 1483560004000,
 		"updated": 1492318807000,
-		"checked": 1492322406000,
+		"checked": 1492326005000,
 		"clock_skew": 0,
 		"ips": 46,
 		"errors": 0
@@ -1324,10 +1324,10 @@
 		"category": "attacks",
 		"maintainer": "DataPlane.org",
 		"started": 1483560004000,
-		"updated": 1492304406000,
-		"checked": 1492322405000,
+		"updated": 1492326005000,
+		"checked": 1492326079000,
 		"clock_skew": 0,
-		"ips": 31,
+		"ips": 30,
 		"errors": 0
 	},
 	{
@@ -1995,10 +1995,10 @@
 		"category": "anonymizers",
 		"maintainer": "FireHOL",
 		"started": 1434200580000,
-		"updated": 1492325522000,
-		"checked": 1492325538000,
+		"updated": 1492325763000,
+		"checked": 1492326083000,
 		"clock_skew": 0,
-		"ips": 42712,
+		"ips": 42718,
 		"errors": 0
 	},
 	{
@@ -2050,10 +2050,10 @@
 		"category": "anonymizers",
 		"maintainer": "FireHOL",
 		"started": 1434202382000,
-		"updated": 1492325522000,
-		"checked": 1492325538000,
+		"updated": 1492325763000,
+		"checked": 1492326083000,
 		"clock_skew": 0,
-		"ips": 29277,
+		"ips": 29283,
 		"errors": 0
 	},
 	{
@@ -3106,10 +3106,10 @@
 		"category": "spam",
 		"maintainer": "NiX Spam",
 		"started": 1433711703000,
-		"updated": 1492325109000,
-		"checked": 1492325319000,
+		"updated": 1492326011000,
+		"checked": 1492326078000,
 		"clock_skew": 0,
-		"ips": 2688,
+		"ips": 2992,
 		"errors": 0
 	},
 	{
@@ -3590,10 +3590,10 @@
 		"category": "anonymizers",
 		"maintainer": "ProxySpy (spys.ru)",
 		"started": 1438790164000,
-		"updated": 1492322162000,
-		"checked": 1492322486000,
+		"updated": 1492325763000,
+		"checked": 1492326074000,
 		"clock_skew": 0,
-		"ips": 296,
+		"ips": 297,
 		"errors": 0
 	},
 	{
@@ -3601,10 +3601,10 @@
 		"category": "anonymizers",
 		"maintainer": "ProxySpy (spys.ru)",
 		"started": 1438790164000,
-		"updated": 1492322162000,
-		"checked": 1492322486000,
+		"updated": 1492325763000,
+		"checked": 1492326074000,
 		"clock_skew": 0,
-		"ips": 970,
+		"ips": 948,
 		"errors": 0
 	},
 	{
@@ -3612,10 +3612,10 @@
 		"category": "anonymizers",
 		"maintainer": "ProxySpy (spys.ru)",
 		"started": 1438790164000,
-		"updated": 1492322162000,
-		"checked": 1492322487000,
+		"updated": 1492325763000,
+		"checked": 1492326074000,
 		"clock_skew": 0,
-		"ips": 5737,
+		"ips": 5744,
 		"errors": 0
 	},
 	{
@@ -3623,10 +3623,10 @@
 		"category": "anonymizers",
 		"maintainer": "ProxySpy (spys.ru)",
 		"started": 1438790164000,
-		"updated": 1492322162000,
-		"checked": 1492322486000,
+		"updated": 1492325763000,
+		"checked": 1492326074000,
 		"clock_skew": 0,
-		"ips": 2365,
+		"ips": 2372,
 		"errors": 0
 	},
 	{
@@ -3690,10 +3690,10 @@
 		"maintainer": "Abuse.ch",
 		"started": 1458596101000,
 		"updated": 1458596101000,
-		"checked": 1492325700000,
+		"checked": 1492326013000,
 		"clock_skew": 0,
 		"ips": 0,
-		"errors": 0
+		"errors": 1
 	},
 	{
 		"ipset": "ransomware_feed",
@@ -3712,10 +3712,10 @@
 		"maintainer": "Abuse.ch",
 		"started": 1458596101000,
 		"updated": 1491024302000,
-		"checked": 1492325700000,
+		"checked": 1492326033000,
 		"clock_skew": 0,
 		"ips": 253,
-		"errors": 0
+		"errors": 1
 	},
 	{
 		"ipset": "ransomware_locky_ps",
@@ -3723,10 +3723,10 @@
 		"maintainer": "Abuse.ch",
 		"started": 1458596101000,
 		"updated": 1482450902000,
-		"checked": 1492325700000,
+		"checked": 1492326043000,
 		"clock_skew": 0,
 		"ips": 7,
-		"errors": 0
+		"errors": 1
 	},
 	{
 		"ipset": "ransomware_online",
@@ -3745,10 +3745,10 @@
 		"maintainer": "Abuse.ch",
 		"started": 1458596101000,
 		"updated": 1492323301000,
-		"checked": 1492325700000,
+		"checked": 1492326003000,
 		"clock_skew": 0,
 		"ips": 11728,
-		"errors": 0
+		"errors": 1
 	},
 	{
 		"ipset": "ransomware_teslacrypt_ps",
@@ -3756,10 +3756,10 @@
 		"maintainer": "Abuse.ch",
 		"started": 1458597601000,
 		"updated": 1487424602000,
-		"checked": 1492325700000,
+		"checked": 1492326023000,
 		"clock_skew": 0,
 		"ips": 10998,
-		"errors": 0
+		"errors": 1
 	},
 	{
 		"ipset": "ransomware_torrentlocker_c2",
@@ -3767,10 +3767,10 @@
 		"maintainer": "Abuse.ch",
 		"started": 1458596101000,
 		"updated": 1492279802000,
-		"checked": 1492325700000,
+		"checked": 1492326063000,
 		"clock_skew": 0,
 		"ips": 30,
-		"errors": 0
+		"errors": 1
 	},
 	{
 		"ipset": "ransomware_torrentlocker_ps",
@@ -3778,10 +3778,10 @@
 		"maintainer": "Abuse.ch",
 		"started": 1458596101000,
 		"updated": 1492128001000,
-		"checked": 1492325700000,
+		"checked": 1492326053000,
 		"clock_skew": 0,
 		"ips": 217,
-		"errors": 0
+		"errors": 1
 	},
 	{
 		"ipset": "ri_connect_proxies",

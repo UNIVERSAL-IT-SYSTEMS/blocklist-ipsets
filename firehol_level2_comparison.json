@@ -86,8 +86,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 374,
-		"common": 208
+		"ips": 378,
+		"common": 211
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -458,7 +458,7 @@
 	{
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
-		"ips": 31,
+		"ips": 30,
 		"common": 3
 	},
 	{
@@ -674,7 +674,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42712,
+		"ips": 42718,
 		"common": 1069
 	},
 	{
@@ -698,7 +698,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29277,
+		"ips": 29283,
 		"common": 1040
 	},
 	{
@@ -1070,8 +1070,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 2688,
-		"common": 269
+		"ips": 2992,
+		"common": 296
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1310,26 +1310,26 @@
 	{
 		"name": "proxyspy",
 		"category": "anonymizers",
-		"ips": 296,
-		"common": 11
+		"ips": 297,
+		"common": 12
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 970,
-		"common": 49
+		"ips": 948,
+		"common": 48
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 5737,
-		"common": 113
+		"ips": 5744,
+		"common": 114
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2365,
-		"common": 82
+		"ips": 2372,
+		"common": 84
 	},
 	{
 		"name": "proxz",
