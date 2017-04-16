@@ -2,8 +2,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 370,
-		"common": 3
+		"ips": 371,
+		"common": 4
 	},
 	{
 		"name": "bambenek_ranbyus",
@@ -26,8 +26,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911155,
-		"common": 3
+		"ips": 656911157,
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",

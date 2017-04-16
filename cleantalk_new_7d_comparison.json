@@ -32,13 +32,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44262,
+		"ips": 44418,
 		"common": 137
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9202,
+		"ips": 9204,
 		"common": 11
 	},
 	{
@@ -50,31 +50,31 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 751,
+		"ips": 752,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 556,
+		"ips": 555,
 		"common": 28
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24627,
+		"ips": 24695,
 		"common": 53
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17422,
+		"ips": 17505,
 		"common": 3
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13351,
+		"ips": 13364,
 		"common": 34
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19984,
+		"ips": 20012,
 		"common": 3
 	},
 	{
@@ -332,25 +332,25 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911155,
+		"ips": 656911157,
 		"common": 58
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53834,
+		"ips": 53989,
 		"common": 138
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146175,
+		"ips": 146165,
 		"common": 174
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586196,
+		"ips": 9586209,
 		"common": 669
 	},
 	{
@@ -584,13 +584,13 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 29026,
+		"ips": 29041,
 		"common": 1
 	},
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 6226,
+		"ips": 6217,
 		"common": 1
 	},
 	{
@@ -602,13 +602,13 @@
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 11145,
+		"ips": 11156,
 		"common": 1
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
-		"ips": 1934,
+		"ips": 1938,
 		"common": 1
 	},
 	{
@@ -812,7 +812,7 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11727,
+		"ips": 11728,
 		"common": 1
 	},
 	{

@@ -44,37 +44,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44262,
+		"ips": 44418,
 		"common": 168
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 556,
+		"ips": 555,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4783,
+		"ips": 4802,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24627,
+		"ips": 24695,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 232,
+		"ips": 233,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17422,
+		"ips": 17505,
 		"common": 165
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13351,
+		"ips": 13364,
 		"common": 12
 	},
 	{
@@ -116,7 +116,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19984,
+		"ips": 20012,
 		"common": 185
 	},
 	{
@@ -176,19 +176,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53834,
+		"ips": 53989,
 		"common": 168
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146175,
-		"common": 71
+		"ips": 146165,
+		"common": 72
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586196,
+		"ips": 9586209,
 		"common": 32
 	},
 	{
@@ -296,8 +296,8 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 29026,
-		"common": 74
+		"ips": 29041,
+		"common": 75
 	},
 	{
 		"name": "openbl_1d",
@@ -308,8 +308,8 @@
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 6226,
-		"common": 57
+		"ips": 6217,
+		"common": 58
 	},
 	{
 		"name": "openbl_360d",
@@ -320,13 +320,13 @@
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 11145,
-		"common": 66
+		"ips": 11156,
+		"common": 67
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
-		"ips": 1934,
+		"ips": 1938,
 		"common": 38
 	},
 	{

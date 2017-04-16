@@ -265,7 +265,7 @@
 	},
 	{
 		"code": "RS",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "RU",
@@ -313,7 +313,7 @@
 	},
 	{
 		"code": "US",
-		"value": 4500
+		"value": 4501
 	},
 	{
 		"code": "VE",

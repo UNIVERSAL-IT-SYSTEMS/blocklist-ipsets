@@ -146,13 +146,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911155,
+		"ips": 656911157,
 		"common": 151
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146175,
+		"ips": 146165,
 		"common": 8
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11727,
+		"ips": 11728,
 		"common": 151
 	},
 	{

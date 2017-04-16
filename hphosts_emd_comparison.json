@@ -74,8 +74,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 370,
-		"common": 317
+		"ips": 371,
+		"common": 318
 	},
 	{
 		"name": "bambenek_necurs",
@@ -206,38 +206,38 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44262,
+		"ips": 44418,
 		"common": 39
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9202,
+		"ips": 9204,
 		"common": 27
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 751,
+		"ips": 752,
 		"common": 26
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24627,
+		"ips": 24695,
 		"common": 10
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17422,
+		"ips": 17505,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13351,
-		"common": 255
+		"ips": 13364,
+		"common": 256
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -428,7 +428,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19984,
+		"ips": 20012,
 		"common": 3
 	},
 	{
@@ -632,26 +632,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911155,
-		"common": 407
+		"ips": 656911157,
+		"common": 409
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53834,
+		"ips": 53989,
 		"common": 49
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146175,
+		"ips": 146165,
 		"common": 107
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586196,
-		"common": 1508
+		"ips": 9586209,
+		"common": 1509
 	},
 	{
 		"name": "firehol_proxies",
@@ -1106,13 +1106,13 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 29026,
+		"ips": 29041,
 		"common": 9
 	},
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 6226,
+		"ips": 6217,
 		"common": 1
 	},
 	{
@@ -1124,7 +1124,7 @@
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 11145,
+		"ips": 11156,
 		"common": 2
 	},
 	{
@@ -1214,8 +1214,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5143,
-		"common": 3973
+		"ips": 5144,
+		"common": 3974
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1238,8 +1238,8 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 11727,
-		"common": 13
+		"ips": 11728,
+		"common": 14
 	},
 	{
 		"name": "ransomware_teslacrypt_ps",
@@ -1250,8 +1250,8 @@
 	{
 		"name": "ransomware_torrentlocker_c2",
 		"category": "malware",
-		"ips": 29,
-		"common": 1
+		"ips": 30,
+		"common": 2
 	},
 	{
 		"name": "sblam",
