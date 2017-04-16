@@ -32,7 +32,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146126,
+		"ips": 146131,
 		"common": 41
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 21417,
+		"ips": 21422,
 		"common": 1
 	},
 	{

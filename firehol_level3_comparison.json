@@ -266,7 +266,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13505,
+		"ips": 13489,
 		"common": 419
 	},
 	{
@@ -315,7 +315,7 @@
 		"name": "bm_tor",
 		"category": "anonymizers",
 		"ips": 7108,
-		"common": 930
+		"common": 935
 	},
 	{
 		"name": "botscout",
@@ -519,7 +519,7 @@
 		"name": "dm_tor",
 		"category": "anonymizers",
 		"ips": 7106,
-		"common": 931
+		"common": 936
 	},
 	{
 		"name": "dragon_http",
@@ -813,12 +813,12 @@
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
 		"ips": 42677,
-		"common": 1717
+		"common": 1722
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911102,
+		"ips": 656911153,
 		"common": 6767
 	},
 	{
@@ -830,7 +830,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586330,
+		"ips": 9586315,
 		"common": 2635
 	},
 	{
@@ -1826,8 +1826,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 21417,
-		"common": 21417
+		"ips": 21422,
+		"common": 21422
 	},
 	{
 		"name": "threatcrowd",
@@ -1839,25 +1839,25 @@
 		"name": "tor_exits",
 		"category": "anonymizers",
 		"ips": 966,
-		"common": 932
+		"common": 937
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
 		"ips": 1012,
-		"common": 977
+		"common": 982
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
 		"ips": 2129,
-		"common": 1106
+		"common": 1111
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
 		"ips": 1262,
-		"common": 1058
+		"common": 1063
 	},
 	{
 		"name": "trustedsec_atif",

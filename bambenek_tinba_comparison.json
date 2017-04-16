@@ -26,8 +26,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911102,
-		"common": 3
+		"ips": 656911153,
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",

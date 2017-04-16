@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13505,
+		"ips": 13489,
 		"common": 49
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911102,
+		"ips": 656911153,
 		"common": 8
 	},
 	{
@@ -338,13 +338,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146126,
+		"ips": 146131,
 		"common": 1938
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586330,
+		"ips": 9586315,
 		"common": 285
 	},
 	{
@@ -902,8 +902,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 21417,
-		"common": 14
+		"ips": 21422,
+		"common": 13
 	},
 	{
 		"name": "threatcrowd",

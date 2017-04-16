@@ -236,7 +236,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911102,
+		"ips": 656911153,
 		"common": 51643382
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586330,
+		"ips": 9586315,
 		"common": 11
 	},
 	{
