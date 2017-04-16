@@ -156,10 +156,6 @@
 		"value": 30
 	},
 	{
-		"code": "KZ",
-		"value": 1
-	},
-	{
 		"code": "LT",
 		"value": 3
 	},
@@ -193,7 +189,7 @@
 	},
 	{
 		"code": "NO",
-		"value": 67
+		"value": 68
 	},
 	{
 		"code": "NP",
@@ -245,7 +241,7 @@
 	},
 	{
 		"code": "SE",
-		"value": 158
+		"value": 159
 	},
 	{
 		"code": "SG",

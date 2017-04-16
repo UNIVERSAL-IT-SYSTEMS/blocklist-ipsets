@@ -44,19 +44,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42665,
+		"ips": 42666,
 		"common": 2
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911153,
+		"ips": 656911154,
 		"common": 512
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29279,
+		"ips": 29280,
 		"common": 2
 	},
 	{

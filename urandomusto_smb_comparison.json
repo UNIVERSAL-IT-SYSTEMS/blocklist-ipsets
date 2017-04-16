@@ -48,12 +48,6 @@
 		"common": 1
 	},
 	{
-		"name": "blocklist_net_ua",
-		"category": "abuse",
-		"ips": 13452,
-		"common": 1
-	},
-	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 2156,
@@ -104,7 +98,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911153,
+		"ips": 656911154,
 		"common": 2
 	},
 	{
@@ -118,12 +112,6 @@
 		"category": "attacks",
 		"ips": 146085,
 		"common": 11
-	},
-	{
-		"name": "firehol_level4",
-		"category": "attacks",
-		"ips": 9586278,
-		"common": 1
 	},
 	{
 		"name": "firehol_webserver",

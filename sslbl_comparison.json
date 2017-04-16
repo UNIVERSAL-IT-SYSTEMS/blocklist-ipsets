@@ -38,7 +38,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911153,
+		"ips": 656911154,
 		"common": 64
 	},
 	{
@@ -50,7 +50,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 25152,
+		"ips": 25153,
 		"common": 64
 	},
 	{

@@ -8,7 +8,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 101,
+		"ips": 79,
 		"common": 4
 	},
 	{
@@ -20,7 +20,7 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 123,
+		"ips": 119,
 		"common": 3
 	},
 	{
@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13452,
+		"ips": 13447,
 		"common": 11
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911153,
+		"ips": 656911154,
 		"common": 25
 	},
 	{
@@ -218,13 +218,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586278,
+		"ips": 9586273,
 		"common": 274
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 25152,
+		"ips": 25153,
 		"common": 3
 	},
 	{
@@ -584,7 +584,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5143,
+		"ips": 5144,
 		"common": 21
 	},
 	{
@@ -596,7 +596,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 306,
+		"ips": 307,
 		"common": 1
 	},
 	{

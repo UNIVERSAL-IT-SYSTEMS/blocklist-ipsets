@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 34
+		"value": 31
 	},
 	{
 		"code": "DK",
@@ -30,10 +30,6 @@
 	{
 		"code": "ES",
 		"value": 2
-	},
-	{
-		"code": "FI",
-		"value": 1
 	},
 	{
 		"code": "FR",
