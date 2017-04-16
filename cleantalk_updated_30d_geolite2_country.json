@@ -117,7 +117,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 1242
+		"value": 1240
 	},
 	{
 		"code": "CO",
@@ -141,7 +141,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 1135
+		"value": 1134
 	},
 	{
 		"code": "DJ",
@@ -372,10 +372,6 @@
 		"value": 2
 	},
 	{
-		"code": "MO",
-		"value": 1
-	},
-	{
 		"code": "MT",
 		"value": 1
 	},
@@ -405,7 +401,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 1044
+		"value": 1043
 	},
 	{
 		"code": "NO",
@@ -497,7 +493,7 @@
 	},
 	{
 		"code": "SE",
-		"value": 934
+		"value": 935
 	},
 	{
 		"code": "SG",
@@ -577,7 +573,7 @@
 	},
 	{
 		"code": "US",
-		"value": 14031
+		"value": 14029
 	},
 	{
 		"code": "UY",

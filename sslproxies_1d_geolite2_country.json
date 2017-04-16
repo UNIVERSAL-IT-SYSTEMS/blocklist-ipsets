@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 36
+		"value": 37
 	},
 	{
 		"code": "CA",
@@ -154,6 +154,10 @@
 	{
 		"code": "TH",
 		"value": 6
+	},
+	{
+		"code": "TM",
+		"value": 1
 	},
 	{
 		"code": "TR",

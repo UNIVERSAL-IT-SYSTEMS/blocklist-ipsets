@@ -25,7 +25,7 @@
 	},
 	{
 		"code": "CA",
-		"value": 4
+		"value": 3
 	},
 	{
 		"code": "CL",
@@ -33,7 +33,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 196
+		"value": 197
 	},
 	{
 		"code": "CR",
@@ -45,7 +45,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 17
+		"value": 16
 	},
 	{
 		"code": "DO",
@@ -81,7 +81,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 30
+		"value": 29
 	},
 	{
 		"code": "IR",
@@ -181,7 +181,7 @@
 	},
 	{
 		"code": "TH",
-		"value": 19
+		"value": 18
 	},
 	{
 		"code": "TN",
@@ -201,7 +201,7 @@
 	},
 	{
 		"code": "US",
-		"value": 330
+		"value": 329
 	},
 	{
 		"code": "VE",
