@@ -98,7 +98,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 25153,
+		"ips": 25152,
 		"common": 2
 	},
 	{
@@ -242,13 +242,13 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5144,
+		"ips": 5143,
 		"common": 1
 	},
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 307,
+		"ips": 306,
 		"common": 1
 	},
 	{

@@ -254,7 +254,7 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 396,
+		"ips": 392,
 		"common": 1
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5144,
+		"ips": 5143,
 		"common": 19
 	},
 	{

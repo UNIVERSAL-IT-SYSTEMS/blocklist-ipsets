@@ -290,7 +290,7 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 2158,
+		"ips": 2156,
 		"common": 11
 	},
 	{
@@ -704,8 +704,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11457,
-		"common": 193
+		"ips": 11530,
+		"common": 195
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -723,7 +723,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 656911154,
-		"common": 717
+		"common": 716
 	},
 	{
 		"name": "firehol_level2",
@@ -753,7 +753,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34735876,
-		"common": 2581
+		"common": 2580
 	},
 	{
 		"name": "fullbogons",
@@ -1212,16 +1212,10 @@
 		"common": 2
 	},
 	{
-		"name": "packetmail_mail",
-		"category": "reputation",
-		"ips": 396,
-		"common": 1
-	},
-	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2125,
-		"common": 27
+		"ips": 2177,
+		"common": 23
 	},
 	{
 		"name": "php_commenters",
@@ -1340,8 +1334,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5144,
-		"common": 337
+		"ips": 5143,
+		"common": 336
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1352,14 +1346,14 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 307,
-		"common": 307
+		"ips": 306,
+		"common": 306
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 11728,
-		"common": 132
+		"common": 131
 	},
 	{
 		"name": "ransomware_teslacrypt_ps",
@@ -1424,7 +1418,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2356,
+		"ips": 2309,
 		"common": 1
 	},
 	{
@@ -1436,7 +1430,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 8166,
+		"ips": 8168,
 		"common": 2
 	},
 	{
@@ -1526,7 +1520,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 929,
+		"ips": 927,
 		"common": 1
 	},
 	{
@@ -1544,8 +1538,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4296,
-		"common": 131
+		"ips": 4384,
+		"common": 133
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1575,7 +1569,7 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 536919,
-		"common": 81
+		"common": 80
 	},
 	{
 		"name": "taichung",

@@ -338,8 +338,8 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 25153,
-		"common": 132
+		"ips": 25152,
+		"common": 131
 	},
 	{
 		"name": "firehol_webserver",
@@ -536,8 +536,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5144,
-		"common": 262
+		"ips": 5143,
+		"common": 261
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -554,8 +554,8 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 307,
-		"common": 8
+		"ips": 306,
+		"common": 7
 	},
 	{
 		"name": "ransomware_teslacrypt_ps",

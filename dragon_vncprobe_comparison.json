@@ -254,8 +254,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4037,
-		"common": 2
+		"ips": 4066,
+		"common": 1
 	},
 	{
 		"name": "packetmail_carisirt",

@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 25153,
+		"ips": 25152,
 		"common": 5
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2356,
+		"ips": 2309,
 		"common": 2
 	},
 	{
@@ -386,7 +386,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 8166,
+		"ips": 8168,
 		"common": 6
 	},
 	{

@@ -150,6 +150,12 @@
 		"common": 4
 	},
 	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 4066,
+		"common": 1
+	},
+	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,

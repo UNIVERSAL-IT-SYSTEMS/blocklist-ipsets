@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 25153,
+		"ips": 25152,
 		"common": 4
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4037,
+		"ips": 4066,
 		"common": 2
 	},
 	{

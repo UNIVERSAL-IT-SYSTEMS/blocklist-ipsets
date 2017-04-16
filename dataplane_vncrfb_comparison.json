@@ -237,7 +237,7 @@
 		"name": "dronebl_worms_bots",
 		"category": "malware",
 		"ips": 120901,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dshield",
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11457,
+		"ips": 11530,
 		"common": 4
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 25153,
+		"ips": 25152,
 		"common": 1
 	},
 	{
@@ -441,7 +441,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -477,7 +477,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1997385,
-		"common": 109
+		"common": 110
 	},
 	{
 		"name": "myip",
@@ -530,8 +530,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4037,
-		"common": 26
+		"ips": 4066,
+		"common": 25
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -542,8 +542,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2125,
-		"common": 17
+		"ips": 2177,
+		"common": 16
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -579,7 +579,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "sorbs_web",

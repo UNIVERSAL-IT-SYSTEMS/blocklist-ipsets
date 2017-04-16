@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 25153,
+		"ips": 25152,
 		"common": 2
 	},
 	{
@@ -482,14 +482,14 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4037,
+		"ips": 4066,
 		"common": 2
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2125,
-		"common": 1
+		"ips": 2177,
+		"common": 2
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -500,7 +500,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5144,
+		"ips": 5143,
 		"common": 1
 	},
 	{

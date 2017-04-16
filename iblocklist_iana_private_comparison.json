@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11457,
+		"ips": 11530,
 		"common": 5
 	},
 	{
@@ -342,6 +342,12 @@
 		"common": 4
 	},
 	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2177,
+		"common": 1
+	},
+	{
 		"name": "php_harvesters_30d",
 		"category": "spam",
 		"ips": 332,
@@ -356,7 +362,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5144,
+		"ips": 5143,
 		"common": 3
 	},
 	{
@@ -374,7 +380,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4296,
+		"ips": 4384,
 		"common": 3
 	},
 	{

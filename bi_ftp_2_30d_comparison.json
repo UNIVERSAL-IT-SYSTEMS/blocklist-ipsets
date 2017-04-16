@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11457,
+		"ips": 11530,
 		"common": 11
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4037,
+		"ips": 4066,
 		"common": 3
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2125,
+		"ips": 2177,
 		"common": 8
 	},
 	{

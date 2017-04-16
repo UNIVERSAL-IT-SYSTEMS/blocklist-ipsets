@@ -188,7 +188,7 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 2158,
+		"ips": 2156,
 		"common": 19
 	},
 	{
@@ -404,8 +404,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11457,
-		"common": 423
+		"ips": 11530,
+		"common": 424
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -452,7 +452,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 25153,
+		"ips": 25152,
 		"common": 188
 	},
 	{
@@ -722,8 +722,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2125,
-		"common": 49
+		"ips": 2177,
+		"common": 46
 	},
 	{
 		"name": "php_commenters",
@@ -920,8 +920,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4296,
-		"common": 303
+		"ips": 4384,
+		"common": 306
 	},
 	{
 		"name": "stopforumspam_30d",

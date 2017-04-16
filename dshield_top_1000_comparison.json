@@ -152,8 +152,8 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 2158,
-		"common": 51
+		"ips": 2156,
+		"common": 49
 	},
 	{
 		"name": "ciarmy",
@@ -332,7 +332,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11457,
+		"ips": 11530,
 		"common": 1
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 25153,
+		"ips": 25152,
 		"common": 1
 	},
 	{
@@ -626,8 +626,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 4037,
-		"common": 128
+		"ips": 4066,
+		"common": 133
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -644,8 +644,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2125,
-		"common": 74
+		"ips": 2177,
+		"common": 78
 	},
 	{
 		"name": "pushing_inertia_blocklist",

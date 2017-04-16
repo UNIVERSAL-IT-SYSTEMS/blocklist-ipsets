@@ -1027,10 +1027,10 @@
 		"category": "attacks",
 		"maintainer": "danger.rulez.sk",
 		"started": 1433704703000,
-		"updated": 1492311689000,
-		"checked": 1492311706000,
+		"updated": 1492322364000,
+		"checked": 1492322666000,
 		"clock_skew": 0,
-		"ips": 2158,
+		"ips": 2156,
 		"errors": 0
 	},
 	{
@@ -1357,8 +1357,8 @@
 		"category": "attacks",
 		"maintainer": "DataPlane.org",
 		"started": 1491343270000,
-		"updated": 1492318852000,
-		"checked": 1492318937000,
+		"updated": 1492322451000,
+		"checked": 1492322670000,
 		"clock_skew": 0,
 		"ips": 897,
 		"errors": 0
@@ -1512,7 +1512,7 @@
 		"maintainer": "DShield.org",
 		"started": 1433707032000,
 		"updated": 1492320630000,
-		"checked": 1492321946000,
+		"checked": 1492322412000,
 		"clock_skew": 0,
 		"ips": 5120,
 		"errors": 0
@@ -1973,10 +1973,10 @@
 		"category": "abuse",
 		"maintainer": "FireHOL",
 		"started": 1446297566000,
-		"updated": 1492321956000,
-		"checked": 1492321963000,
+		"updated": 1492322430000,
+		"checked": 1492322673000,
 		"clock_skew": 0,
-		"ips": 11457,
+		"ips": 11530,
 		"errors": 0
 	},
 	{
@@ -2028,8 +2028,8 @@
 		"category": "attacks",
 		"maintainer": "FireHOL",
 		"started": 1434201306000,
-		"updated": 1492320001000,
-		"checked": 1492320511000,
+		"updated": 1492322499000,
+		"checked": 1492322673000,
 		"clock_skew": 0,
 		"ips": 146085,
 		"errors": 0
@@ -2061,10 +2061,10 @@
 		"category": "malware",
 		"maintainer": "FireHOL",
 		"started": 1478468332000,
-		"updated": 1492314032000,
-		"checked": 1492314043000,
+		"updated": 1492322655000,
+		"checked": 1492322673000,
 		"clock_skew": 0,
-		"ips": 25153,
+		"ips": 25152,
 		"errors": 0
 	},
 	{
@@ -3260,10 +3260,10 @@
 		"category": "reputation",
 		"maintainer": "PacketMail.net",
 		"started": 1440000131000,
-		"updated": 1492308019000,
-		"checked": 1492308516000,
+		"updated": 1492322422000,
+		"checked": 1492322668000,
 		"clock_skew": 0,
-		"ips": 4037,
+		"ips": 4066,
 		"errors": 0
 	},
 	{
@@ -3293,10 +3293,10 @@
 		"category": "reputation",
 		"maintainer": "PacketMail.net",
 		"started": 1446674751000,
-		"updated": 1492308023000,
-		"checked": 1492308519000,
+		"updated": 1492322426000,
+		"checked": 1492322670000,
 		"clock_skew": 0,
-		"ips": 396,
+		"ips": 392,
 		"errors": 0
 	},
 	{
@@ -3304,10 +3304,10 @@
 		"category": "reputation",
 		"maintainer": "PacketMail.net",
 		"started": 1446674708000,
-		"updated": 1492308028000,
-		"checked": 1492308518000,
+		"updated": 1492322432000,
+		"checked": 1492322669000,
 		"clock_skew": 0,
-		"ips": 2125,
+		"ips": 2177,
 		"errors": 0
 	},
 	{
@@ -3690,21 +3690,21 @@
 		"maintainer": "Abuse.ch",
 		"started": 1458596101000,
 		"updated": 1458596101000,
-		"checked": 1492322425000,
+		"checked": 1492322401000,
 		"clock_skew": 0,
 		"ips": 0,
-		"errors": 1
+		"errors": 0
 	},
 	{
 		"ipset": "ransomware_feed",
 		"category": "malware",
 		"maintainer": "Abuse.ch",
 		"started": 1458596150000,
-		"updated": 1492311140000,
-		"checked": 1492322405000,
+		"updated": 1492322655000,
+		"checked": 1492322656000,
 		"clock_skew": 0,
-		"ips": 5144,
-		"errors": 1
+		"ips": 5143,
+		"errors": 0
 	},
 	{
 		"ipset": "ransomware_locky_c2",
@@ -3712,10 +3712,10 @@
 		"maintainer": "Abuse.ch",
 		"started": 1458596101000,
 		"updated": 1491024302000,
-		"checked": 1492322446000,
+		"checked": 1492322402000,
 		"clock_skew": 0,
 		"ips": 253,
-		"errors": 1
+		"errors": 0
 	},
 	{
 		"ipset": "ransomware_locky_ps",
@@ -3723,20 +3723,20 @@
 		"maintainer": "Abuse.ch",
 		"started": 1458596101000,
 		"updated": 1482450902000,
-		"checked": 1492322456000,
+		"checked": 1492322402000,
 		"clock_skew": 0,
 		"ips": 7,
-		"errors": 1
+		"errors": 0
 	},
 	{
 		"ipset": "ransomware_online",
 		"category": "malware",
 		"maintainer": "Abuse.ch",
 		"started": 1478468332000,
-		"updated": 1492311140000,
-		"checked": 1492321937000,
+		"updated": 1492322655000,
+		"checked": 1492322656000,
 		"clock_skew": 0,
-		"ips": 307,
+		"ips": 306,
 		"errors": 0
 	},
 	{
@@ -3745,10 +3745,10 @@
 		"maintainer": "Abuse.ch",
 		"started": 1458596101000,
 		"updated": 1492296602000,
-		"checked": 1492322415000,
+		"checked": 1492322402000,
 		"clock_skew": 0,
 		"ips": 11728,
-		"errors": 1
+		"errors": 0
 	},
 	{
 		"ipset": "ransomware_teslacrypt_ps",
@@ -3756,10 +3756,10 @@
 		"maintainer": "Abuse.ch",
 		"started": 1458597601000,
 		"updated": 1487424602000,
-		"checked": 1492322436000,
+		"checked": 1492322402000,
 		"clock_skew": 0,
 		"ips": 10998,
-		"errors": 1
+		"errors": 0
 	},
 	{
 		"ipset": "ransomware_torrentlocker_c2",
@@ -3767,10 +3767,10 @@
 		"maintainer": "Abuse.ch",
 		"started": 1458596101000,
 		"updated": 1492279802000,
-		"checked": 1492322476000,
+		"checked": 1492322402000,
 		"clock_skew": 0,
 		"ips": 30,
-		"errors": 1
+		"errors": 0
 	},
 	{
 		"ipset": "ransomware_torrentlocker_ps",
@@ -3778,10 +3778,10 @@
 		"maintainer": "Abuse.ch",
 		"started": 1458596101000,
 		"updated": 1492128001000,
-		"checked": 1492322466000,
+		"checked": 1492322401000,
 		"clock_skew": 0,
 		"ips": 217,
-		"errors": 1
+		"errors": 0
 	},
 	{
 		"ipset": "ri_connect_proxies",
@@ -3920,8 +3920,8 @@
 		"category": "anonymizers",
 		"maintainer": "Free Proxy List",
 		"started": 1440333722000,
-		"updated": 1492321922000,
-		"checked": 1492321944000,
+		"updated": 1492322521000,
+		"checked": 1492322664000,
 		"clock_skew": 0,
 		"ips": 80,
 		"errors": 0
@@ -3931,10 +3931,10 @@
 		"category": "anonymizers",
 		"maintainer": "Free Proxy List",
 		"started": 1440333722000,
-		"updated": 1492321922000,
-		"checked": 1492321944000,
+		"updated": 1492322521000,
+		"checked": 1492322664000,
 		"clock_skew": 0,
-		"ips": 2356,
+		"ips": 2309,
 		"errors": 0
 	},
 	{
@@ -3953,10 +3953,10 @@
 		"category": "anonymizers",
 		"maintainer": "Free Proxy List",
 		"started": 1440333722000,
-		"updated": 1492321922000,
-		"checked": 1492321945000,
+		"updated": 1492322521000,
+		"checked": 1492322664000,
 		"clock_skew": 0,
-		"ips": 8166,
+		"ips": 8168,
 		"errors": 0
 	},
 	{
@@ -4130,7 +4130,7 @@
 		"maintainer": "Abuse.ch",
 		"started": 1439669729000,
 		"updated": 1491713192000,
-		"checked": 1492320694000,
+		"checked": 1492322499000,
 		"clock_skew": 0,
 		"ips": 2732,
 		"errors": 0
@@ -4140,8 +4140,8 @@
 		"category": "anonymizers",
 		"maintainer": "Free Proxy List",
 		"started": 1440333722000,
-		"updated": 1492321922000,
-		"checked": 1492321943000,
+		"updated": 1492322521000,
+		"checked": 1492322662000,
 		"clock_skew": 0,
 		"ips": 100,
 		"errors": 0
@@ -4173,10 +4173,10 @@
 		"category": "anonymizers",
 		"maintainer": "Free Proxy List",
 		"started": 1440333722000,
-		"updated": 1492321922000,
-		"checked": 1492321943000,
+		"updated": 1492322521000,
+		"checked": 1492322662000,
 		"clock_skew": 0,
-		"ips": 929,
+		"ips": 927,
 		"errors": 0
 	},
 	{
@@ -4206,10 +4206,10 @@
 		"category": "abuse",
 		"maintainer": "StopForumSpam.com",
 		"started": 1433710802000,
-		"updated": 1492318831000,
-		"checked": 1492318919000,
+		"updated": 1492322430000,
+		"checked": 1492322661000,
 		"clock_skew": 0,
-		"ips": 4296,
+		"ips": 4384,
 		"errors": 0
 	},
 	{
