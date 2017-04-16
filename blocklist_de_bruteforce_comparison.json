@@ -56,14 +56,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44308,
-		"common": 753
+		"ips": 44531,
+		"common": 754
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9207,
-		"common": 753
+		"ips": 9211,
+		"common": 754
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -74,8 +74,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13387,
-		"common": 462
+		"ips": 13401,
+		"common": 461
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -260,7 +260,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 39455,
+		"ips": 39456,
 		"common": 14
 	},
 	{
@@ -314,8 +314,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53876,
-		"common": 753
+		"ips": 54097,
+		"common": 754
 	},
 	{
 		"name": "firehol_level3",
@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586225,
+		"ips": 9586241,
 		"common": 494
 	},
 	{
@@ -357,7 +357,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1794,
-		"common": 116
+		"common": 117
 	},
 	{
 		"name": "haley_ssh",
@@ -435,7 +435,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 54
+		"common": 55
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -495,7 +495,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1997385,
-		"common": 301
+		"common": 302
 	},
 	{
 		"name": "malwaredomainlist",
@@ -512,8 +512,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 6191,
-		"common": 63
+		"ips": 6834,
+		"common": 64
 	},
 	{
 		"name": "nullsecure",
@@ -669,7 +669,7 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 35223,
-		"common": 73
+		"common": 74
 	},
 	{
 		"name": "sorbs_noserver",
@@ -681,13 +681,13 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 226
+		"common": 228
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 42
+		"common": 43
 	},
 	{
 		"name": "sp_anti_infringement",

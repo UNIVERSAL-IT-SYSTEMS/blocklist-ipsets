@@ -14,13 +14,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44308,
+		"ips": 44531,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 230,
+		"ips": 233,
 		"common": 3
 	},
 	{
@@ -44,7 +44,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53876,
+		"ips": 54097,
 		"common": 4
 	},
 	{

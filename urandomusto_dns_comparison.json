@@ -80,13 +80,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44308,
+		"ips": 44531,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9207,
+		"ips": 9211,
 		"common": 2
 	},
 	{
@@ -164,7 +164,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 53876,
+		"ips": 54097,
 		"common": 6
 	},
 	{

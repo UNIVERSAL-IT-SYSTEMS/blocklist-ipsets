@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "BD",
-		"value": 14
+		"value": 13
 	},
 	{
 		"code": "BE",
@@ -37,7 +37,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 418
+		"value": 416
 	},
 	{
 		"code": "BY",
@@ -57,7 +57,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 174
+		"value": 172
 	},
 	{
 		"code": "CO",
@@ -97,7 +97,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 31
+		"value": 30
 	},
 	{
 		"code": "GB",
@@ -229,11 +229,11 @@
 	},
 	{
 		"code": "RU",
-		"value": 39
+		"value": 38
 	},
 	{
 		"code": "SE",
-		"value": 145
+		"value": 146
 	},
 	{
 		"code": "SG",
@@ -265,7 +265,7 @@
 	},
 	{
 		"code": "US",
-		"value": 837
+		"value": 831
 	},
 	{
 		"code": "ZA",

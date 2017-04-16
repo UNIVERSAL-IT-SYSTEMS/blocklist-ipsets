@@ -44,7 +44,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42678,
+		"ips": 42675,
 		"common": 2
 	},
 	{
@@ -56,7 +56,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29282,
+		"ips": 29279,
 		"common": 2
 	},
 	{
