@@ -14,7 +14,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 381,
+		"ips": 384,
 		"common": 1
 	},
 	{
@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17459,
+		"ips": 17447,
 		"common": 1
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42637,
+		"ips": 42632,
 		"common": 1
 	},
 	{
@@ -320,25 +320,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 966,
+		"ips": 964,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1012,
+		"ips": 1009,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2129,
+		"ips": 2126,
 		"common": 1
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1262,
+		"ips": 1258,
 		"common": 1
 	},
 	{

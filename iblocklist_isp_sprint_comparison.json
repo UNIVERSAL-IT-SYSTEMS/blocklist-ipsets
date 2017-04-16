@@ -128,13 +128,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208313,
+		"ips": 208310,
 		"common": 9
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42637,
+		"ips": 42632,
 		"common": 1
 	},
 	{
@@ -158,7 +158,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29287,
+		"ips": 29284,
 		"common": 1
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 16183,
+		"ips": 16180,
 		"common": 1
 	},
 	{

@@ -49,7 +49,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 618
+		"value": 617
 	},
 	{
 		"code": "CO",
@@ -78,6 +78,10 @@
 	{
 		"code": "DO",
 		"value": 7
+	},
+	{
+		"code": "DZ",
+		"value": 1
 	},
 	{
 		"code": "EE",
@@ -281,7 +285,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 879
+		"value": 880
 	},
 	{
 		"code": "SA",
@@ -317,7 +321,7 @@
 	},
 	{
 		"code": "TW",
-		"value": 38
+		"value": 37
 	},
 	{
 		"code": "TZ",
@@ -325,11 +329,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 156
+		"value": 157
 	},
 	{
 		"code": "US",
-		"value": 1444
+		"value": 1443
 	},
 	{
 		"code": "VE",

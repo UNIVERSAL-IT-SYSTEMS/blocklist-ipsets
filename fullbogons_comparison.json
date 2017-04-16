@@ -164,25 +164,25 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6255,
+		"ips": 6244,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 44194,
+		"ips": 44191,
 		"common": 10
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 15489,
+		"ips": 15492,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20072,
+		"ips": 20069,
 		"common": 7
 	},
 	{
@@ -194,19 +194,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5927,
+		"ips": 5926,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33116,
+		"ips": 33114,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13644,
+		"ips": 13647,
 		"common": 2
 	},
 	{
@@ -332,13 +332,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11784,
+		"ips": 11786,
 		"common": 7
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208313,
+		"ips": 208310,
 		"common": 102
 	},
 	{

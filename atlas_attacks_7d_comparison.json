@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9209,
+		"ips": 9207,
 		"common": 1
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208313,
+		"ips": 208310,
 		"common": 1
 	},
 	{

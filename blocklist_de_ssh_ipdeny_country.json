@@ -1,7 +1,7 @@
 [
 	{
 		"code": "AE",
-		"value": 16
+		"value": 17
 	},
 	{
 		"code": "AF",
@@ -17,7 +17,7 @@
 	},
 	{
 		"code": "AR",
-		"value": 3318
+		"value": 3322
 	},
 	{
 		"code": "AT",
@@ -25,11 +25,11 @@
 	},
 	{
 		"code": "AU",
-		"value": 63
+		"value": 62
 	},
 	{
 		"code": "AZ",
-		"value": 4
+		"value": 3
 	},
 	{
 		"code": "BA",
@@ -69,7 +69,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 866
+		"value": 867
 	},
 	{
 		"code": "BT",
@@ -105,11 +105,11 @@
 	},
 	{
 		"code": "CN",
-		"value": 3712
+		"value": 3710
 	},
 	{
 		"code": "CO",
-		"value": 240
+		"value": 239
 	},
 	{
 		"code": "CY",
@@ -121,7 +121,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 166
+		"value": 165
 	},
 	{
 		"code": "DK",
@@ -133,11 +133,11 @@
 	},
 	{
 		"code": "DZ",
-		"value": 139
+		"value": 140
 	},
 	{
 		"code": "EC",
-		"value": 1314
+		"value": 1308
 	},
 	{
 		"code": "EE",
@@ -145,7 +145,7 @@
 	},
 	{
 		"code": "EG",
-		"value": 120
+		"value": 121
 	},
 	{
 		"code": "ES",
@@ -161,7 +161,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 205
+		"value": 204
 	},
 	{
 		"code": "GA",
@@ -169,7 +169,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 96
+		"value": 97
 	},
 	{
 		"code": "GH",
@@ -189,15 +189,11 @@
 	},
 	{
 		"code": "HK",
-		"value": 54
+		"value": 55
 	},
 	{
 		"code": "HN",
 		"value": 30
-	},
-	{
-		"code": "HR",
-		"value": 1
 	},
 	{
 		"code": "HT",
@@ -221,7 +217,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 1051
+		"value": 1047
 	},
 	{
 		"code": "IQ",
@@ -229,7 +225,7 @@
 	},
 	{
 		"code": "IR",
-		"value": 344
+		"value": 346
 	},
 	{
 		"code": "IS",
@@ -269,7 +265,7 @@
 	},
 	{
 		"code": "KW",
-		"value": 10
+		"value": 8
 	},
 	{
 		"code": "KY",
@@ -357,7 +353,7 @@
 	},
 	{
 		"code": "NG",
-		"value": 5
+		"value": 4
 	},
 	{
 		"code": "NL",
@@ -377,7 +373,7 @@
 	},
 	{
 		"code": "OM",
-		"value": 72
+		"value": 74
 	},
 	{
 		"code": "PA",
@@ -437,7 +433,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 2652
+		"value": 2646
 	},
 	{
 		"code": "RW",
@@ -493,7 +489,7 @@
 	},
 	{
 		"code": "TH",
-		"value": 76
+		"value": 77
 	},
 	{
 		"code": "TJ",
@@ -545,11 +541,11 @@
 	},
 	{
 		"code": "VN",
-		"value": 235
+		"value": 234
 	},
 	{
 		"code": "YE",
-		"value": 13
+		"value": 14
 	},
 	{
 		"code": "ZA",

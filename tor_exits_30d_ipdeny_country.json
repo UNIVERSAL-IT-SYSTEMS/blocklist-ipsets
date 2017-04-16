@@ -41,7 +41,7 @@
 	},
 	{
 		"code": "CH",
-		"value": 31
+		"value": 30
 	},
 	{
 		"code": "CL",
@@ -189,7 +189,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 127
+		"value": 126
 	},
 	{
 		"code": "NO",
@@ -265,7 +265,7 @@
 	},
 	{
 		"code": "US",
-		"value": 332
+		"value": 331
 	},
 	{
 		"code": "VE",

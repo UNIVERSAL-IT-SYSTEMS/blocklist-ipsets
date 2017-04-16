@@ -17,7 +17,7 @@
 	},
 	{
 		"code": "CA",
-		"value": 15
+		"value": 16
 	},
 	{
 		"code": "CN",
@@ -45,7 +45,7 @@
 	},
 	{
 		"code": "HK",
-		"value": 2
+		"value": 1
 	},
 	{
 		"code": "ID",
@@ -77,11 +77,11 @@
 	},
 	{
 		"code": "RU",
-		"value": 6
+		"value": 7
 	},
 	{
 		"code": "TH",
-		"value": 2
+		"value": 1
 	},
 	{
 		"code": "TW",

@@ -45,7 +45,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 21
+		"value": 20
 	},
 	{
 		"code": "EG",
@@ -149,6 +149,6 @@
 	},
 	{
 		"code": "US",
-		"value": 39
+		"value": 41
 	}
 ]

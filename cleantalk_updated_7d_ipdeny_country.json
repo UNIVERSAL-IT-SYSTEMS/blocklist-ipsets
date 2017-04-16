@@ -5,7 +5,7 @@
 	},
 	{
 		"code": "AE",
-		"value": 4
+		"value": 3
 	},
 	{
 		"code": "AG",
@@ -97,7 +97,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 272
+		"value": 273
 	},
 	{
 		"code": "DK",
@@ -149,7 +149,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 156
+		"value": 157
 	},
 	{
 		"code": "GE",
@@ -353,7 +353,7 @@
 	},
 	{
 		"code": "RO",
-		"value": 281
+		"value": 280
 	},
 	{
 		"code": "RS",
@@ -361,7 +361,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 2513
+		"value": 2515
 	},
 	{
 		"code": "RW",
@@ -437,7 +437,7 @@
 	},
 	{
 		"code": "US",
-		"value": 5881
+		"value": 5882
 	},
 	{
 		"code": "UY",
