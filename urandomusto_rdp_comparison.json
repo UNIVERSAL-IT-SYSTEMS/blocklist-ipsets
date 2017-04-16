@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 52482,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -15,7 +15,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 5574,
-		"common": 7
+		"common": 9
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -63,7 +63,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 17153,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "darklist_de",
@@ -153,13 +153,13 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 146167,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34735876,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "greensnow",
@@ -177,7 +177,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 16621,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_edu",
@@ -321,19 +321,19 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 536919,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11682,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "trustedsec_atif",
@@ -345,24 +345,18 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 23856,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 400,
-		"common": 1
+		"ips": 399,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
 		"ips": 22,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 445,
 		"common": 1
 	},
 	{

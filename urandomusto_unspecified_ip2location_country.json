@@ -44,6 +44,10 @@
 		"value": 1
 	},
 	{
+		"code": "DZ",
+		"value": 3
+	},
+	{
 		"code": "EG",
 		"value": 1
 	},
@@ -61,6 +65,10 @@
 	},
 	{
 		"code": "GE",
+		"value": 1
+	},
+	{
+		"code": "GH",
 		"value": 1
 	},
 	{
@@ -89,7 +97,7 @@
 	},
 	{
 		"code": "IR",
-		"value": 6
+		"value": 7
 	},
 	{
 		"code": "IT",
@@ -97,7 +105,7 @@
 	},
 	{
 		"code": "KR",
-		"value": 8
+		"value": 9
 	},
 	{
 		"code": "MD",
@@ -161,7 +169,7 @@
 	},
 	{
 		"code": "US",
-		"value": 37
+		"value": 38
 	},
 	{
 		"code": "VN",

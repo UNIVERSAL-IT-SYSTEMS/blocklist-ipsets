@@ -200,19 +200,19 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 14,
+		"ips": 15,
 		"common": 4
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 219,
+		"ips": 229,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 400,
+		"ips": 399,
 		"common": 1
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 188,
+		"ips": 195,
 		"common": 2
 	}
 ]
