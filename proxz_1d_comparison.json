@@ -1,5 +1,11 @@
 [
 	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 378,
+		"common": 1
+	},
+	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8299,
@@ -200,8 +206,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146167,
-		"common": 22
+		"ips": 146074,
+		"common": 21
 	},
 	{
 		"name": "firehol_level4",
@@ -302,8 +308,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 9177,
-		"common": 12
+		"ips": 9510,
+		"common": 13
 	},
 	{
 		"name": "openbl_all",

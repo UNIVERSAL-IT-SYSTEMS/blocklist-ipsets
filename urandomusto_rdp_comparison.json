@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 376,
+		"ips": 378,
 		"common": 2
 	},
 	{
@@ -152,8 +152,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146167,
-		"common": 16
+		"ips": 146074,
+		"common": 17
 	},
 	{
 		"name": "firehol_webserver",

@@ -68,7 +68,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 376,
+		"ips": 378,
 		"common": 9
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 746,
+		"ips": 750,
 		"common": 12
 	},
 	{
@@ -554,7 +554,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146167,
+		"ips": 146074,
 		"common": 348
 	},
 	{
@@ -818,7 +818,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 9177,
+		"ips": 9510,
 		"common": 4
 	},
 	{
@@ -1028,7 +1028,7 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 21439,
+		"ips": 21424,
 		"common": 18
 	},
 	{

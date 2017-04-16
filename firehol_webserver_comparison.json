@@ -200,7 +200,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 376,
+		"ips": 378,
 		"common": 67
 	},
 	{
@@ -314,8 +314,8 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 746,
-		"common": 134
+		"ips": 750,
+		"common": 135
 	},
 	{
 		"name": "blocklist_de_ftp",
@@ -950,8 +950,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146167,
-		"common": 26746
+		"ips": 146074,
+		"common": 26830
 	},
 	{
 		"name": "firehol_level4",
@@ -1460,8 +1460,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 9177,
-		"common": 276
+		"ips": 9510,
+		"common": 278
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1886,8 +1886,8 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 21439,
-		"common": 578
+		"ips": 21424,
+		"common": 569
 	},
 	{
 		"name": "socks_proxy",

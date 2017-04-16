@@ -12,6 +12,12 @@
 		"common": 13
 	},
 	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 378,
+		"common": 1
+	},
+	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8299,
@@ -308,8 +314,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146167,
-		"common": 113
+		"ips": 146074,
+		"common": 107
 	},
 	{
 		"name": "firehol_level4",
@@ -512,8 +518,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 9177,
-		"common": 47
+		"ips": 9510,
+		"common": 51
 	},
 	{
 		"name": "nullsecure",
@@ -800,7 +806,7 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 21439,
+		"ips": 21424,
 		"common": 5
 	},
 	{

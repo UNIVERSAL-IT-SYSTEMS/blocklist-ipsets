@@ -86,7 +86,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 146167,
+		"ips": 146074,
 		"common": 131
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 21439,
+		"ips": 21424,
 		"common": 111
 	},
 	{

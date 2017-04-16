@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 9
+		"value": 11
 	},
 	{
 		"code": "CA",
@@ -37,7 +37,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 112
+		"value": 113
 	},
 	{
 		"code": "CO",
@@ -61,7 +61,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 30
+		"value": 29
 	},
 	{
 		"code": "GB",
@@ -69,7 +69,7 @@
 	},
 	{
 		"code": "HK",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "ID",
@@ -209,7 +209,7 @@
 	},
 	{
 		"code": "US",
-		"value": 31
+		"value": 30
 	},
 	{
 		"code": "VN",
