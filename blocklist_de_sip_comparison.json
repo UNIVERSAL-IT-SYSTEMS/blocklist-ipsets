@@ -110,13 +110,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22171,
+		"ips": 22187,
 		"common": 7
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19922,
+		"ips": 19945,
 		"common": 7
 	},
 	{
@@ -476,8 +476,8 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 139,
-		"common": 16
+		"ips": 156,
+		"common": 18
 	},
 	{
 		"name": "voipbl",

@@ -38,19 +38,19 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17473,
+		"ips": 17527,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22171,
+		"ips": 22187,
 		"common": 2
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19922,
+		"ips": 19945,
 		"common": 1
 	},
 	{
@@ -214,5 +214,11 @@
 		"category": "organizations",
 		"ips": 136184374,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 449,
+		"common": 1
 	}
 ]

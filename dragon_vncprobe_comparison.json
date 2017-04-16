@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17473,
+		"ips": 17527,
 		"common": 1
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42678,
+		"ips": 42677,
 		"common": 1
 	},
 	{

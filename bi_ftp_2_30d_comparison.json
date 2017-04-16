@@ -56,19 +56,19 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9234,
+		"ips": 9243,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 567,
+		"ips": 566,
 		"common": 13
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24675,
+		"ips": 24726,
 		"common": 1
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22171,
+		"ips": 22187,
 		"common": 6
 	},
 	{
@@ -440,14 +440,14 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 12,
+		"ips": 13,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 149,
-		"common": 3
+		"ips": 170,
+		"common": 4
 	},
 	{
 		"name": "voipbl",

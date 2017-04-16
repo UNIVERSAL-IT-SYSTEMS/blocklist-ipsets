@@ -51,7 +51,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 44526,
-		"common": 567
+		"common": 566
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -164,13 +164,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22171,
+		"ips": 22187,
 		"common": 25
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19922,
+		"ips": 19945,
 		"common": 24
 	},
 	{
@@ -249,7 +249,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 54084,
-		"common": 567
+		"common": 566
 	},
 	{
 		"name": "firehol_level3",
@@ -542,19 +542,7 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 149,
-		"common": 23
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 451,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 444,
-		"common": 4
+		"ips": 170,
+		"common": 25
 	}
 ]

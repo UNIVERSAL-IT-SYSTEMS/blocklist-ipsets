@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9234,
+		"ips": 9243,
 		"common": 1
 	},
 	{
@@ -296,13 +296,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 421,
+		"ips": 407,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 53,
+		"ips": 58,
 		"common": 1
 	}
 ]

@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9234,
+		"ips": 9243,
 		"common": 1
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 12,
+		"ips": 13,
 		"common": 1
 	},
 	{

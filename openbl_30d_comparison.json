@@ -104,25 +104,25 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9234,
+		"ips": 9243,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 567,
+		"ips": 566,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 4769,
-		"common": 60
+		"ips": 4789,
+		"common": 61
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 24675,
+		"ips": 24726,
 		"common": 69
 	},
 	{
@@ -134,8 +134,8 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17473,
-		"common": 1142
+		"ips": 17527,
+		"common": 1144
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -290,14 +290,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22171,
-		"common": 1640
+		"ips": 22187,
+		"common": 1636
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19922,
-		"common": 1450
+		"ips": 19945,
+		"common": 1444
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -428,7 +428,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42678,
+		"ips": 42677,
 		"common": 36
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29294,
+		"ips": 29293,
 		"common": 21
 	},
 	{
@@ -902,7 +902,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 16178,
+		"ips": 16179,
 		"common": 1
 	},
 	{
@@ -1076,37 +1076,37 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 149,
+		"ips": 170,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 421,
-		"common": 4
+		"ips": 407,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 451,
-		"common": 12
+		"common": 8
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 444,
-		"common": 78
+		"ips": 449,
+		"common": 56
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 440,
-		"common": 3
+		"ips": 444,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 139,
+		"ips": 156,
 		"common": 3
 	},
 	{

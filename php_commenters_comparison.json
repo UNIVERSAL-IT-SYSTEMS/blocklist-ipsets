@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 249,
+		"ips": 250,
 		"common": 11
 	},
 	{
@@ -188,13 +188,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22171,
+		"ips": 22187,
 		"common": 13
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19922,
+		"ips": 19945,
 		"common": 13
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42678,
+		"ips": 42677,
 		"common": 27
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29294,
+		"ips": 29293,
 		"common": 18
 	},
 	{
@@ -728,8 +728,8 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 421,
-		"common": 1
+		"ips": 407,
+		"common": 2
 	},
 	{
 		"name": "xroxy",

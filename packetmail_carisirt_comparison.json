@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17473,
+		"ips": 17527,
 		"common": 1
 	},
 	{
@@ -188,13 +188,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22171,
+		"ips": 22187,
 		"common": 3
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19922,
+		"ips": 19945,
 		"common": 1
 	},
 	{
@@ -656,7 +656,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 421,
+		"ips": 407,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 156,
 		"common": 1
 	},
 	{
