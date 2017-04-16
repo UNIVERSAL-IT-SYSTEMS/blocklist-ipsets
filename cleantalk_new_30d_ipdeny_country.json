@@ -321,7 +321,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 228
+		"value": 229
 	},
 	{
 		"code": "NO",
@@ -377,7 +377,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 2969
+		"value": 2968
 	},
 	{
 		"code": "SA",
@@ -389,7 +389,7 @@
 	},
 	{
 		"code": "SE",
-		"value": 56
+		"value": 57
 	},
 	{
 		"code": "SG",
@@ -441,7 +441,7 @@
 	},
 	{
 		"code": "US",
-		"value": 6245
+		"value": 6247
 	},
 	{
 		"code": "UY",
@@ -461,6 +461,6 @@
 	},
 	{
 		"code": "ZA",
-		"value": 202
+		"value": 201
 	}
 ]

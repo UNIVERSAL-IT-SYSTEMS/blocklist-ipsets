@@ -2,8 +2,8 @@
 	{
 		"name": "alienvault_reputation",
 		"category": "reputation",
-		"ips": 52014,
-		"common": 16
+		"ips": 52482,
+		"common": 17
 	},
 	{
 		"name": "atlas_scans_30d",
@@ -14,13 +14,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44526,
+		"ips": 44359,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 233,
+		"ips": 231,
 		"common": 3
 	},
 	{

@@ -2,7 +2,7 @@
 	{
 		"name": "alienvault_reputation",
 		"category": "reputation",
-		"ips": 52014,
+		"ips": 52482,
 		"common": 7
 	},
 	{
@@ -80,13 +80,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 44526,
+		"ips": 44359,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9243,
+		"ips": 9209,
 		"common": 2
 	},
 	{

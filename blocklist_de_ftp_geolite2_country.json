@@ -33,7 +33,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 224
+		"value": 220
 	},
 	{
 		"code": "CO",
@@ -245,6 +245,6 @@
 	},
 	{
 		"code": "VN",
-		"value": 16
+		"value": 15
 	}
 ]
