@@ -140,8 +140,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13364,
-		"common": 476
+		"ips": 13348,
+		"common": 475
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586206,
+		"ips": 9586193,
 		"common": 3347
 	},
 	{
@@ -884,8 +884,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 7768,
-		"common": 26
+		"ips": 8130,
+		"common": 27
 	},
 	{
 		"name": "nullsecure",
@@ -1436,20 +1436,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 203,
+		"ips": 219,
 		"common": 5
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 411,
-		"common": 22
+		"ips": 400,
+		"common": 17
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 448,
-		"common": 3
+		"ips": 451,
+		"common": 2
 	},
 	{
 		"name": "voipbl",

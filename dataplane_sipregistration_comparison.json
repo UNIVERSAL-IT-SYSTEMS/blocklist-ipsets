@@ -134,13 +134,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 411,
+		"ips": 400,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 177,
+		"ips": 188,
 		"common": 1
 	},
 	{

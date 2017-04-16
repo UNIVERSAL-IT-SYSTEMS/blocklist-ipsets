@@ -38,7 +38,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13364,
+		"ips": 13348,
 		"common": 28
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586206,
+		"ips": 9586193,
 		"common": 113
 	},
 	{
@@ -350,8 +350,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 7768,
-		"common": 3
+		"ips": 8130,
+		"common": 4
 	},
 	{
 		"name": "openbl_all",
@@ -728,7 +728,7 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 411,
+		"ips": 400,
 		"common": 1
 	},
 	{

@@ -1,5 +1,9 @@
 [
 	{
+		"code": "CH",
+		"value": 3
+	},
+	{
 		"code": "CN",
 		"value": 1
 	},
@@ -25,6 +29,6 @@
 	},
 	{
 		"code": "US",
-		"value": 9
+		"value": 10
 	}
 ]
