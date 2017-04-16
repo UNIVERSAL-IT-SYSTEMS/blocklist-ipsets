@@ -185,7 +185,7 @@
 	},
 	{
 		"code": "ID",
-		"value": 102
+		"value": 101
 	},
 	{
 		"code": "IL",
@@ -309,7 +309,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 931
+		"value": 930
 	},
 	{
 		"code": "NO",
@@ -353,7 +353,7 @@
 	},
 	{
 		"code": "RO",
-		"value": 291
+		"value": 292
 	},
 	{
 		"code": "RS",
@@ -361,7 +361,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 2519
+		"value": 2521
 	},
 	{
 		"code": "RW",
@@ -437,7 +437,7 @@
 	},
 	{
 		"code": "US",
-		"value": 5930
+		"value": 5928
 	},
 	{
 		"code": "UY",
