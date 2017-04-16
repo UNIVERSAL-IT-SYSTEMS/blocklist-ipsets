@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13289,
+		"ips": 13291,
 		"common": 30
 	},
 	{
@@ -80,13 +80,13 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2482,
-		"common": 17
+		"ips": 2478,
+		"common": 16
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6240,
+		"ips": 6246,
 		"common": 55
 	},
 	{
@@ -98,49 +98,49 @@
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 15509,
-		"common": 153
+		"ips": 15493,
+		"common": 152
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1151,
+		"ips": 1154,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20047,
+		"ips": 20045,
 		"common": 249
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4735,
-		"common": 64
+		"ips": 4722,
+		"common": 63
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 17
+		"common": 16
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5929,
+		"ips": 5934,
 		"common": 51
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33138,
+		"ips": 33144,
 		"common": 191
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13676,
+		"ips": 13675,
 		"common": 92
 	},
 	{
@@ -230,13 +230,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11841,
+		"ips": 11843,
 		"common": 117
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208331,
+		"ips": 208337,
 		"common": 1305
 	},
 	{
@@ -266,13 +266,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586134,
+		"ips": 9586135,
 		"common": 308
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29274,
+		"ips": 29269,
 		"common": 2470
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 8412,
+		"ips": 8668,
 		"common": 13
 	},
 	{
@@ -603,25 +603,25 @@
 		"name": "proxyspy",
 		"category": "anonymizers",
 		"ips": 298,
-		"common": 81
+		"common": 77
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 975,
-		"common": 250
+		"ips": 985,
+		"common": 253
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 5749,
+		"ips": 5744,
 		"common": 1260
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2365,
-		"common": 590
+		"ips": 2373,
+		"common": 592
 	},
 	{
 		"name": "proxz",

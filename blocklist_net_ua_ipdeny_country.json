@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "AR",
-		"value": 331
+		"value": 332
 	},
 	{
 		"code": "AT",
@@ -165,7 +165,7 @@
 	},
 	{
 		"code": "DZ",
-		"value": 27
+		"value": 28
 	},
 	{
 		"code": "EC",
@@ -189,7 +189,7 @@
 	},
 	{
 		"code": "EU",
-		"value": 23
+		"value": 21
 	},
 	{
 		"code": "FI",
@@ -249,7 +249,7 @@
 	},
 	{
 		"code": "ID",
-		"value": 73
+		"value": 72
 	},
 	{
 		"code": "IE",
@@ -497,7 +497,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 1548
+		"value": 1546
 	},
 	{
 		"code": "SA",
@@ -581,7 +581,7 @@
 	},
 	{
 		"code": "US",
-		"value": 3959
+		"value": 3963
 	},
 	{
 		"code": "UY",
@@ -601,7 +601,7 @@
 	},
 	{
 		"code": "VN",
-		"value": 184
+		"value": 185
 	},
 	{
 		"code": "YE",

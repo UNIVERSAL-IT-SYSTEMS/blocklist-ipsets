@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13289,
+		"ips": 13291,
 		"common": 19
 	},
 	{
@@ -168,12 +168,6 @@
 		"common": 2
 	},
 	{
-		"name": "cleantalk",
-		"category": "abuse",
-		"ips": 2482,
-		"common": 1
-	},
-	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 44192,
@@ -182,31 +176,25 @@
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 15509,
-		"common": 1
-	},
-	{
-		"name": "cleantalk_updated",
-		"category": "abuse",
-		"ips": 2000,
+		"ips": 15493,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5929,
+		"ips": 5934,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33138,
+		"ips": 33144,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 13676,
+		"ips": 13675,
 		"common": 2
 	},
 	{
@@ -224,13 +212,13 @@
 	{
 		"name": "dataplane_sipinvitation",
 		"category": "attacks",
-		"ips": 47,
+		"ips": 48,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 405,
+		"ips": 408,
 		"common": 39
 	},
 	{
@@ -338,7 +326,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208331,
+		"ips": 208337,
 		"common": 3
 	},
 	{
@@ -368,13 +356,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9586134,
+		"ips": 9586135,
 		"common": 109
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29274,
+		"ips": 29269,
 		"common": 1
 	},
 	{
