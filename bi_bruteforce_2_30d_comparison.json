@@ -68,13 +68,13 @@
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 38417,
+		"ips": 38433,
 		"common": 2
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 153318,
+		"ips": 153342,
 		"common": 2
 	},
 	{

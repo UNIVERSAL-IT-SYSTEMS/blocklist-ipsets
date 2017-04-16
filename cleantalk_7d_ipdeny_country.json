@@ -49,7 +49,7 @@
 	},
 	{
 		"code": "BG",
-		"value": 7
+		"value": 8
 	},
 	{
 		"code": "BH",
@@ -89,7 +89,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 932
+		"value": 933
 	},
 	{
 		"code": "CO",
@@ -329,11 +329,11 @@
 	},
 	{
 		"code": "NL",
-		"value": 596
+		"value": 597
 	},
 	{
 		"code": "NO",
-		"value": 12
+		"value": 13
 	},
 	{
 		"code": "NP",
@@ -389,7 +389,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 2569
+		"value": 2571
 	},
 	{
 		"code": "RW",
@@ -409,7 +409,7 @@
 	},
 	{
 		"code": "SE",
-		"value": 221
+		"value": 222
 	},
 	{
 		"code": "SG",
@@ -441,7 +441,7 @@
 	},
 	{
 		"code": "TH",
-		"value": 200
+		"value": 201
 	},
 	{
 		"code": "TN",
@@ -473,7 +473,7 @@
 	},
 	{
 		"code": "US",
-		"value": 6292
+		"value": 6296
 	},
 	{
 		"code": "UY",

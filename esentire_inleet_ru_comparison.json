@@ -38,13 +38,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 44192,
+		"ips": 44196,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20045,
+		"ips": 20046,
 		"common": 1
 	},
 	{
@@ -242,13 +242,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 208337,
+		"ips": 208346,
 		"common": 4
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911157,
+		"ips": 656911158,
 		"common": 2562
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 153318,
+		"ips": 153342,
 		"common": 1
 	},
 	{

@@ -28,6 +28,10 @@
 		"value": 2
 	},
 	{
+		"code": "BG",
+		"value": 1
+	},
+	{
 		"code": "BH",
 		"value": 3
 	},
@@ -57,7 +61,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 625
+		"value": 626
 	},
 	{
 		"code": "CO",
@@ -229,11 +233,11 @@
 	},
 	{
 		"code": "NL",
-		"value": 38
+		"value": 39
 	},
 	{
 		"code": "NO",
-		"value": 6
+		"value": 7
 	},
 	{
 		"code": "NP",
@@ -281,7 +285,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 870
+		"value": 871
 	},
 	{
 		"code": "SA",
@@ -305,7 +309,7 @@
 	},
 	{
 		"code": "TH",
-		"value": 109
+		"value": 110
 	},
 	{
 		"code": "TN",
@@ -329,7 +333,7 @@
 	},
 	{
 		"code": "US",
-		"value": 1513
+		"value": 1516
 	},
 	{
 		"code": "VE",

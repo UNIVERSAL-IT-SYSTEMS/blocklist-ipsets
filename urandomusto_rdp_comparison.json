@@ -140,7 +140,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 656911157,
+		"ips": 656911158,
 		"common": 1
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 38417,
+		"ips": 38433,
 		"common": 2
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 153318,
+		"ips": 153342,
 		"common": 3
 	},
 	{
